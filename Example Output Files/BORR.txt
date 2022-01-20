@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:62.6242
+-----------------------------------------  --------------------------
+Ticker                                     BORR
+Timestamp                                  2020-06-12 08:46:31.629941
+Comp Name                                  Borr Drilling Ltd.
+Industry                                   Contract Drilling
+Sector                                     Industrial Services
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:7.7354
+---------------------------------  -----
+Total Run Count                    20
+Held High Perc                      0.4
+VWavg Run                           2.58
+Avg Continuation                   -0.03
+
+### VOLUME STATS -- Score:41.8843
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             3,902,268  Time Adj Curr Vol        36,082,926.07
+Curr RVOL                            3.72       Time Adj RVOL            34.4
+Curr Vol Rank                        16         Time Adj Vol Rank        2
+Float Rotation                       0.05       Time Adj Float Rotation  0.44
+
+### SHARE STATS -- Score:13.0045
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          119,678,131
+Shares Outstanding                  110,823,427
+Float                               81,553,144
+Short Float                         0.01
+Short Interest                      2,041,819    Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,850,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI             -
+Cash              -
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+shortsqueeze ['Market Cap']
+finviz ['News Headlines']
+marketwatch financials ['Request Failure']

@@ -1,0 +1,46 @@
+### GENERAL INFO -- Total Score:187.6632
+------------------------------------------  --------------------------------
+Ticker                                      ZKIN
+Timestamp                                   2020-06-12 08:47:56.780330
+Comp Name                                   ZK International Group Co., Ltd.
+Industry                                    Industrial Conglomerates
+Sector                                      Producer Manufacturing
+Exchange                                    NASDAQ
+
+### PRICE STATS -- Score:6.5604
+---------------------------------  -----
+Total Run Count                    14
+Held High Perc                      0.21
+VWavg Run                           0.61
+Avg Continuation                    0.05
+
+### VOLUME STATS -- Score:150.9185
+------------------------------------  ---------  -----------------------  -------------
+Curr Vol                              3,877,725  Time Adj Curr Vol        29,109,584.41
+Curr RVOL                             18.06      Time Adj RVOL            135.58
+Curr Vol Rank                         3          Time Adj Vol Rank        1
+Float Rotation                        0.9        Time Adj Float Rotation  6.75
+
+### SHARE STATS -- Score:30.1843
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          22,188,102
+Shares Outstanding                  16,623,977
+Float                               4,315,055
+Short Float                         0.01
+Short Interest                      45,500      Report Date             2020-JunA
+Prev Month Short Interest           11,057,499  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,730,000
+Cash              3,450,000
+ST Debt           6,970,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 08:31:48', "ZK Int'l. Reports Has Budgeted $49.7M Expansion, Supplying, Distribution Framework Arrangement With Shandong Huaye Group", 'https://www.benzinga.com/news/20/06/16241695/zk-intl-reports-has-budgeted-49-7m-expansion-supplying-distribution-framework-arrangement-with-shand']
+['2020-06-12 08:30:00', 'ZK International Enters into Budgeted $49.7 Million Expansion, Supplying and Distribution Framework Arrangement with Shandong Huaye Group PR Newswire +41.79%', 'https://finance.yahoo.com/news/zk-international-enters-budgeted-49-123000072.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

@@ -1,0 +1,49 @@
+### GENERAL INFO -- Total Score:22.3571
+-----------------------------------------  --------------------------
+Ticker                                     NE
+Timestamp                                  2020-06-12 08:48:17.497386
+Comp Name                                  Noble Corp. Plc
+Industry                                   Contract Drilling
+Sector                                     Industrial Services
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:7.332
+--------------------------------  -----
+Total Run Count                   15
+Held High Perc                     0.47
+VWavg Run                          2.28
+Avg Continuation                  -0
+
+### VOLUME STATS -- Score:2.152
+---------------------------------  ---------  -----------------------  -------------
+Curr Vol                           4,127,623  Time Adj Curr Vol        30,985,536.66
+Curr RVOL                          0.62       Time Adj RVOL            4.63
+Curr Vol Rank                      229        Time Adj Vol Rank        9
+Float Rotation                     0.02       Time Adj Float Rotation  0.13
+
+### SHARE STATS -- Score:12.8731
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          76,791,594
+Shares Outstanding                  250,945,828
+Float                               247,693,807
+Short Float                         0.13
+Short Interest                      25,965,297   Report Date             2020-JunA
+Prev Month Short Interest           22,120,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------------
+CASTI             177,230,000
+Cash              177,230,000
+ST Debt           8,690,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']
