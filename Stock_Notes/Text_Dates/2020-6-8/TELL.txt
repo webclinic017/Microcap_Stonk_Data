@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              TELL
+Timestamp           2020-06-08 08:59:50.992706
+Comp Name           Tellurian, Inc.
+Industry            Integrated Oil
+Sector              Energy Minerals
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    5
+Held High Perc     0.4
+VWavg Run          0.33
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            7,535,076  Time Adj Curr Vol        41,778,069.34
+Curr RVOL           3.46       Time Adj RVOL            19.16
+Curr Vol Rank       8          Time Adj Vol Rank        1
+Float Rotation      0.05       Time Adj Float Rotation  0.3
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 312,829,740
+Shares Outstanding         267,170,993
+Float                      139,002,362
+Short Float                0.2
+Short Interest             28,994,707   Report Date             2020-MayB
+Prev Month Short Interest  26,815,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             57,810,000
+Cash              55,450,000
+ST Debt           190,030,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS

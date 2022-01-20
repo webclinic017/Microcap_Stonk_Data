@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:229.973
+-----------------------------------------  --------------------------
+Ticker                                     FAMI
+Timestamp                                  2020-06-12 08:46:54.224152
+Comp Name                                  Farmmi, Inc.
+Industry                                   Food Retail
+Sector                                     Retail Trade
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:4.9189
+---------------------------------  -----
+Total Run Count                    20
+Held High Perc                      0.2
+VWavg Run                           0.82
+Avg Continuation                   -0.52
+
+### VOLUME STATS -- Score:178.1419
+------------------------------------  ---------  -----------------------  -------------
+Curr Vol                              2,264,291  Time Adj Curr Vol        20,937,117.79
+Curr RVOL                             11.12      Time Adj RVOL            102.82
+Curr Vol Rank                         3          Time Adj Vol Rank        1
+Float Rotation                        1.64       Time Adj Float Rotation  15.17
+
+### SHARE STATS -- Score:46.9122
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          9,320,501
+Shares Outstanding                  14,683,214
+Float                               1,379,991
+Short Float                         0.06
+Short Interest                      101,119     Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,006,549  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI             -
+Cash              -
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 06:03:15', "Farmmi Reports Will Participate In China's Import And Export Fair Running Jun. 15-24", 'https://www.benzinga.com/news/20/06/16230061/farmmi-reports-will-participate-in-chinas-import-and-export-fair-running-jun-15-24']
+['2020-06-11 06:00:00', "Farmmi to Participate in China's Oldest and Largest International Exhibition PR Newswire +19.57%", 'https://finance.yahoo.com/news/farmmi-participate-chinas-oldest-largest-100000939.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch financials ['Request Failure']

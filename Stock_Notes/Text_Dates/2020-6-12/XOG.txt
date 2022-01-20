@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:56.1408
+-----------------------------------------  --------------------------
+Ticker                                     XOG
+Timestamp                                  2020-06-12 08:46:09.063284
+Comp Name                                  Extraction Oil & Gas, Inc.
+Industry                                   Oil & Gas Production
+Sector                                     Energy Minerals
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:12.5558
+----------------------------------  -----
+Total Run Count                     19
+Held High Perc                       0.58
+VWavg Run                            3.14
+Avg Continuation                     0.69
+
+### VOLUME STATS -- Score:21.9882
+-----------------------------------  ---------  -----------------------  ------------
+Curr Vol                             3,889,091  Time Adj Curr Vol        35,961,082.9
+Curr RVOL                            1.02       Time Adj RVOL            9.48
+Curr Vol Rank                        119        Time Adj Vol Rank        2
+Float Rotation                       0.06       Time Adj Float Rotation  0.52
+
+### SHARE STATS -- Score:21.5968
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          80,132,167
+Shares Outstanding                  138,135,007
+Float                               69,169,079
+Short Float                         0.33
+Short Interest                      22,954,866   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           22,670,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------------
+CASTI             31,990,000
+Cash              31,990,000
+ST Debt           5,320,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

@@ -1,0 +1,45 @@
+### GENERAL INFO -- Total Score:640.6543
+------------------------------------------  -----------------------------
+Ticker                                      CHNR
+Timestamp                                   2020-06-12 08:44:40.936309
+Comp Name                                   China Natural Resources, Inc.
+Industry                                    Wholesale Distributors
+Sector                                      Distribution Services
+Exchange                                    NASDAQ
+
+### PRICE STATS -- Score:5.6102
+---------------------------------  -----
+Total Run Count                    19
+Held High Perc                      0.26
+VWavg Run                           0.92
+Avg Continuation                   -0.34
+
+### VOLUME STATS -- Score:609.5532
+------------------------------------  ---------  -----------------------  -------------
+Curr Vol                              5,277,718  Time Adj Curr Vol        48,801,237.75
+Curr RVOL                             364.69     Time Adj RVOL            3,372.17
+Curr Vol Rank                         1          Time Adj Vol Rank        1
+Float Rotation                        0.56       Time Adj Float Rotation  5.16
+
+### SHARE STATS -- Score:25.4909
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          23,765,175
+Shares Outstanding                  24,912,999
+Float                               9,448,683
+Short Float                         0.0
+Short Interest                      1,071       Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           21,971,799  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------
+CASTI             638,586
+Cash              638,586
+ST Debt           350,159
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Prev Month Short Interest', 'Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

@@ -1,0 +1,61 @@
+### GENERAL INFO -- Total Score:31.075
+----------------------------------------  ---------------------------------
+Ticker                                    GNUS
+Timestamp                                 2020-06-12 08:48:48.882657
+Comp Name                                 Genius Brands International, Inc.
+Industry                                  Movies/Entertainment
+Sector                                    Consumer Services
+Exchange                                  NASDAQ
+
+### PRICE STATS -- Score:15.198
+---------------------------------  -----
+Total Run Count                    33
+Held High Perc                      0.39
+VWavg Run                           2.82
+Avg Continuation                    3.04
+
+### VOLUME STATS -- Score:4.9426
+----------------------------------  ----------  -----------------------  --------------
+Curr Vol                            16,066,146  Time Adj Curr Vol        120,606,498.19
+Curr RVOL                           2.47        Time Adj RVOL            18.55
+Curr Vol Rank                       23          Time Adj Vol Rank        8
+Float Rotation                      0.17        Time Adj Float Rotation  1.27
+
+### SHARE STATS -- Score:10.9344
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          365,642,728
+Shares Outstanding                  130,518,284
+Float                               94,883,651
+Short Float                         0.04
+Short Interest                      3,785,379    Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           12,520,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             5,700,000
+Cash              5,700,000
+ST Debt           4,099,999
+LT Debt           10,370,000
+
+### NEWS HEADLINES
+['2020-06-12 09:02:20', "Genius Brands Highlights Launch Of New 'Kartoon Channel!' On Mon., May 15 In 100+ US TV Households", 'https://www.benzinga.com/news/20/06/16241958/genius-brands-highlights-launch-of-new-kartoon-channel-on-mon-may-15-in-100-us-tv-households']
+['2020-06-12 09:00:00', 'Genius Brands International Launches The New "Kartoon Channel!" Monday June 15 in Over 100 Million U.S. Television Households and 200 Million Mobile Devices With Over 4,000 Episodes of Family-Friendly Content GlobeNewswire +27.54%', 'https://finance.yahoo.com/news/genius-brands-international-launches-kartoon-130010606.html']
+['2020-06-12 07:47:30', "14 Communication Services Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241231/14-communication-services-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-11 16:51:00', 'Why Genius Brands Shares Crashed Again Today Motley Fool -23.50%', 'https://www.fool.com/investing/2020/06/11/why-genius-brands-shares-crashed-again-today.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 14:33:34', 'Mid-Afternoon Market Update: Crude Oil Down 8%; Mustang Bio Shares Slide', 'https://www.benzinga.com/news/20/06/16236396/mid-afternoon-market-update-crude-oil-down-8-mustang-bio-shares-slide']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 12:04:32', 'Mid-Day Market Update: Dow Plunges Over 1100 Points; Reata Pharmaceuticals Shares Jump', 'https://www.benzinga.com/news/20/06/16234609/mid-day-market-update-dow-plunges-over-1100-points-reata-pharmaceuticals-shares-jump']
+['2020-06-11 10:36:00', "Genius Brands stock plunges, has lost more than half its value since last week's peak MarketWatch", 'https://www.marketwatch.com/story/genius-brands-stock-plunges-has-lost-more-than-half-its-value-since-last-weeks-peak-2020-06-11?siteid=yhoof2']
+['2020-06-11 10:03:33', 'Morning Market Stats in 5 Minutes', 'https://www.benzinga.com/markets/20/06/16232527/morning-market-stats-in-5-minutes']
+['2020-06-11 07:55:24', "Benzinga Pro's Top 5 Stocks To Watch For Thurs., Jun. 11, 2020: TGT, LTRN, GNUS, LULU, EDU", 'https://www.benzinga.com/pre-market-outlook/20/06/16230848/benzinga-pros-top-5-stocks-to-watch-for-thurs-jun-11-2020-tgt-ltrn-gnus-lulu-edu']
+['2020-06-11 07:33:12', "16 Communication Services Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230683/16-communication-services-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 07:18:29', "28 Stocks Moving in Thursday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16230592/28-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 07:13:00', '3 Things Genius Brands Stock Bulls Need to Happen Soon Motley Fool', 'https://www.fool.com/investing/2020/06/11/3-things-genius-brands-stock-bulls-need-to-happen.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 06:02:00', 'Is Genius Brands International Stock a Buy? Motley Fool', 'https://www.fool.com/investing/2020/06/11/is-genius-brands-international-stock-a-buy.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-10 18:43:00', 'Why Genius Brands Stock Surged Today Motley Fool +13.60%', 'https://www.fool.com/investing/2020/06/10/why-genius-brands-stock-surged-today.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

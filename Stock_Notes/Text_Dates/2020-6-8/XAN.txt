@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  -----------------------------
+Ticker              XAN
+Timestamp           2020-06-08 10:11:14.036934
+Comp Name           Exantas Capital Corp.
+Industry            Real Estate Investment Trusts
+Sector              Finance
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    13
+Held High Perc      0.39
+VWavg Run           1.12
+Avg Continuation    0.02
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,091,047  Time Adj Curr Vol        7,629,624.91
+Curr RVOL           6.92       Time Adj RVOL            17.07
+Curr Vol Rank       8          Time Adj Vol Rank        2
+Float Rotation      0.1        Time Adj Float Rotation  0.25
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 91,640,180
+Shares Outstanding         32,041,983
+Float                      31,028,373
+Short Float                0.12
+Short Interest             3,606,764   Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  1,980,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             108,100,000
+Cash              108,100,000
+ST Debt           321,760,000
+LT Debt           22,070,000
+
+### NEWS HEADLINES
+['2020-06-08 08:10:55', "10 Real Estate Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199778/10-real-estate-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

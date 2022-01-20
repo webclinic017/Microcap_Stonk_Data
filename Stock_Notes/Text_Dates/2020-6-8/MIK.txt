@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              MIK
+Timestamp           2020-06-08 10:13:34.876227
+Comp Name           Michaels Cos., Inc.
+Industry            Specialty Stores
+Sector              Retail Trade
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    11
+Held High Perc      0.64
+VWavg Run           0.67
+Avg Continuation    1.01
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            9,843,517  Time Adj Curr Vol        23,562,990.12
+Curr RVOL           2.61       Time Adj RVOL            6.25
+Curr Vol Rank       16         Time Adj Vol Rank        2
+Float Rotation      0.11       Time Adj Float Rotation  0.27
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 755,477,179
+Shares Outstanding         147,328,067
+Float                      87,449,637
+Short Float                0.4
+Short Interest             29,347,930   Report Date             2020-MayB
+Prev Month Short Interest  27,275,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             926,830,000
+Cash              926,830,000
+ST Debt           3,290,000,000
+LT Debt           94,290,000
+
+### NEWS HEADLINES
+['2020-06-08 10:26:00', 'This J.P. Morgan Analyst Thinks Michaels Is Going to Double Motley Fool +34.21%', 'https://www.fool.com/investing/2020/06/08/this-jp-morgan-analyst-thinks-michaels-is-going-to.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-08 09:02:54', 'Morgan Stanley Maintains Underweight on Michaels Companies, Raises Price Target to $5', 'https://www.benzinga.com/news/20/06/16200983/morgan-stanley-maintains-underweight-on-michaels-companies-raises-price-target-to-5']
+['2020-06-08 07:07:31', "The Michaels companies are trading higher after JP Morgan upgraded the company's stock from Neutral to Overweight and announced a $13 price target.", 'https://www.benzinga.com/wiim/20/06/16199576/the-michaels-companies-are-trading-higher-after-jp-morgan-upgraded-the-companys-stock-from-neutral-t']
+['2020-06-08 05:00:11', 'JP Morgan Upgrades Michaels Companies to Overweight, Announces $13 Price Target', 'https://www.benzinga.com/news/20/06/16198956/jp-morgan-upgrades-michaels-companies-to-overweight-announces-13-price-target']
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

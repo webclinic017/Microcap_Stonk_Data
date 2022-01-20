@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  -----------------------------
+Ticker              WPG
+Timestamp           2020-06-08 08:58:53.654924
+Comp Name           Washington Prime Group, Inc.
+Industry            Real Estate Investment Trusts
+Sector              Finance
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    9
+Held High Perc     0.67
+VWavg Run          0.69
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,267,884  Time Adj Curr Vol        34,752,150.13
+Curr RVOL           1.56       Time Adj RVOL            8.68
+Curr Vol Rank       56         Time Adj Vol Rank        1
+Float Rotation      0.03       Time Adj Float Rotation  0.19
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 205,466,614
+Shares Outstanding         187,361,241
+Float                      185,333,045
+Short Float                0.4
+Short Interest             74,510,000   Report Date             2020-MayB
+Prev Month Short Interest  67,730,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             39,610,000
+Cash              39,610,000
+ST Debt           92,180,000
+LT Debt           73,160,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+finviz ['Short Interest']

@@ -1,0 +1,96 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                VERO
+Timestamp                             2020-06-15 07:52:04.585196
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:11.9328
+----------------------------------  -----
+Total Run Count                     29
+Held High Perc                       0.59
+VWavg Run                            0.97
+Avg Continuation                    -0.61
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:19.4973
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          123,685,500
+Shares Outstanding                  16,105,140,067,504
+Float                               12,024,008
+Short Float                         0.0
+Short Interest                      55,224              Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,012,049          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             20,710,000
+Cash              20,710,000
+ST Debt           13,460,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:34:21', 'Venus Concept Reports FDA 510(k) Clearance For Venus Epileve', 'https://www.benzinga.com/news/20/06/16251758/venus-concept-reports-fda-510-k-clearance-for-venus-epileve']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Market Cap']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                VERO
+Timestamp                             2020-06-15 07:52:04.585196
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:11.9328
+----------------------------------  -----
+Total Run Count                     29
+Held High Perc                       0.59
+VWavg Run                            0.97
+Avg Continuation                    -0.61
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:19.4973
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          123,685,500
+Shares Outstanding                  16,105,140,067,504
+Float                               12,024,008
+Short Float                         0.0
+Short Interest                      55,224              Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,012,049          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             20,710,000
+Cash              20,710,000
+ST Debt           13,460,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:34:21', 'Venus Concept Reports FDA 510(k) Clearance For Venus Epileve', 'https://www.benzinga.com/news/20/06/16251758/venus-concept-reports-fda-510-k-clearance-for-venus-epileve']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Market Cap']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']

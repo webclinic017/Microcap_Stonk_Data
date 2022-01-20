@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:397.628
+-----------------------------------------  --------------------------
+Ticker                                     CTIB
+Timestamp                                  2020-06-12 08:38:01.489703
+Comp Name                                  Yunhong CTI Ltd.
+Industry                                   Industrial Specialties
+Sector                                     Process Industries
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:10.6365
+----------------------------------  -----
+Total Run Count                     19
+Held High Perc                       0.47
+VWavg Run                            2.16
+Avg Continuation                     0.17
+
+### VOLUME STATS -- Score:346.7803
+------------------------------------  ---------  -----------------------  -------------
+Curr Vol                              4,105,355  Time Adj Curr Vol        50,939,905.79
+Curr RVOL                             40.18      Time Adj RVOL            498.61
+Curr Vol Rank                         2          Time Adj Vol Rank        1
+Float Rotation                        1.96       Time Adj Float Rotation  24.35
+
+### SHARE STATS -- Score:40.2112
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          10,202,768
+Shares Outstanding                  5,788,017
+Float                               2,091,760
+Short Float                         0.0
+Short Interest                      1,027       Report Date             2020-JunA
+Prev Month Short Interest           10,986,849  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI             -
+Cash              -
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:25:25', 'Yunhong CTI shares are trading higher following an amended 13D filing from LF International which disclosed a 56.9% stake in the company.', 'https://www.benzinga.com/wiim/20/06/16241185/yunhong-cti-shares-are-trading-higher-following-an-amended-13d-filing-from-lf-international-which-di']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 06:49:23', "CTI Industries Shares Up ~70% Over Last 20 Mins Following Amended 13D Filing From LF Int'l. Showing 56.9% Stake", 'https://www.benzinga.com/news/20/06/16240895/cti-industries-shares-up-70-over-last-20-mins-following-amended-13d-filing-from-lf-intl-showing-56-9']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch financials ['Request Failure']

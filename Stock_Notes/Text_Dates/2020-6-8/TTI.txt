@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  ---------------------------
+Ticker              TTI
+Timestamp           2020-06-08 10:15:40.936613
+Comp Name           TETRA Technologies, Inc.
+Industry            Oilfield Services/Equipment
+Sector              Industrial Services
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.5
+VWavg Run           0.97
+Avg Continuation   -0.12
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,512,912  Time Adj Curr Vol        15,590,330.28
+Curr RVOL           5.45       Time Adj RVOL            13.05
+Curr Vol Rank       8          Time Adj Vol Rank        3
+Float Rotation      0.05       Time Adj Float Rotation  0.13
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 68,665,298
+Shares Outstanding         125,898,759
+Float                      121,271,787
+Short Float                0.03
+Short Interest             3,490,000    Report Date             2020-MayB
+Prev Month Short Interest  4,480,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             29,530,000
+Cash              29,530,000
+ST Debt           1,590,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+finviz ['Short Interest']

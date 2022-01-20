@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              HCR
+Timestamp           2020-06-08 10:17:44.886882
+Comp Name           Hi-Crush, Inc.
+Industry            Other Metals/Minerals
+Sector              Non-Energy Minerals
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.43
+VWavg Run           0.75
+Avg Continuation   -0.03
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,556,482  Time Adj Curr Vol        10,616,119.51
+Curr RVOL           4.73       Time Adj RVOL            11.02
+Curr Vol Rank       3          Time Adj Vol Rank        1
+Float Rotation      0.05       Time Adj Float Rotation  0.11
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 35,317,789
+Shares Outstanding         100,907,901
+Float                      95,194,651
+Short Float                0.08
+Short Interest             7,601,972    Report Date             2020-MayB
+Prev Month Short Interest  7,890,000    Prev Month Report Date
+
+### FINANCIALS
+----------------  -----------
+CASTI             57,560,000
+Cash              57,560,000
+ST Debt           984,340,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

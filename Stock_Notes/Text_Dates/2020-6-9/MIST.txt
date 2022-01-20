@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              MIST
+Timestamp           2020-06-09 09:03:02.291454
+Comp Name           Milestone Pharmaceuticals, Inc.
+Industry            Pharmaceuticals: Major
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    10
+Held High Perc      0.5
+VWavg Run           0.62
+Avg Continuation   -0.08
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,663,504  Time Adj Curr Vol        23,109,793.92
+Curr RVOL           10.23      Time Adj RVOL            50.69
+Curr Vol Rank       5          Time Adj Vol Rank        2
+Float Rotation      0.36       Time Adj Float Rotation  1.78
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 105,331,284
+Shares Outstanding         24,729,841
+Float                      12,996,962
+Short Float                0.04
+Short Interest             553,835      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,568,059   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             101,820,000
+Cash              101,820,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 05:06:13', '95 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16209181/95-biggest-movers-from-yesterday']
+['2020-06-08 12:03:44', "71 Stocks Moving In Monday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16203382/71-stocks-moving-in-mondays-mid-day-session']
+['2020-06-08 11:41:28', 'Shares of several healthcare companies are trading higher on continued optimism amid the reopening of the economy, which would increase consumer spending and economic activity.', 'https://www.benzinga.com/wiim/20/06/16203159/shares-of-several-healthcare-companies-are-trading-higher-on-continued-optimism-amid-the-reopening-o']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

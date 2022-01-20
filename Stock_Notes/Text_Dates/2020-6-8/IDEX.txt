@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              IDEX
+Timestamp           2020-06-08 08:58:40.002102
+Comp Name           Ideanomics, Inc.
+Industry            Information Technology Services
+Sector              Technology Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.44
+VWavg Run           0.94
+Avg Continuation   -0.04
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            8,799,962  Time Adj Curr Vol        48,791,202.98
+Curr RVOL           9.38       Time Adj RVOL            52.02
+Curr Vol Rank       5          Time Adj Vol Rank        1
+Float Rotation      0.07       Time Adj Float Rotation  0.38
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 78,729,023
+Shares Outstanding         167,351,607
+Float                      129,772,735
+Short Float                0.06
+Short Interest             8,984,300    Report Date             2020-MayB
+Prev Month Short Interest  7,820,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             5,910,000
+Cash              5,910,000
+ST Debt           19,350,000
+LT Debt           10,790,000
+
+### NEWS HEADLINES
+['2020-06-08 08:49:47', 'Ideanomics MEG Begins EV Taxi Deliveries in Guilin, Guanxi Province', 'https://www.benzinga.com/news/20/06/16200689/ideanomics-meg-begins-ev-taxi-deliveries-in-guilin-guanxi-province']
+['2020-06-08 08:48:00', 'Ideanomics MEG Begins EV Taxi Deliveries in Guilin, Guanxi Province PR Newswire +42.52%', 'https://finance.yahoo.com/news/ideanomics-meg-begins-ev-taxi-124800878.html']
+['2020-06-08 07:39:59', "17 Technology Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199775/17-technology-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

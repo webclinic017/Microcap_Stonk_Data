@@ -1,0 +1,45 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                BIOC
+Timestamp                             2020-06-15 08:12:51.679956
+Comp Name                             Biocept, Inc.
+Industry                              Medical/Nursing Services
+Sector                                Health Services
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:9.6532
+---------------------------------  -----
+Total Run Count                    34
+Held High Perc                      0.35
+VWavg Run                           1.34
+Avg Continuation                   -0.02
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:12.773
+---------------------------------  -----------  ----------------------  -------------------
+Market Cap                         72,630,057
+Shares Outstanding                 141,652,011
+Float                              131,060,035
+Short Float                        0.01
+Short Interest                     15,821,964   Report Date             2020-JunA
+Prev Month Short Interest          11,485,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             21,490,000
+Cash              21,490,000
+ST Debt           9,660,000
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

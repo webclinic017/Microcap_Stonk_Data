@@ -1,0 +1,51 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              IZEA
+Timestamp           2020-06-09 08:52:08.930643
+Comp Name           IZEA Worldwide, Inc.
+Industry            Packaged Software
+Sector              Technology Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    33
+Held High Perc      0.33
+VWavg Run           3.02
+Avg Continuation    0.83
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            19,592,164  Time Adj Curr Vol        147,075,863.25
+Curr RVOL           10.5        Time Adj RVOL            78.78
+Curr Vol Rank       6           Time Adj Vol Rank        1
+Float Rotation      0.61        Time Adj Float Rotation  4.57
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 44,247,667
+Shares Outstanding         35,982,425
+Float                      32,191,476
+Short Float                0.02
+Short Interest             588,294     Report Date             2020-MayB
+Prev Month Short Interest  10,439,959  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI
+Cash
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 08:22:38', "Benzinga Pro's Top 5 Stocks To Watch For Tues., Jun. 9, 2020: TSLA, IZEA, FIVE, M, OPK", 'https://www.benzinga.com/pre-market-outlook/20/06/16210755/benzinga-pros-top-5-stocks-to-watch-for-tues-jun-9-2020-tsla-izea-five-m-opk']
+['2020-06-09 07:33:45', "18 Communication Services Stocks Moving In Tuesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16210025/18-communication-services-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 07:11:42', "34 Stocks Moving in Tuesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16209870/34-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-08 14:01:28', 'IZEA Announces New Fortune 500 Customer', 'https://www.benzinga.com/news/20/06/16204789/izea-announces-new-fortune-500-customer']
+['2020-06-08 14:00:00', 'IZEA Announces New Fortune 500 Customer GlobeNewswire +110.03%', 'https://finance.yahoo.com/news/izea-announces-fortune-500-customer-180010057.html']
+['2020-06-08 11:37:09', 'Shares of several communication companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16203111/shares-of-several-communication-companies-are-trading-higher-on-continued-upward-momentum-surroundin']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+marketwatch financials ['Request Failure']

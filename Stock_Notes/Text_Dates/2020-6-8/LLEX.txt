@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              LLEX
+Timestamp           2020-06-08 11:26:06.149256
+Comp Name           Lilis Energy, Inc.
+Industry            Oil & Gas - E&P
+Sector              Energy
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    25
+Held High Perc      0.4
+VWavg Run           0.87
+Avg Continuation   -0.4
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            21,533,802  Time Adj Curr Vol        38,568,084.84
+Curr RVOL           12.62       Time Adj RVOL            22.61
+Curr Vol Rank       4           Time Adj Vol Rank        1
+Float Rotation      0.28        Time Adj Float Rotation  0.5
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 20,976,093
+Shares Outstanding         95,389,500
+Float                      76,532,354
+Short Float                0.06
+Short Interest             4,674,696   Report Date             2020-MayB
+Prev Month Short Interest  5,440,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             3,750,000
+Cash              3,750,000
+ST Debt           590,300,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

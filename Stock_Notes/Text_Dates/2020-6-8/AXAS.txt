@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              AXAS
+Timestamp           2020-06-08 08:59:07.015938
+Comp Name           Abraxas Petroleum Corp.
+Industry            Integrated Oil
+Sector              Energy Minerals
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    15
+Held High Perc      0.53
+VWavg Run           1.03
+Avg Continuation   -0.24
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            16,648,617  Time Adj Curr Vol        92,307,904.45
+Curr RVOL           5.43        Time Adj RVOL            30.12
+Curr Vol Rank       9           Time Adj Vol Rank        3
+Float Rotation      0.1         Time Adj Float Rotation  0.57
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 46,500,497
+Shares Outstanding         168,399,333
+Float                      163,208,324
+Short Float                0.1
+Short Interest             15,930,000   Report Date             2020-MayB
+Prev Month Short Interest  8,730,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             7,140,000
+Cash              7,140,000
+ST Debt           1,190,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+finviz ['Short Interest']

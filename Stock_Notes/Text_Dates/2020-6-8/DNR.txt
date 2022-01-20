@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              DNR
+Timestamp           2020-06-08 08:57:17.737240
+Comp Name           Denbury Resources Inc.
+Industry            Oil & Gas - E&P
+Sector              Energy
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.57
+VWavg Run           0.9
+Avg Continuation   -0.25
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            37,081,382  Time Adj Curr Vol        234,902,636.04
+Curr RVOL           2.5         Time Adj RVOL            15.82
+Curr Vol Rank       7           Time Adj Vol Rank        1
+Float Rotation      0.07        Time Adj Float Rotation  0.47
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 184,764,518
+Shares Outstanding         506,481,398
+Float                      498,960,223
+Short Float                0.28
+Short Interest             134,880,000  Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  115,460,000  Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             6,920,000
+Cash              6,920,000
+ST Debt           16,100,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              SFUN
+Timestamp           2020-06-10 10:12:47.473600
+Comp Name           Fang Holdings Ltd.
+Industry            Internet Software/Services
+Sector              Technology Services
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    8
+Held High Perc     0.62
+VWavg Run          0.31
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,182,947  Time Adj Curr Vol        12,406,716.93
+Curr RVOL           25.03      Time Adj RVOL            59.91
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.11       Time Adj Float Rotation  0.25
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 138,194,746
+Shares Outstanding         102,906,209
+Float                      49,126,629
+Short Float                0.02
+Short Interest             918,599      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,808,709   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             518,789,999
+Cash              399,810,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 17:14:00', 'Edited Transcript of SFUN earnings conference call or presentation 4-Jun-20 12:00pm GMT Thomson Reuters StreetEvents', 'https://finance.yahoo.com/news/edited-transcript-sfun-earnings-conference-211026765.html']
+
+
+### ERRORS

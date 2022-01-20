@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  ----------------------------------------
+Ticker              ATNM
+Timestamp           2020-06-10 08:55:08.505436
+Comp Name           Actinium Pharmaceuticals Inc. (Delaware)
+Industry            Biotechnology
+Sector              Healthcare
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.36
+VWavg Run           1.48
+Avg Continuation   -0.34
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            13,979,603  Time Adj Curr Vol        77,509,612.84
+Curr RVOL           4.85        Time Adj RVOL            26.9
+Curr Vol Rank       11          Time Adj Vol Rank        3
+Float Rotation      0.06        Time Adj Float Rotation  0.31
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 135,714,575
+Shares Outstanding         201,141,168
+Float                      248,179,233
+Short Float                0.01
+Short Interest             2,885,739    Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  11,334,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             9,300,000
+Cash              9,300,000
+ST Debt           1,380,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 08:47:00', 'Actinium Pharmaceuticals (ATNM) Jumps: Stock Rises 6.7% Zacks +39.81%', 'https://finance.yahoo.com/news/actinium-pharmaceuticals-atnm-jumps-stock-124712095.html']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

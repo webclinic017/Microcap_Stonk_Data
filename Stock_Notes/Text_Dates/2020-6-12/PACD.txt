@@ -1,0 +1,46 @@
+### GENERAL INFO -- Total Score:52.2134
+-----------------------------------------  --------------------------
+Ticker                                     PACD
+Timestamp                                  2020-06-12 08:49:01.541028
+Comp Name                                  Pacific Drilling SA
+Industry                                   Contract Drilling
+Sector                                     Industrial Services
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:6.9315
+---------------------------------  -----
+Total Run Count                    20
+Held High Perc                      0.35
+VWavg Run                           3.25
+Avg Continuation                   -0.22
+
+### VOLUME STATS -- Score:27.8021
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             4,070,381  Time Adj Curr Vol        30,555,828.31
+Curr RVOL                            3.96       Time Adj RVOL            29.73
+Curr Vol Rank                        12         Time Adj Vol Rank        4
+Float Rotation                       0.06       Time Adj Float Rotation  0.47
+
+### SHARE STATS -- Score:17.4798
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          33,839,333
+Shares Outstanding                  75,235,472
+Float                               65,650,899
+Short Float                         0.04
+Short Interest                      16,218,630  Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           12,955,899  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             280,060,000
+Cash              280,060,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']

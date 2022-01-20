@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  ------------------------------
+Ticker              IVR
+Timestamp           2020-06-08 10:11:30.220237
+Comp Name           Invesco Mortgage Capital, Inc.
+Industry            Real Estate Investment Trusts
+Sector              Finance
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    10
+Held High Perc      0.5
+VWavg Run           0.87
+Avg Continuation   -0.23
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            39,392,283  Time Adj Curr Vol        97,231,890.51
+Curr RVOL           10.77       Time Adj RVOL            26.59
+Curr Vol Rank       2           Time Adj Vol Rank        1
+Float Rotation      0.24        Time Adj Float Rotation  0.59
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 697,849,837
+Shares Outstanding         164,978,276
+Float                      164,557,092
+Short Float                0.22
+Short Interest             36,952,578   Report Date             2020-MayB
+Prev Month Short Interest  20,095,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             289,500,000
+Cash              289,500,000
+ST Debt           17,830,000,000
+LT Debt           232,340,000
+
+### NEWS HEADLINES
+['2020-06-08 08:10:55', "10 Real Estate Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199778/10-real-estate-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

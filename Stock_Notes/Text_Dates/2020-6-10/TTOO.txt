@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              TTOO
+Timestamp           2020-06-10 13:23:31.383464
+Comp Name           T2 Biosystems, Inc.
+Industry            Biotechnology
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ------
+Total Run Count      4
+Held High Perc       0.75
+VWavg Run          inf
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            23,424,860  Time Adj Curr Vol        31,412,118.55
+Curr RVOL                       Time Adj RVOL
+Curr Vol Rank       273         Time Adj Vol Rank        273
+Float Rotation      0.25        Time Adj Float Rotation  0.33
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 148,115,809
+Shares Outstanding         122,029,982
+Float                      94,579,024
+Short Float                0.07
+Short Interest             7,242,331    Report Date             2020-JunA
+Prev Month Short Interest  13,399,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             36,320,000
+Cash              36,320,000
+ST Debt           20,890,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+get curr day volume ['Cant get TOS curr day volume']

@@ -1,0 +1,44 @@
+### GENERAL INFO -- Total Score:475.7658
+------------------------------------------  --------------------------
+Ticker                                      KBSF
+Timestamp                                   2020-06-12 08:45:14.188890
+Comp Name                                   KBS Fashion Group Ltd.
+Industry                                    Apparel/Footwear
+Sector                                      Consumer Non-Durables
+Exchange                                    NASDAQ
+
+### PRICE STATS -- Score:5.9844
+---------------------------------  -----
+Total Run Count                    28
+Held High Perc                      0.18
+VWavg Run                           1.36
+Avg Continuation                   -0.37
+
+### VOLUME STATS -- Score:418.4512
+------------------------------------  ---------  -----------------------  -------------
+Curr Vol                              4,284,276  Time Adj Curr Vol        39,615,222.27
+Curr RVOL                             80.22      Time Adj RVOL            741.73
+Curr Vol Rank                         1          Time Adj Vol Rank        1
+Float Rotation                        3.12       Time Adj Float Rotation  28.81
+
+### SHARE STATS -- Score:51.3302
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          5,699,980
+Shares Outstanding                  2,893,065
+Float                               1,375,263
+Short Float                         0.02
+Short Interest                      23,699      Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,987,749  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             20,200,000
+Cash              20,200,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

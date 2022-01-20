@@ -1,0 +1,94 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                ANTE
+Timestamp                             2020-06-15 07:52:35.916626
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:8.9217
+---------------------------------  ----
+Total Run Count                    17
+Held High Perc                     0.47
+VWavg Run                          1.07
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:28.2365
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          11,906,901
+Shares Outstanding                  62,832,457,567,504
+Float                               15,441,614
+Short Float                         0.0
+Short Interest                      27,814              Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,992,749          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             8,020,000
+Cash              8,020,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                ANTE
+Timestamp                             2020-06-15 07:52:35.916626
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:8.9217
+---------------------------------  ----
+Total Run Count                    17
+Held High Perc                     0.47
+VWavg Run                          1.07
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:28.2365
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          11,906,901
+Shares Outstanding                  62,832,457,567,504
+Float                               15,441,614
+Short Float                         0.0
+Short Interest                      27,814              Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,992,749          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             8,020,000
+Cash              8,020,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']

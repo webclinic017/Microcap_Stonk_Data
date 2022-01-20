@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              SDRL
+Timestamp           2020-06-08 08:57:55.165026
+Comp Name           Seadrill Ltd.
+Industry            Contract Drilling
+Sector              Industrial Services
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    15
+Held High Perc      0.67
+VWavg Run           0.64
+Avg Continuation   -0.59
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            8,423,769  Time Adj Curr Vol        46,705,408.86
+Curr RVOL           7.3        Time Adj RVOL            40.45
+Curr Vol Rank       3          Time Adj Vol Rank        1
+Float Rotation      0.12       Time Adj Float Rotation  0.64
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 39,530,040
+Shares Outstanding         403,471,750
+Float                      72,977,763
+Short Float                0.07
+Short Interest             5,040,833    Report Date             2020-MayB
+Prev Month Short Interest  8,520,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             1,110,000,000
+Cash              1,110,000,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS

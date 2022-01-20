@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              REI
+Timestamp           2020-06-08 10:14:24.221273
+Comp Name           Ring Energy, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    11
+Held High Perc      0.55
+VWavg Run           0.54
+Avg Continuation    0.61
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,588,537  Time Adj Curr Vol        6,196,329.19
+Curr RVOL           2.61       Time Adj RVOL            6.26
+Curr Vol Rank       14         Time Adj Vol Rank        1
+Float Rotation      0.05       Time Adj Float Rotation  0.12
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 95,162,357
+Shares Outstanding         67,980,903
+Float                      53,520,045
+Short Float                0.26
+Short Interest             14,392,665  Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  13,705,000  Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             12,530,000
+Cash              12,530,000
+ST Debt           1,100,000,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

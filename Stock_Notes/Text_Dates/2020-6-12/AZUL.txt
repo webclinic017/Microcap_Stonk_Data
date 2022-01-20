@@ -1,0 +1,56 @@
+### GENERAL INFO -- Total Score:91.5522
+-----------------------------------------  --------------------------
+Ticker                                     AZUL
+Timestamp                                  2020-06-12 08:49:19.004853
+Comp Name                                  Azul SA
+Industry                                   Airlines
+Sector                                     Transportation
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:7.1151
+---------------------------------  ----
+Total Run Count                    10
+Held High Perc                     0.5
+VWavg Run                          0.67
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:55.6513
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             2,358,208  Time Adj Curr Vol        17,702,765.11
+Curr RVOL                            2.37       Time Adj RVOL            17.76
+Curr Vol Rank                        31         Time Adj Vol Rank        1
+Float Rotation                       0.35       Time Adj Float Rotation  2.65
+
+### SHARE STATS -- Score:28.7858
+----------------------------------  -------------  ----------------------  -------------------
+Market Cap                          1,240,675,683
+Shares Outstanding                  127,630,083
+Float                               6,692,144
+Short Float                         0.23
+Short Interest                      17,971,964     Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           15,340,899     Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --------------
+CASTI             1,270,000,000
+Cash              529,240,000
+ST Debt           17,480,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:38:09', "11 Industrials Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241228/11-industrials-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 10:02:29', 'Shares of several airline companies are trading lower following weak guidance from Delta as well as concerns over a second wave of the coronavirus, which would further hamper travel demand.', 'https://www.benzinga.com/wiim/20/06/16232916/shares-of-several-airline-companies-are-trading-lower-following-weak-guidance-from-delta-as-well-as']
+['2020-06-11 07:42:49', "12 Industrials Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230703/12-industrials-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 07:18:29', "28 Stocks Moving in Thursday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16230592/28-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-10 12:10:00', 'Airline Stock Roundup: AAL to Boost July Capacity, DAL, AZUL,UAL & GOL in Focus Zacks -10.38%', 'https://finance.yahoo.com/news/airline-stock-roundup-aal-boost-161004097.html']
+['2020-06-10 11:05:00', 'Azul Reports Increase in Traffic and Load Factor in May Zacks', 'https://finance.yahoo.com/news/azul-reports-increase-traffic-load-150503120.html']
+['2020-06-10 10:40:41', 'Shares of several airline companies are trading lower after Delta said it said it expects Q2 sales to be down 90% year over year with systemwide capacity down 85%. The sector is also potentially selling off following recent rally amid US states reopening.', 'https://www.benzinga.com/wiim/20/06/16222748/shares-of-several-airline-companies-are-trading-lower-after-delta-said-it-said-it-expects-q2-sales-t']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+marketwatch overview ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

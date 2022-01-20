@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              XOG
+Timestamp           2020-06-08 08:54:52.649143
+Comp Name           Extraction Oil & Gas, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.59
+VWavg Run           1.11
+Avg Continuation   -0.15
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            9,647,363  Time Adj Curr Vol        61,113,984.36
+Curr RVOL           2.75       Time Adj RVOL            17.43
+Curr Vol Rank       9          Time Adj Vol Rank        1
+Float Rotation      0.14       Time Adj Float Rotation  0.88
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 58,762,616
+Shares Outstanding         138,134,950
+Float                      69,135,033
+Short Float                0.34
+Short Interest             23,368,743   Report Date             2020-MayB
+Prev Month Short Interest  21,970,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  -------------
+CASTI             31,990,000
+Cash              31,990,000
+ST Debt           5,320,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

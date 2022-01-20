@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              TXMD
+Timestamp           2020-06-08 11:24:33.749717
+Comp Name           TherapeuticsMD, Inc.
+Industry            Pharmaceuticals: Generic
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    8
+Held High Perc     0.62
+VWavg Run          0.38
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  ------------
+Curr Vol            10,678,169  Time Adj Curr Vol        19,125,119.1
+Curr RVOL           2.87        Time Adj RVOL            5.14
+Curr Vol Rank       9           Time Adj Vol Rank        4
+Float Rotation      0.05        Time Adj Float Rotation  0.08
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 320,586,343
+Shares Outstanding         271,682,517
+Float                      236,575,416
+Short Float                0.35
+Short Interest             82,021,380   Report Date             2020-MayB
+Prev Month Short Interest  83,310,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             170,100,000
+Cash              170,100,000
+ST Debt           13,260,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

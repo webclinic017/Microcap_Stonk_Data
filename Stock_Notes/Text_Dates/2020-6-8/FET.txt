@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              FET
+Timestamp           2020-06-08 09:00:07.639292
+Comp Name           Forum Energy Technologies, Inc.
+Industry            Oilfield Services/Equipment
+Sector              Industrial Services
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    19
+Held High Perc      0.53
+VWavg Run           1.29
+Avg Continuation   -0.26
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,586,063  Time Adj Curr Vol        36,516,286.85
+Curr RVOL           3.47       Time Adj RVOL            19.26
+Curr Vol Rank       14         Time Adj Vol Rank        2
+Float Rotation      0.07       Time Adj Float Rotation  0.41
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 57,784,068
+Shares Outstanding         111,367,781
+Float                      89,587,733
+Short Float                0.07
+Short Interest             6,434,554    Report Date             2020-MayB
+Prev Month Short Interest  4,585,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             108,950,000
+Cash              108,950,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS

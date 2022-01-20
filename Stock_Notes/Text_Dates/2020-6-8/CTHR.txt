@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CTHR
+Timestamp           2020-06-08 10:16:28.654964
+Comp Name           Charles & Colvard Ltd.
+Industry            Other Consumer Specialties
+Sector              Consumer Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    4
+Held High Perc     0.5
+VWavg Run          0.22
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,544,802  Time Adj Curr Vol        6,091,638.22
+Curr RVOL           15.91      Time Adj RVOL            38.08
+Curr Vol Rank       3          Time Adj Vol Rank        1
+Float Rotation      0.11       Time Adj Float Rotation  0.26
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 22,865,572
+Shares Outstanding         28,979,024
+Float                      23,818,924
+Short Float                0.0
+Short Interest             31,748      Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  26,695      Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             11,900,000
+Cash              11,900,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+TOS fundamentals ['Request Failure']

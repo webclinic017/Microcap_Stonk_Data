@@ -1,0 +1,94 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                EDSA
+Timestamp                             2020-06-15 07:51:27.107135
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:4.0178
+---------------------------------  -----
+Total Run Count                    18
+Held High Perc                      0.11
+VWavg Run                           0.66
+Avg Continuation                   -0.22
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:27.6644
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          25,691,444
+Shares Outstanding                  4,429,648,567,504
+Float                               5,937,577
+Short Float                         0.01
+Short Interest                      13,814             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,996,999         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             6,990,000
+Cash              6,990,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 08:22:10', 'Edesa Biotech Receives Approval From Health Canada To Initiate Phase 2/3 Clinical Study Of Drug EB05', 'https://www.benzinga.com/news/20/06/16252392/edesa-biotech-receives-approval-from-health-canada-to-initiate-phase-23-clinical-study-of-drug-eb05']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                EDSA
+Timestamp                             2020-06-15 07:51:27.107135
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:4.0178
+---------------------------------  -----
+Total Run Count                    18
+Held High Perc                      0.11
+VWavg Run                           0.66
+Avg Continuation                   -0.22
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:27.6644
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          25,691,444
+Shares Outstanding                  4,429,648,567,504
+Float                               5,937,577
+Short Float                         0.01
+Short Interest                      13,814             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,996,999         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             6,990,000
+Cash              6,990,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 08:22:10', 'Edesa Biotech Receives Approval From Health Canada To Initiate Phase 2/3 Clinical Study Of Drug EB05', 'https://www.benzinga.com/news/20/06/16252392/edesa-biotech-receives-approval-from-health-canada-to-initiate-phase-23-clinical-study-of-drug-eb05']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']

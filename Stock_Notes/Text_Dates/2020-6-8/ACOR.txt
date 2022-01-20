@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              ACOR
+Timestamp           2020-06-08 11:25:09.480756
+Comp Name           Acorda Therapeutics, Inc.
+Industry            Biotechnology
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    11
+Held High Perc      0.55
+VWavg Run           0.32
+Avg Continuation   -0.54
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            6,400,717  Time Adj Curr Vol        11,463,994.9
+Curr RVOL           4.11       Time Adj RVOL            7.37
+Curr Vol Rank       8          Time Adj Vol Rank        4
+Float Rotation      0.14       Time Adj Float Rotation  0.24
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  ---------
+Market Cap                 36,338,682
+Shares Outstanding         47,984,495
+Float                      47,212,094
+Short Float                0.22
+Short Interest             10,373,843  Report Date             2020-MayB
+Prev Month Short Interest  14,190,000  Prev Month Report Date
+
+### FINANCIALS
+----------------  ----------
+CASTI             96,070,000
+Cash              45,590,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 11:41:28', 'Shares of several healthcare companies are trading higher on continued optimism amid the reopening of the economy, which would increase consumer spending and economic activity.', 'https://www.benzinga.com/wiim/20/06/16203159/shares-of-several-healthcare-companies-are-trading-higher-on-continued-optimism-amid-the-reopening-o']
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

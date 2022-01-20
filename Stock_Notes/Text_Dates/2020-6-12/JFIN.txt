@@ -1,0 +1,61 @@
+### GENERAL INFO -- Total Score:109.1216
+------------------------------------------  --------------------------
+Ticker                                      JFIN
+Timestamp                                   2020-06-12 08:45:48.332798
+Comp Name                                   Jiayin Group, Inc.
+Industry                                    Finance/Rental/Leasing
+Sector                                      Finance
+Exchange                                    NASDAQ
+
+### PRICE STATS -- Score:8.0992
+---------------------------------  -----
+Total Run Count                    17
+Held High Perc                      0.53
+VWavg Run                          13.39
+Avg Continuation                   -0.54
+
+### VOLUME STATS -- Score:80.2196
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             3,623,105  Time Adj Curr Vol        33,501,602.11
+Curr RVOL                            13.65      Time Adj RVOL            126.18
+Curr Vol Rank                        3          Time Adj Vol Rank        2
+Float Rotation                       0.09       Time Adj Float Rotation  0.83
+
+### SHARE STATS -- Score:20.8028
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          98,006,814
+Shares Outstanding                  79,399,384
+Float                               40,516,146
+Short Float                         0.23
+Short Interest                      25,619      Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,002,249  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             27,530,000
+Cash              17,540,000
+ST Debt           392,638
+LT Debt           194,060,000
+
+### NEWS HEADLINES
+['2020-06-12 09:37:30', 'Jiayin Shares Halted On Volatility, Resume Trading; Shares Up 41%', 'https://www.benzinga.com/general/movers-shakers/20/06/16242426/jiayin-shares-halted-on-volatility-resume-trading-shares-up-41']
+['2020-06-12 07:47:30', "14 Communication Services Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241231/14-communication-services-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-11 14:33:34', 'Mid-Afternoon Market Update: Crude Oil Down 8%; Mustang Bio Shares Slide', 'https://www.benzinga.com/news/20/06/16236396/mid-afternoon-market-update-crude-oil-down-8-mustang-bio-shares-slide']
+['2020-06-11 14:30:00', 'Jiayin Group Inc. (JFIN) Q1 2020 Earnings Call Transcript Motley Fool -32.76%', 'https://www.fool.com/earnings/call-transcripts/2020/06/11/jiayin-group-inc-jfin-q1-2020-earnings-call-transc.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 12:44:00', 'Jiayin Group (JFIN) Stock Makes the Street Go Wild TipRanks', 'https://finance.yahoo.com/news/jiayin-group-jfin-stock-makes-164443724.html']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 12:18:22', 'Afternoon Market Stats in 5 Minutes', 'https://www.benzinga.com/markets/20/06/16234366/afternoon-market-stats-in-5-minutes']
+['2020-06-11 12:04:32', 'Mid-Day Market Update: Dow Plunges Over 1100 Points; Reata Pharmaceuticals Shares Jump', 'https://www.benzinga.com/news/20/06/16234609/mid-day-market-update-dow-plunges-over-1100-points-reata-pharmaceuticals-shares-jump']
+['2020-06-11 11:24:59', 'UPDATE: Jiayin Says Is Unaware Of Reason Causing Increases In Its Stock', 'https://www.benzinga.com/news/20/06/16234152/update-jiayin-says-is-unaware-of-reason-causing-increases-in-its-stock']
+['2020-06-11 11:24:37', 'Jiayin Group Notes Unusual Increases In Price, Trading Volume In US-Listed Stock On Jun. 10, Says It Does Not Comment On Market Activity, Speculative Matters', 'https://www.benzinga.com/news/20/06/16234147/jiayin-group-notes-unusual-increases-in-price-trading-volume-in-us-listed-stock-on-jun-10-says-it-do']
+['2020-06-11 11:23:00', 'Jiayin Group States Its Policy Not To Comment On Unusual Market Activity Or Speculative Matters GlobeNewswire', 'https://finance.yahoo.com/news/jiayin-group-states-policy-not-152346316.html']
+['2020-06-11 07:19:00', 'Jiayin Group: Q1 Earnings Insights Benzinga', 'https://finance.yahoo.com/news/jiayin-group-q1-earnings-insights-111952958.html']
+['2020-06-11 05:30:00', 'Jiayin Group Inc. Reports First Quarter 2020 Unaudited Financial Results GlobeNewswire', 'https://finance.yahoo.com/news/jiayin-group-inc-reports-first-093010105.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+marketwatch overview ['Float', 'Assigned Short Float', 'Calculated Short Float']

@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  -----------------------------------
+Ticker              PLM
+Timestamp           2020-06-09 08:52:08.930643
+Comp Name           Polymet Mining Corporation (Canada)
+Industry            Metals & Mining
+Sector              Basic Materials
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    9
+Held High Perc     0.44
+VWavg Run          0.25
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            3,794,314  Time Adj Curr Vol        24,036,168.89
+Curr RVOL           7.06       Time Adj RVOL            44.73
+Curr Vol Rank       5          Time Adj Vol Rank        1
+Float Rotation      0.01       Time Adj Float Rotation  0.09
+
+### SHARE STATS
+-------------------------  -------------  ----------------------  -------------------
+Market Cap                 285,204,633
+Shares Outstanding         1,009,984,612
+Float                      266,863,398
+Short Float                0.01
+Short Interest             1,971,326      Report Date             2020-MayB
+Prev Month Short Interest  11,364,009     Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI
+Cash
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+shortsqueeze ['Market Cap']
+marketwatch financials ['Request Failure']

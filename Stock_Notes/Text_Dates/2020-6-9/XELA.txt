@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              XELA
+Timestamp           2020-06-09 08:54:09.422311
+Comp Name           Exela Technologies Inc.
+Industry            Application Software
+Sector              Technology
+Exchange            NASDAQ Capital Market
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.22
+VWavg Run           0.96
+Avg Continuation   -0.74
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,522,687  Time Adj Curr Vol        34,985,042.75
+Curr RVOL           3.7        Time Adj RVOL            23.44
+Curr Vol Rank       25         Time Adj Vol Rank        2
+Float Rotation      0.07       Time Adj Float Rotation  0.45
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 64,556,587
+Shares Outstanding         150,680,653
+Float                      77,012,204
+Short Float                0.1
+Short Interest             7,379,712    Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  12,429,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             15,230,000
+Cash              15,230,000
+ST Debt
+LT Debt           609,460,000
+
+### NEWS HEADLINES
+['2020-06-09 07:05:42', 'Exela Technologies: Q4 Earnings Insights', 'https://www.benzinga.com/news/earnings/20/06/16209801/exela-technologies-q4-earnings-insights']
+['2020-06-09 06:57:45', 'Exela Technologies Q4 Sales $393.60M Beat $388.42M Estimate', 'https://www.benzinga.com/news/earnings/20/06/16209654/exela-technologies-q4-sales-393-60m-beat-388-42m-estimate']
+['2020-06-09 06:55:00', 'Exela Technologies, Inc. Reports Fourth Quarter and Full Year 2019 Results GlobeNewswire +14.43%', 'https://finance.yahoo.com/news/exela-technologies-inc-reports-fourth-105510693.html']
+['2020-06-08 07:39:59', "17 Technology Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199775/17-technology-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS

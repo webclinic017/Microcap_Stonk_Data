@@ -1,0 +1,47 @@
+### GENERAL INFO -- Total Score:42.1617
+-----------------------------------------  --------------------------
+Ticker                                     JT
+Timestamp                                  2020-06-12 09:28:07.095251
+Comp Name
+Industry                                   Oil & Gas E&P
+Sector                                     Energy
+Exchange                                   NYSE
+
+### PRICE STATS -- Score:1.4142
+---------------------------------  ----
+Total Run Count                    2
+Held High Perc                     -
+VWavg Run                          0.05
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:28.7561
+-----------------------------------  ---------  -----------------------  -----------
+Curr Vol                             1,387,472  Time Adj Curr Vol        4,754,784.7
+Curr RVOL                            4.73       Time Adj RVOL            16.21
+Curr Vol Rank                        4          Time Adj Vol Rank        2
+Float Rotation                       0.01       Time Adj Float Rotation  0.04
+
+### SHARE STATS -- Score:11.9914
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          142,003,396
+Shares Outstanding                  184,432,490
+Float                               111,887,097
+Short Float                         0.01
+Short Interest                      1,898,489    Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,920,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             135,620,000
+Cash              135,620,000
+ST Debt           8,610,000
+LT Debt           58,040,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']

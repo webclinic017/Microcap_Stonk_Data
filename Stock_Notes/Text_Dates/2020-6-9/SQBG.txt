@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  -----------------------------------
+Ticker              SQBG
+Timestamp           2020-06-09 08:52:08.930643
+Comp Name           Sequential Brands Group, Inc.
+Industry            Manufacturing - Apparel & Furniture
+Sector              Consumer Cyclical
+Exchange            NASDAQ Capital Market
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    29
+Held High Perc      0.28
+VWavg Run           1.77
+Avg Continuation   -0.12
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            13,386,128  Time Adj Curr Vol        100,487,946.67
+Curr RVOL           18.64       Time Adj RVOL            139.96
+Curr Vol Rank       6           Time Adj Vol Rank        1
+Float Rotation      0.29        Time Adj Float Rotation  2.19
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 15,365,549
+Shares Outstanding         66,861,637
+Float                      45,927,575
+Short Float                0.06
+Short Interest             2,498,913   Report Date             2020-MayB
+Prev Month Short Interest  11,589,009  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI
+Cash
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 07:36:06', "20 Consumer Cyclical Stocks Moving In Tuesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16210028/20-consumer-cyclical-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 07:11:42', "34 Stocks Moving in Tuesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16209870/34-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-08 10:57:49', 'Shares of several consumer discretionary companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16202691/shares-of-several-consumer-discretionary-companies-are-trading-higher-on-continued-upward-momentum-s']
+
+
+### ERRORS
+marketwatch financials ['Request Failure']

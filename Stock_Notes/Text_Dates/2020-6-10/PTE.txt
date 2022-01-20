@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              PTE
+Timestamp           2020-06-10 13:22:32.974378
+Comp Name           PolarityTE, Inc.
+Industry            Recreational Products
+Sector              Consumer Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ---
+Total Run Count      2
+Held High Perc       1
+VWavg Run          inf
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,366,999  Time Adj Curr Vol        4,515,056.73
+Curr RVOL                      Time Adj RVOL
+Curr Vol Rank       331        Time Adj Vol Rank        331
+Float Rotation      0.15       Time Adj Float Rotation  0.2
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 42,694,577
+Shares Outstanding         48,048,991
+Float                      22,913,794
+Short Float                0.13
+Short Interest             3,085,993   Report Date             2020-JunA
+Prev Month Short Interest  11,859,009  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             39,510,000
+Cash              38,520,000
+ST Debt           24,640,000
+LT Debt           278,000
+
+### NEWS HEADLINES
+['2020-06-10 07:52:00', 'Rising P/E: An Overlooked Trick to Pick 5 Winning Stocks Zacks +32.96%', 'https://finance.yahoo.com/news/rising-p-e-overlooked-trick-115211151.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']

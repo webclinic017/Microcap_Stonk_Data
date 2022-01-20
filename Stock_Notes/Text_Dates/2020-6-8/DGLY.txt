@@ -1,0 +1,53 @@
+### GENERAL INFO
+------------------  ----------------------------
+Ticker              DGLY
+Timestamp           2020-06-08 08:57:48.178782
+Comp Name           Digital Ally, Inc.
+Industry            Telecommunications Equipment
+Sector              Electronic Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    24
+Held High Perc      0.29
+VWavg Run           2.08
+Avg Continuation   -0.28
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            24,549,259  Time Adj Curr Vol        136,112,846.73
+Curr RVOL           31.58       Time Adj RVOL            175.12
+Curr Vol Rank       3           Time Adj Vol Rank        1
+Float Rotation      1.37        Time Adj Float Rotation  7.57
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 55,403,849
+Shares Outstanding         22,447,149
+Float                      17,976,950
+Short Float                0.04
+Short Interest             843,579     Report Date             2020-MayB
+Prev Month Short Interest  840,405     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------
+CASTI             328,526
+Cash              328,526
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 09:05:09', 'Digital Ally Announces Subscription Program To Enable Law Enforcement Departments To Purchase Body Cameras', 'https://www.benzinga.com/news/20/06/16201008/digital-ally-announces-subscription-program-to-enable-law-enforcement-departments-to-purchase-body-c']
+['2020-06-08 09:03:00', 'Digital Ally Announces Subscription Program to Enable Law Enforcement Departments to Purchase Body Cameras GlobeNewswire +51.57%', 'https://finance.yahoo.com/news/digital-ally-announces-subscription-program-130313839.html']
+['2020-06-08 08:21:41', 'Digital Ally Prices $5M Underwritten Public Offering Of Common Stock; ~2.326M Shares At $2.15/Share', 'https://www.benzinga.com/news/20/06/16200350/digital-ally-prices-5m-underwritten-public-offering-of-common-stock-2-326m-shares-at-2-15share']
+['2020-06-08 08:20:00', 'DIGITAL ALLY PRICES $5 MILLION UNDERWRITTEN PUBLIC OFFERING OF COMMON STOCK GlobeNewswire', 'https://finance.yahoo.com/news/digital-ally-prices-5-million-122029346.html']
+['2020-06-08 07:37:18', "11 Industrials Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199779/11-industrials-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 07:26:55', 'Digital Ally shares are trading higher after the company withdrew its previously announced common stock offering.', 'https://www.benzinga.com/wiim/20/06/16199741/digital-ally-shares-are-trading-higher-after-the-company-withdrew-its-previously-announced-common-st']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 06:18:06', 'Digital Ally Files to Withdraw Common Stock Offering of Up to $6.9M Filed With SEC on May 22, 2020', 'https://www.benzinga.com/news/20/06/16199259/digital-ally-files-to-withdraw-common-stock-offering-of-up-to-6-9m-filed-with-sec-on-may-22-2020']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

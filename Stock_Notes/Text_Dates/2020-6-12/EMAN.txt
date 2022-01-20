@@ -1,0 +1,50 @@
+### GENERAL INFO -- Total Score:157.0841
+------------------------------------------  --------------------------------
+Ticker                                      EMAN
+Timestamp                                   2020-06-12 08:44:55.545665
+Comp Name                                   eMagin Corp.
+Industry                                    Electronic Equipment/Instruments
+Sector                                      Electronic Technology
+Exchange                                    NYSE American
+
+### PRICE STATS -- Score:8.5099
+---------------------------------  -----
+Total Run Count                    15
+Held High Perc                      0.33
+VWavg Run                           0.82
+Avg Continuation                    0.63
+
+### VOLUME STATS -- Score:129.536
+-----------------------------------  ---------  -----------------------  ------------
+Curr Vol                             9,801,316  Time Adj Curr Vol        90,629,388.0
+Curr RVOL                            15.12      Time Adj RVOL            139.83
+Curr Vol Rank                        6          Time Adj Vol Rank        1
+Float Rotation                       0.23       Time Adj Float Rotation  2.13
+
+### SHARE STATS -- Score:19.0382
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          32,390,208
+Shares Outstanding                  57,912,609
+Float                               42,570,149
+Short Float                         0.04
+Short Interest                      1,954,363   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,945,899  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,140,000
+Cash              3,140,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 08:40:34', 'EMagin shares are trading higher after the company announced a $5.5 million Department of Defense Award.', 'https://www.benzinga.com/wiim/20/06/16241761/emagin-shares-are-trading-higher-after-the-company-announced-a-5-5-million-department-of-defense-awa']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 16:49:41', "7 Stocks Moving In Thursday's After-Hours Session", 'https://www.benzinga.com/news/20/06/16237924/7-stocks-moving-in-thursdays-after-hours-session']
+['2020-06-11 16:27:05', 'EMagin shares are trading higher after the company announced a $5.5 million Department of Defense Award.', 'https://www.benzinga.com/wiim/20/06/16237714/emagin-shares-are-trading-higher-after-the-company-announced-a-5-5-million-department-of-defense-awa']
+['2020-06-11 16:15:41', 'eMagin Corporation Announces $5.5M Department of Defense Award', 'https://www.benzinga.com/news/20/06/16237490/emagin-corporation-announces-5-5m-department-of-defense-award']
+['2020-06-11 16:15:00', 'eMagin Corporation Announces $5.5 million Department of Defense Award Business Wire -16.08%', 'https://finance.yahoo.com/news/emagin-corporation-announces-5-5-201500891.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

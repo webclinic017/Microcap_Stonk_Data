@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              OAS
+Timestamp           2020-06-08 08:59:37.206810
+Comp Name           Oasis Petroleum Inc.
+Industry            Oil & Gas - E&P
+Sector              Energy
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.53
+VWavg Run           1.94
+Avg Continuation   -0.24
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            71,937,063  Time Adj Curr Vol        398,853,522.65
+Curr RVOL           4.34        Time Adj RVOL            24.04
+Curr Vol Rank       7           Time Adj Vol Rank        1
+Float Rotation      0.25        Time Adj Float Rotation  1.39
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 408,290,757
+Shares Outstanding         324,040,200
+Float                      286,841,428
+Short Float                0.32
+Short Interest             90,850,000   Report Date             2020-MayB
+Prev Month Short Interest  83,865,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             134,000,000
+Cash              134,000,000
+ST Debt           10,720,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 09:47:06', 'Morning Market Stats in 5 Minutes', 'https://www.benzinga.com/intraday-update/20/06/16201614/morning-market-stats-in-5-minutes']
+['2020-06-08 08:52:00', 'Implied Volatility Surging for Oasis Petroleum (OAS) Stock Options Zacks +52.78%', 'https://finance.yahoo.com/news/implied-volatility-surging-oasis-petroleum-125212598.html']
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+finviz ['Short Interest']

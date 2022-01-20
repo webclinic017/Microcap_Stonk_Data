@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              PGEN
+Timestamp           2020-06-10 13:23:48.194250
+Comp Name           Precigen, Inc.
+Industry            Biotechnology
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  --
+Total Run Count
+Held High Perc
+VWavg Run
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -----------
+Curr Vol            3,345,936  Time Adj Curr Vol        4,486,811.8
+Curr RVOL                      Time Adj RVOL
+Curr Vol Rank       327        Time Adj Vol Rank        327
+Float Rotation      0.05       Time Adj Float Rotation  0.07
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 595,129,446
+Shares Outstanding         168,171,875
+Float                      66,857,798
+Short Float                0.48
+Short Interest             30,737,230   Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  20,738,018   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             149,170,000
+Cash              37,840,000
+ST Debt           132,720,000
+LT Debt           63,700,000
+
+### NEWS HEADLINES
+['2020-06-10 09:35:00', 'Billionaire Israel Englander Bets on These 3 Penny Stocks TipRanks +19.54%', 'https://finance.yahoo.com/news/billionaire-israel-englander-bets-3-133506340.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Prev Month Short Interest', 'Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

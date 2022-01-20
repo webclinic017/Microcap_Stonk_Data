@@ -1,0 +1,57 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              IDEX
+Timestamp           2020-06-09 08:54:09.422311
+Comp Name           Ideanomics, Inc.
+Industry            Information Technology Services
+Sector              Technology Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    19
+Held High Perc      0.42
+VWavg Run           1.65
+Avg Continuation   -0.3
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            11,003,801  Time Adj Curr Vol        69,706,729.41
+Curr RVOL           10.9        Time Adj RVOL            69.06
+Curr Vol Rank       3           Time Adj Vol Rank        1
+Float Rotation      0.08        Time Adj Float Rotation  0.54
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 103,833,126
+Shares Outstanding         164,891,804
+Float                      129,770,230
+Short Float                0.06
+Short Interest             8,992,528    Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  14,529,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             5,910,000
+Cash              5,910,000
+ST Debt           19,350,000
+LT Debt           10,790,000
+
+### NEWS HEADLINES
+['2020-06-09 09:06:23', 'Ideanomics shares are trading higher after the company reported it sold $33 million worth of vehicles out of the Mobile Energy Global Expo Center in May.', 'https://www.benzinga.com/wiim/20/06/16211543/ideanomics-shares-are-trading-higher-after-the-company-reported-it-sold-33-million-worth-of-vehicles']
+['2020-06-09 08:45:49', 'UPDATE: Ideanomics Says Total Value Of Autos Sold In May Out Of Mobile Energy Global Expo Center $33M', 'https://www.benzinga.com/news/20/06/16211037/update-ideanomics-says-total-value-of-autos-sold-in-may-out-of-mobile-energy-global-expo-center-33m']
+['2020-06-09 08:45:16', "Ideanomics Reports Sold 2.1K+ Vehicles at Co.'s MEG Center In May", 'https://www.benzinga.com/news/20/06/16211032/ideanomics-reports-sold-2-1k-vehicles-at-co-s-meg-center-in-may']
+['2020-06-09 08:30:00', "Over 2,100 Vehicles Sold at Ideanomics' MEG Center in May PR Newswire +59.68%", 'https://finance.yahoo.com/news/over-2-100-vehicles-sold-123000247.html']
+['2020-06-09 07:31:43', "19 Technology Stocks Moving In Tuesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16210015/19-technology-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 07:11:42', "34 Stocks Moving in Tuesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16209870/34-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 05:06:13', '95 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16209181/95-biggest-movers-from-yesterday']
+['2020-06-08 12:03:44', "71 Stocks Moving In Monday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16203382/71-stocks-moving-in-mondays-mid-day-session']
+['2020-06-08 11:44:14', 'Shares of some technology companies are trading higher on continued optimism amid the reopening of the economy, which would increase consumer spending and economic activity.', 'https://www.benzinga.com/wiim/20/06/16203172/shares-of-some-technology-companies-are-trading-higher-on-continued-optimism-amid-the-reopening-of-t']
+['2020-06-08 08:49:47', 'Ideanomics MEG Begins EV Taxi Deliveries in Guilin, Guanxi Province', 'https://www.benzinga.com/news/20/06/16200689/ideanomics-meg-begins-ev-taxi-deliveries-in-guilin-guanxi-province']
+['2020-06-08 08:48:00', 'Ideanomics MEG Begins EV Taxi Deliveries in Guilin, Guanxi Province PR Newswire +31.89%', 'https://finance.yahoo.com/news/ideanomics-meg-begins-ev-taxi-124800878.html']
+['2020-06-08 07:39:59', "17 Technology Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199775/17-technology-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

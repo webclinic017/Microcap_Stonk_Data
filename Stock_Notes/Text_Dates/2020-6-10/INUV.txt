@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              INUV
+Timestamp           2020-06-10 13:22:06.923053
+Comp Name           Inuvo, Inc.
+Industry            Information Technology Services
+Sector              Technology Services
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    5
+Held High Perc     0.8
+VWavg Run          0.01
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            39,871,499  Time Adj Curr Vol        54,096,436.79
+Curr RVOL                       Time Adj RVOL
+Curr Vol Rank       139         Time Adj Vol Rank        139
+Float Rotation      0.62        Time Adj Float Rotation  0.84
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 52,016,307
+Shares Outstanding         99,031,514
+Float                      64,229,375
+Short Float                0.0
+Short Interest             183,739     Report Date             2020-JunA
+Prev Month Short Interest  10,475,609  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             470,807
+Cash              470,807
+ST Debt           13,480,000
+LT Debt           9,850,000
+
+### NEWS HEADLINES
+['2020-06-10 10:34:05', 'Shares Of Inuvo Spike As Company IntentKey Identifies Contactless Auto Purchasers', 'https://www.benzinga.com/news/20/06/16222665/shares-of-inuvo-spike-as-company-intentkey-identifies-contactless-auto-purchasers']
+['2020-06-10 10:30:00', 'INUVO IntentKey Identifies Contactless Auto Purchasers GlobeNewswire +27.57%', 'https://finance.yahoo.com/news/inuvo-intentkey-identifies-contactless-auto-143010656.html']
+['2020-06-10 07:51:00', '5 Skyrocketing Tech Stocks With Solid Growth Potential Zacks', 'https://finance.yahoo.com/news/5-skyrocketing-tech-stocks-solid-115111617.html']
+
+
+### ERRORS
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

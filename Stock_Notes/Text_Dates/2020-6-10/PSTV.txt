@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              PSTV
+Timestamp           2020-06-10 09:10:56.534578
+Comp Name           Plus Therapeutics, Inc.
+Industry            Biotechnology
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    33
+Held High Perc      0.3
+VWavg Run           1.61
+Avg Continuation   -0.43
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,206,591  Time Adj Curr Vol        18,849,919.19
+Curr RVOL           14.91      Time Adj RVOL            66.83
+Curr Vol Rank       6          Time Adj Vol Rank        1
+Float Rotation      1.09       Time Adj Float Rotation  4.89
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 9,579,505
+Shares Outstanding         4,572,099
+Float                      3,854,463
+Short Float                0.01
+Short Interest             57,664      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,397,159  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             16,059,999
+Cash              16,059,999
+ST Debt
+LT Debt           372,000
+
+### NEWS HEADLINES
+['2020-06-10 07:35:30', "20 Healthcare Stocks Moving In Wednesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16219958/20-healthcare-stocks-moving-in-wednesdays-pre-market-session']
+['2020-06-10 07:17:10', "34 Stocks Moving in Wednesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16219857/34-stocks-moving-in-wednesdays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

@@ -1,0 +1,100 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                ISEE
+Timestamp                             2020-06-15 07:51:48.414482
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:7.2634
+---------------------------------  ----
+Total Run Count                    9
+Held High Perc                     0.56
+VWavg Run                          0.34
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:13.8451
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          192,973,317
+Shares Outstanding                  25,128,018,067,504
+Float                               49,668,249
+Short Float                         0.01
+Short Interest                      527,404             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,323,499          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             108,350,000
+Cash              108,350,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-15 06:16:38', 'IVERIC bio Reports Zimura 18-Month Data Showing 12 Month Efficacy Findings', 'https://www.benzinga.com/news/20/06/16251085/iveric-bio-reports-zimura-18-month-data-showing-12-month-efficacy-findings']
+['2020-06-14 17:49:36', 'IVERIC bio to Announce Zimura® 18 Month Data from the OPH2003 Phase 3 Clinical Trial in Geographic Atrophy Secondary to Age-Related Macular Degeneration and Host Conference Call on Monday, June 15, 2020', 'https://www.benzinga.com/news/20/06/16250058/iveric-bio-to-announce-zimura-18-month-data-from-the-oph2003-phase-3-clinical-trial-in-geographic-at']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                ISEE
+Timestamp                             2020-06-15 07:51:48.414482
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:7.2634
+---------------------------------  ----
+Total Run Count                    9
+Held High Perc                     0.56
+VWavg Run                          0.34
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:13.8451
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          192,973,317
+Shares Outstanding                  25,128,018,067,504
+Float                               49,668,249
+Short Float                         0.01
+Short Interest                      527,404             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,323,499          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             108,350,000
+Cash              108,350,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-15 06:16:38', 'IVERIC bio Reports Zimura 18-Month Data Showing 12 Month Efficacy Findings', 'https://www.benzinga.com/news/20/06/16251085/iveric-bio-reports-zimura-18-month-data-showing-12-month-efficacy-findings']
+['2020-06-14 17:49:36', 'IVERIC bio to Announce Zimura® 18 Month Data from the OPH2003 Phase 3 Clinical Trial in Geographic Atrophy Secondary to Age-Related Macular Degeneration and Host Conference Call on Monday, June 15, 2020', 'https://www.benzinga.com/news/20/06/16250058/iveric-bio-to-announce-zimura-18-month-data-from-the-oph2003-phase-3-clinical-trial-in-geographic-at']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']

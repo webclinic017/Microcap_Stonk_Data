@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              MARA
+Timestamp           2020-06-10 08:55:08.505436
+Comp Name           Marathon Patent Group Inc.
+Industry            Business Services
+Sector              Industrials
+Exchange            NASDAQ Capital Market
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    27
+Held High Perc      0.56
+VWavg Run           1.08
+Avg Continuation   -0.01
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,611,326  Time Adj Curr Vol        29,211,765.44
+Curr RVOL           6.15       Time Adj RVOL            38.98
+Curr Vol Rank       14         Time Adj Vol Rank        2
+Float Rotation      0.26       Time Adj Float Rotation  1.63
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 18,194,965
+Shares Outstanding         34,173,870
+Float                      17,906,114
+Short Float                0.03
+Short Interest             593,540     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,848,359  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             477,438
+Cash              474,546
+ST Debt           9,330,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

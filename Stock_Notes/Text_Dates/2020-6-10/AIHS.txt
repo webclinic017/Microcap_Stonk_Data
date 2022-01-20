@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              AIHS
+Timestamp           2020-06-10 13:21:49.144739
+Comp Name           Senmiao Technology Ltd.
+Industry            Finance/Rental/Leasing
+Sector              Finance
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    6
+Held High Perc     1
+VWavg Run          0.02
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,171,109  Time Adj Curr Vol        2,945,694.64
+Curr RVOL                      Time Adj RVOL
+Curr Vol Rank       263        Time Adj Vol Rank        263
+Float Rotation      0.2        Time Adj Float Rotation  0.27
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 14,492,520
+Shares Outstanding         28,859,995
+Float                      11,067,730
+Short Float                0.0
+Short Interest             51,429      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,382,459  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             1,170,000
+Cash              1,170,000
+ST Debt           420,436
+LT Debt           7,360,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']

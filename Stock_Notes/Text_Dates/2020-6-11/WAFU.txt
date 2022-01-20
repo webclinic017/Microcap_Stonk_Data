@@ -1,0 +1,50 @@
+### GENERAL INFO -- Total Score:734.063019383976
+--------------------------------------------------  ---------------------------------
+Ticker                                              WAFU
+Timestamp                                           2020-06-11 12:06:45.812337
+Comp Name                                           Wah Fu Education Group Ltd.
+Industry                                            Miscellaneous Commercial Services
+Sector                                              Commercial Services
+Exchange                                            NASDAQ
+
+### PRICE STATS -- Score:8.0642
+---------------------------------  -----
+Total Run Count                    33
+Held High Perc                      0.27
+VWavg Run                           1.69
+Avg Continuation                   -0.24
+
+### VOLUME STATS -- Score:680.728819383976
+--------------------------------------------  ----------  -----------------------  -------------
+Curr Vol                                      51,805,025  Time Adj Curr Vol        83,492,726.52
+Curr RVOL                                     650.88      Time Adj RVOL            1,049.01
+Curr Vol Rank                                 1           Time Adj Vol Rank        1
+Float Rotation                                43.86       Time Adj Float Rotation  70.69
+
+### SHARE STATS -- Score:45.27
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        9,726,168
+Shares Outstanding                4,741,785
+Float                             1,181,055
+Short Float                       0.01
+Short Interest                    8,639       Report Date             2020-05-15 00:00:00
+Prev Month Short Interest         10,371,959  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             9,600,000
+Cash              9,600,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 12:04:32', 'Mid-Day Market Update: Dow Plunges Over 1100 Points; Reata Pharmaceuticals Shares Jump', 'https://www.benzinga.com/news/20/06/16234609/mid-day-market-update-dow-plunges-over-1100-points-reata-pharmaceuticals-shares-jump']
+['2020-06-11 10:25:35', 'Price Over Earnings Overview: Wah Fu Education Group', 'https://www.benzinga.com/intraday-update/20/06/16233333/price-over-earnings-overview-wah-fu-education-group']
+['2020-06-11 10:12:43', 'Mid-Morning Market Update: Markets Open Lower; Initial Jobless Claims Continue To Decline', 'https://www.benzinga.com/news/earnings/20/06/16233104/mid-morning-market-update-markets-open-lower-initial-jobless-claims-continue-to-decline']
+['2020-06-11 07:18:29', "28 Stocks Moving in Thursday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16230592/28-stocks-moving-in-thursdays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']

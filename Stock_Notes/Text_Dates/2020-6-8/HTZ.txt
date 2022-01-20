@@ -1,0 +1,49 @@
+### GENERAL INFO
+------------------  ---------------------------
+Ticker              HTZ
+Timestamp           2020-06-08 09:00:25.297148
+Comp Name           Hertz Global Holdings, Inc.
+Industry            Finance/Rental/Leasing
+Sector              Finance
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.5
+VWavg Run           3.61
+Avg Continuation   -0.56
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            69,745,349  Time Adj Curr Vol        386,701,610.78
+Curr RVOL           7.63        Time Adj RVOL            42.28
+Curr Vol Rank       7           Time Adj Vol Rank        1
+Float Rotation      0.49        Time Adj Float Rotation  2.73
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 365,696,796
+Shares Outstanding         142,293,810
+Float                      141,500,074
+Short Float                0.5
+Short Interest             66,190,000   Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  44,940,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             1,410,000,000
+Cash              1,410,000,000
+ST Debt
+LT Debt           1,080,000,000
+
+### NEWS HEADLINES
+['2020-06-08 09:49:26', 'Shares of several industrial companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16201670/shares-of-several-industrial-companies-are-trading-higher-on-continued-upward-momentum-surrounding-t']
+['2020-06-08 08:51:00', "Hertz's stock soars again, is set to erase post-bankruptcy losses MarketWatch +36.19%", 'https://www.marketwatch.com/story/hertzs-stock-soars-again-is-set-to-erase-post-bankruptcy-gains-2020-06-08?siteid=yhoof2']
+['2020-06-08 07:37:18', "11 Industrials Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199779/11-industrials-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+finviz ['Short Interest']

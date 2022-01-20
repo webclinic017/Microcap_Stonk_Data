@@ -1,0 +1,50 @@
+### GENERAL INFO -- Total Score:31.5879
+-----------------------------------------  --------------------------
+Ticker                                     TELL
+Timestamp                                  2020-06-12 08:50:18.275309
+Comp Name                                  Tellurian, Inc.
+Industry                                   Integrated Oil
+Sector                                     Energy Minerals
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:5.5114
+---------------------------------  ----
+Total Run Count                    6
+Held High Perc                     0.5
+VWavg Run                          0.68
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:12.3721
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             2,314,895  Time Adj Curr Vol        17,377,619.97
+Curr RVOL                            0.97       Time Adj RVOL            7.29
+Curr Vol Rank                        115        Time Adj Vol Rank        5
+Float Rotation                       0.02       Time Adj Float Rotation  0.13
+
+### SHARE STATS -- Score:13.7044
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          290,059,919
+Shares Outstanding                  253,816,602
+Float                               138,638,859
+Short Float                         0.19
+Short Interest                      27,412,381   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           25,480,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             57,810,000
+Cash              55,450,000
+ST Debt           190,030,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 09:02:00', 'Cushing® Asset Management and Swank Capital Announce Rebalancing of The Cushing® 30 MLP Index PR Newswire +14.49%', 'https://finance.yahoo.com/news/cushing-asset-management-swank-capital-130200014.html']
+['2020-06-11 14:27:00', "Here's Why Tellurian Stock Is Down 21% Thursday Motley Fool -23.72%", 'https://www.fool.com/investing/2020/06/11/heres-why-tellurian-stock-is-down-21-thursday.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-11 00:00:00', 'Trouble flares for US energy upstart Tellurian Financial Times', 'http://www.ft.com/cms/s/824ce0f4-e014-48e5-80fb-95beede80398,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

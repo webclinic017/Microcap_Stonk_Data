@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              GMO
+Timestamp           2020-06-09 09:50:33.207500
+Comp Name           General Moly, Inc.
+Industry            Other Metals/Minerals
+Sector              Non-Energy Minerals
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    16
+Held High Perc      0.44
+VWavg Run           0.6
+Avg Continuation   -0.3
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            7,284,328  Time Adj Curr Vol        20,773,096.55
+Curr RVOL           22.99      Time Adj RVOL            65.57
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.09       Time Adj Float Rotation  0.25
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 34,354,161
+Shares Outstanding         152,684,984
+Float                      84,113,075
+Short Float                0.0
+Short Interest             181,988      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,456,259   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,060,000
+Cash              3,060,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

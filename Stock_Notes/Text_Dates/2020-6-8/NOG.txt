@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              NOG
+Timestamp           2020-06-08 11:25:33.969389
+Comp Name           Northern Oil and Gas Inc.
+Industry            Oil & Gas - E&P
+Sector              Energy
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    3
+Held High Perc     0.67
+VWavg Run          0.15
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            12,934,311  Time Adj Curr Vol        23,165,978.96
+Curr RVOL           2.23        Time Adj RVOL            3.99
+Curr Vol Rank       8           Time Adj Vol Rank        1
+Float Rotation      0.05        Time Adj Float Rotation  0.09
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 382,043,343
+Shares Outstanding         405,793,200
+Float                      256,136,822
+Short Float                0.16
+Short Interest             40,478,907   Report Date             2020-MayB
+Prev Month Short Interest  36,145,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             8,510,000
+Cash              8,510,000
+ST Debt           4,280,000,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

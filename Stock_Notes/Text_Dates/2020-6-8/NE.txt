@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              NE
+Timestamp           2020-06-08 08:56:28.305621
+Comp Name           Noble Corp. Plc
+Industry            Contract Drilling
+Sector              Industrial Services
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    13
+Held High Perc      0.46
+VWavg Run           1.19
+Avg Continuation   -0.42
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            33,444,895  Time Adj Curr Vol        211,866,267.49
+Curr RVOL           5.54        Time Adj RVOL            35.12
+Curr Vol Rank       5           Time Adj Vol Rank        1
+Float Rotation      0.13        Time Adj Float Rotation  0.86
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 70,266,829
+Shares Outstanding         250,948,020
+Float                      247,745,431
+Short Float                0.09
+Short Interest             22,270,000   Report Date             2020-MayB
+Prev Month Short Interest  24,220,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             177,230,000
+Cash              177,230,000
+ST Debt           8,690,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+finviz ['Short Interest']

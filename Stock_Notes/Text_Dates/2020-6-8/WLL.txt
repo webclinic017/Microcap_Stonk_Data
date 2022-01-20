@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              WLL
+Timestamp           2020-06-08 08:58:23.619915
+Comp Name           Whiting Petroleum Corp.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    19
+Held High Perc      0.47
+VWavg Run           1.77
+Avg Continuation    1.48
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            17,616,255  Time Adj Curr Vol        97,672,952.85
+Curr RVOL           1.72        Time Adj RVOL            9.56
+Curr Vol Rank       26          Time Adj Vol Rank        3
+Float Rotation      0.19        Time Adj Float Rotation  1.08
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 126,149,122
+Shares Outstanding         91,412,299
+Float                      90,730,409
+Short Float                0.35
+Short Interest             32,060,000   Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  36,040,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             566,270,000
+Cash              566,270,000
+ST Debt           6,200,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-06 11:31:00', 'Why Is Whiting (WLL) Up 30.2% Since Last Earnings Report? Zacks', 'https://finance.yahoo.com/news/why-whiting-wll-30-2-153103272.html']
+
+
+### ERRORS
+finviz ['Short Interest']

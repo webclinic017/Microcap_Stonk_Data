@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------------
+Ticker              HEXO
+Timestamp           2020-06-08 10:17:02.292499
+Comp Name           HEXO Corp.
+Industry            Agricultural Commodities/Milling
+Sector              Process Industries
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    13
+Held High Perc      0.54
+VWavg Run           0.71
+Avg Continuation   -0.14
+
+### VOLUME STATS
+------------------  ----------  -----------------------  ------------
+Curr Vol            29,025,673  Time Adj Curr Vol        69,480,415.0
+Curr RVOL           5.23        Time Adj RVOL            12.52
+Curr Vol Rank       9           Time Adj Vol Rank        2
+Float Rotation      0.07        Time Adj Float Rotation  0.18
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 329,294,177
+Shares Outstanding         407,858,000
+Float                      388,400,302
+Short Float                0.07
+Short Interest             24,277,396   Report Date             2020-MayB
+Prev Month Short Interest  25,570,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  -----------
+CASTI             105,690,000
+Cash              104,770,000
+ST Debt           380,820,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 10:21:47', 'HEXO Option Alert: Jan 15 $1 Calls Sweep (26) near the Ask: 691 @ $0.3 vs 68496 OI; Earnings 6/11 Before Open Ref=$0.99', 'https://www.benzinga.com/markets/options/20/06/16202231/hexo-option-alert-jan-15-1-calls-sweep-26-near-the-ask-691-0-3-vs-68496-oi-earnings-611-before-op']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Market Cap']
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

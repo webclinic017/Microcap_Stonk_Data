@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              JFIN
+Timestamp           2020-06-10 09:10:56.534578
+Comp Name           Jiayin Group, Inc.
+Industry            Finance/Rental/Leasing
+Sector              Finance
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    16
+Held High Perc      0.56
+VWavg Run           1.35
+Avg Continuation   -0.58
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            3,568,122  Time Adj Curr Vol        15,988,911.53
+Curr RVOL           38.89      Time Adj RVOL            174.27
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.09       Time Adj Float Rotation  0.39
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 74,545,063
+Shares Outstanding         79,399,384
+Float                      40,516,146
+Short Float                0.24
+Short Interest             25,619      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,385,359  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             27,530,000
+Cash              17,540,000
+ST Debt           392,638
+LT Debt           194,060,000
+
+### NEWS HEADLINES
+['2020-06-10 05:46:49', '90 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16219250/90-biggest-movers-from-yesterday']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+marketwatch overview ['Float', 'Assigned Short Float', 'Calculated Short Float']

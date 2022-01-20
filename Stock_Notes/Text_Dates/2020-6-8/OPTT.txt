@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  -----------------------------
+Ticker              OPTT
+Timestamp           2020-06-08 10:16:14.821075
+Comp Name           Ocean Power Technologies Inc.
+Industry            Industrial Products
+Sector              Industrials
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.29
+VWavg Run           0.82
+Avg Continuation   -0.4
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,588,510  Time Adj Curr Vol        8,590,021.81
+Curr RVOL           6.66       Time Adj RVOL            15.95
+Curr Vol Rank       7          Time Adj Vol Rank        6
+Float Rotation      0.39       Time Adj Float Rotation  0.94
+
+### SHARE STATS
+-------------------------  ---------  ----------------------  -----------------------------------------
+Market Cap                 4,478,123
+Shares Outstanding         9,255,551
+Float                      9,135,891
+Short Float                0.02
+Short Interest             158,712    Report Date             2020-MayB
+Prev Month Short Interest  190,325    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             10,580,000
+Cash              10,580,000
+ST Debt           3,110,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 07:37:18', "11 Industrials Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199779/11-industrials-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

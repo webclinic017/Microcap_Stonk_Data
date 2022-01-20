@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              MOSY
+Timestamp           2020-06-09 09:03:02.291454
+Comp Name           MoSys, Inc.
+Industry            Semiconductors
+Sector              Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.18
+VWavg Run           0.84
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,349,045  Time Adj Curr Vol        21,551,505.84
+Curr RVOL           40.67      Time Adj RVOL            201.54
+Curr Vol Rank       2          Time Adj Vol Rank        1
+Float Rotation      1.24       Time Adj Float Rotation  6.15
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 5,793,352
+Shares Outstanding         6,171,355
+Float                      3,504,042
+Short Float                0.0
+Short Interest             17,299      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,385,909  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             5,640,000
+Cash              5,640,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 07:39:59', "17 Technology Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199775/17-technology-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 06:06:59', "MoSys Announces Availability of its Graph Memory Engine (GME) Accelerator IP Targeting Packet Classification on Intel's Stratix 10 FPGAs -", 'https://www.benzinga.com/news/20/06/16199224/mosys-announces-availability-of-its-graph-memory-engine-gme-accelerator-ip-targeting-packet-classifi']
+['2020-06-08 06:00:00', "MoSys Announces Availability of its Graph Memory Engine (GME) Accelerator IP Targeting Packet Classification on Intel's Stratix 10 FPGAs ACCESSWIRE", 'https://finance.yahoo.com/news/mosys-announces-availability-graph-memory-100000850.html']
+
+
+### ERRORS

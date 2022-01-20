@@ -1,0 +1,49 @@
+##w# GENERAL INFO
+------------------  --------------------------
+Ticker              NKLAW
+Timestamp           2020-06-09 09:50:33.207500
+Comp Name           Nikola Corp.
+Industry            Motor Vehicles
+Sector              Consumer Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    1
+Held High Perc     1
+VWavg Run          1.31
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            12,232,040  Time Adj Curr Vol        34,882,743.87
+Curr RVOL           4.09        Time Adj RVOL            11.67
+Curr Vol Rank       1           Time Adj Vol Rank        1
+Float Rotation      0.16        Time Adj Float Rotation  0.46
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 150,359,952
+Shares Outstanding         83,887,504
+Float                      76,032,292
+Short Float                0.24
+Short Interest             11,719,609   Report Date             nan
+Prev Month Short Interest  20,738,018   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI
+Cash
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Prev Month Short Interest', 'Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+benzinga news ['Request Failure']
+marketwatch financials ['Pandas HTML Parse Error']
+marketwatch overview ['Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+finviz ['Request Failure']

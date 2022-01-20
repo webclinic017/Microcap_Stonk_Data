@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              FOSL
+Timestamp           2020-06-08 10:18:52.968746
+Comp Name           Fossil Group, Inc.
+Industry            Other Consumer Specialties
+Sector              Consumer Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    4
+Held High Perc     1
+VWavg Run          0.39
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,619,846  Time Adj Curr Vol        6,103,963.15
+Curr RVOL           1.79       Time Adj RVOL            4.16
+Curr Vol Rank       32         Time Adj Vol Rank        3
+Float Rotation      0.06       Time Adj Float Rotation  0.13
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 265,514,217
+Shares Outstanding         50,573,828
+Float                      45,744,844
+Short Float                0.29
+Short Interest             13,238,592   Report Date             2020-MayB
+Prev Month Short Interest  13,120,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  -----------
+CASTI             245,400,000
+Cash              245,400,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 10:57:49', 'Shares of several consumer discretionary companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16202691/shares-of-several-consumer-discretionary-companies-are-trading-higher-on-continued-upward-momentum-s']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

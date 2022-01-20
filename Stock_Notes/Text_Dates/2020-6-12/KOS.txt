@@ -1,0 +1,47 @@
+### GENERAL INFO -- Total Score:16.9026
+-----------------------------------------  --------------------------
+Ticker                                     KOS
+Timestamp                                  2020-06-12 08:49:33.837695
+Comp Name                                  Kosmos Energy Ltd.
+Industry                                   Oil & Gas Production
+Sector                                     Energy Minerals
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:7.1151
+---------------------------------  ----
+Total Run Count                    10
+Held High Perc                     0.5
+VWavg Run                          0.51
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:1.6929
+----------------------------------  ---------  -----------------------  -------------
+Curr Vol                            2,483,648  Time Adj Curr Vol        18,644,427.11
+Curr RVOL                           0.38       Time Adj RVOL            2.87
+Curr Vol Rank                       332        Time Adj Vol Rank        12
+Float Rotation                      0.01       Time Adj Float Rotation  0.05
+
+### SHARE STATS -- Score:8.0946
+---------------------------------  -----------  ----------------------  -------------------
+Market Cap                         786,070,205
+Shares Outstanding                 405,190,305
+Float                              385,940,597
+Short Float                        0.07
+Short Interest                     23,678,630   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest          24,005,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------------
+CASTI             130,220,000
+Cash              130,220,000
+ST Debt           5,690,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']

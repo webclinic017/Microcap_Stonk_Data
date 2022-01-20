@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              TRUE
+Timestamp           2020-06-10 09:10:56.534578
+Comp Name           TrueCar, Inc.
+Industry            Online Media
+Sector              Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    2
+Held High Perc     0.5
+VWavg Run          0.11
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            3,455,418  Time Adj Curr Vol        15,483,879.95
+Curr RVOL           2.44       Time Adj RVOL            10.91
+Curr Vol Rank       32         Time Adj Vol Rank        1
+Float Rotation      0.04       Time Adj Float Rotation  0.16
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 308,938,198
+Shares Outstanding         107,760,084
+Float                      95,692,566
+Short Float                0.12
+Short Interest             11,062,749   Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  15,874,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             182,860,000
+Cash              182,860,000
+ST Debt           118,530,000
+LT Debt           63,120,000
+
+### NEWS HEADLINES
+['2020-06-10 07:40:52', "TrueCar shares are trading higher after B. Riley upgraded the company's stock from Neutral to Buy and announced a $5 price target.", 'https://www.benzinga.com/wiim/20/06/16220023/truecar-shares-are-trading-higher-after-b-riley-upgraded-the-companys-stock-from-neutral-to-buy-and']
+['2020-06-10 06:18:38', 'B. Riley FBR Upgrades TrueCar to Buy, Announces $5 Price Target', 'https://www.benzinga.com/news/20/06/16219428/b-riley-fbr-upgrades-truecar-to-buy-announces-5-price-target']
+
+
+### ERRORS

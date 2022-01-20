@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  ---------------------------------
+Ticker              TRXC
+Timestamp           2020-06-08 11:23:45.376431
+Comp Name           TransEnterix, Inc.
+Industry            Miscellaneous Commercial Services
+Sector              Commercial Services
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    15
+Held High Perc      0.47
+VWavg Run           1.02
+Avg Continuation   -0.5
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,289,776  Time Adj Curr Vol        11,265,294.18
+Curr RVOL           7.76       Time Adj RVOL            13.9
+Curr Vol Rank       8          Time Adj Vol Rank        4
+Float Rotation      0.15       Time Adj Float Rotation  0.26
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 31,440,606
+Shares Outstanding         51,839,161
+Float                      43,016,673
+Short Float                0.06
+Short Interest             2,417,112   Report Date             2020-MayB
+Prev Month Short Interest  3,130,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             21,820,000
+Cash              21,820,000
+ST Debt           17,630,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:48:00', 'Implied Volatility Surging for TransEnterix (TRXC) Stock Options Zacks +23.66%', 'https://finance.yahoo.com/news/implied-volatility-surging-transenterix-trxc-124812592.html']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS

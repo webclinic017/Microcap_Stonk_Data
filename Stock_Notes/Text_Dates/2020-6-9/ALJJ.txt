@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  ---------------------------------
+Ticker              ALJJ
+Timestamp           2020-06-09 09:03:02.291454
+Comp Name           ALJ Regional Holdings, Inc.
+Industry            Miscellaneous Commercial Services
+Sector              Commercial Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.35
+VWavg Run           1.28
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            4,394,456  Time Adj Curr Vol        21,776,538.1
+Curr RVOL           62.86      Time Adj RVOL            311.52
+Curr Vol Rank       2          Time Adj Vol Rank        1
+Float Rotation      0.29       Time Adj Float Rotation  1.43
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 27,075,047
+Shares Outstanding         42,178,399
+Float                      15,271,859
+Short Float                0.0
+Short Interest             16,837      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,376,709  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             3,100,000
+Cash              3,100,000
+ST Debt           129,660,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

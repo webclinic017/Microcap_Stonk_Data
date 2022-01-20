@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              TLRD
+Timestamp           2020-06-08 10:15:26.678389
+Comp Name           Tailored Brands, Inc.
+Industry            Apparel/Footwear Retail
+Sector              Retail Trade
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    11
+Held High Perc      0.46
+VWavg Run           0.54
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,991,280  Time Adj Curr Vol        7,160,398.17
+Curr RVOL           1.13       Time Adj RVOL            2.7
+Curr Vol Rank       104        Time Adj Vol Rank        11
+Float Rotation      0.06       Time Adj Float Rotation  0.15
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 89,702,567
+Shares Outstanding         48,751,313
+Float                      47,957,878
+Short Float                0.46
+Short Interest             21,780,000  Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  22,905,000  Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             14,420,000
+Cash              14,420,000
+ST Debt           2,270,000,000
+LT Debt           79,270,000
+
+### NEWS HEADLINES
+['2020-06-08 10:55:51', 'Shares of several retail and apparel companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16202669/shares-of-several-retail-and-apparel-companies-are-trading-higher-on-continued-upward-momentum-surro']
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+finviz ['Short Interest']

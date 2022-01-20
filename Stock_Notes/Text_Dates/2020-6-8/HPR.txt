@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              HPR
+Timestamp           2020-06-08 08:57:31.278617
+Comp Name           HighPoint Resources Corp.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.5
+VWavg Run           0.73
+Avg Continuation   -0.35
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            8,367,832  Time Adj Curr Vol        46,395,267.35
+Curr RVOL           4.87       Time Adj RVOL            27.0
+Curr Vol Rank       7          Time Adj Vol Rank        1
+Float Rotation      0.08       Time Adj Float Rotation  0.42
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 75,237,661
+Shares Outstanding         215,063,745
+Float                      110,408,393
+Short Float                0.15
+Short Interest             15,919,397   Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  15,495,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             11,200,000
+Cash              11,200,000
+ST Debt           3,000,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

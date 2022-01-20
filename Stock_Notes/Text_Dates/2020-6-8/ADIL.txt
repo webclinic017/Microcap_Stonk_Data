@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  ---------------------------
+Ticker              ADIL
+Timestamp           2020-06-08 10:18:14.838014
+Comp Name           Adial Pharmaceuticals, Inc.
+Industry            Pharmaceuticals: Major
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    35
+Held High Perc      0.31
+VWavg Run           0.94
+Avg Continuation   -0.3
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,964,231  Time Adj Curr Vol        6,906,343.66
+Curr RVOL           14.66      Time Adj RVOL            34.17
+Curr Vol Rank       4          Time Adj Vol Rank        2
+Float Rotation      0.39       Time Adj Float Rotation  0.91
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 18,230,787
+Shares Outstanding         10,629,468
+Float                      7,620,638
+Short Float                0.0
+Short Interest             3,853       Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  6,375       Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ---------
+CASTI             4,950,000
+Cash              4,950,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 09:32:59', 'Shares Of Adial Pharmaceuticals Halted On Volatility', 'https://www.benzinga.com/news/20/06/16201346/shares-of-adial-pharmaceuticals-halted-on-volatility']
+['2020-06-08 09:30:00', 'Adial Pharmaceuticals and BioLab Sciences Enter into Distribution Agreement for COVID-19 Antibody Tests ACCESSWIRE +20.32%', 'https://finance.yahoo.com/news/adial-pharmaceuticals-biolab-sciences-enter-133000979.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

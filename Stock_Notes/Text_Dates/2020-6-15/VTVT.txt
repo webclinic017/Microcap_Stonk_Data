@@ -1,0 +1,96 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                VTVT
+Timestamp                             2020-06-15 07:52:56.205279
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:8.5956
+---------------------------------  -----
+Total Run Count                    21
+Held High Perc                      0.29
+VWavg Run                           0.75
+Avg Continuation                    0.02
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:26.3543
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          186,792,573
+Shares Outstanding                  22,340,163,567,504
+Float                               10,472,147
+Short Float                         0.21
+Short Interest                      15,898,630          Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,875,899          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             2,910,000
+Cash              2,910,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-14 08:19:13', 'vTv Therapeutics Presents Two Late-Breaking Poster Sessions on Simplici-T1 Study at ADA Virtual Sessions Supporting the Potential of TTP399 as First-in-Class Oral Adjunctive Therapy for Type 1 Diabetes Patients', 'https://www.benzinga.com/news/20/06/16249668/vtv-therapeutics-presents-two-late-breaking-poster-sessions-on-simplici-t1-study-at-ada-virtual-sess']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                VTVT
+Timestamp                             2020-06-15 07:52:56.205279
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:8.5956
+---------------------------------  -----
+Total Run Count                    21
+Held High Perc                      0.29
+VWavg Run                           0.75
+Avg Continuation                    0.02
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:26.3543
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          186,792,573
+Shares Outstanding                  22,340,163,567,504
+Float                               10,472,147
+Short Float                         0.21
+Short Interest                      15,898,630          Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           11,875,899          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             2,910,000
+Cash              2,910,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-14 08:19:13', 'vTv Therapeutics Presents Two Late-Breaking Poster Sessions on Simplici-T1 Study at ADA Virtual Sessions Supporting the Potential of TTP399 as First-in-Class Oral Adjunctive Therapy for Type 1 Diabetes Patients', 'https://www.benzinga.com/news/20/06/16249668/vtv-therapeutics-presents-two-late-breaking-poster-sessions-on-simplici-t1-study-at-ada-virtual-sess']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']

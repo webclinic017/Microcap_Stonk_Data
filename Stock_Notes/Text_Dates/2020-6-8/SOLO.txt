@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              SOLO
+Timestamp           2020-06-08 11:26:50.570865
+Comp Name           Electrameccanica Vehicles Corp.
+Industry            Motor Vehicles
+Sector              Consumer Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.29
+VWavg Run           0.63
+Avg Continuation   -0.47
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -----------
+Curr Vol            4,921,661  Time Adj Curr Vol        8,814,933.8
+Curr RVOL           5.02       Time Adj RVOL            8.99
+Curr Vol Rank       13         Time Adj Vol Rank        10
+Float Rotation      0.25       Time Adj Float Rotation  0.44
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 52,061,864
+Shares Outstanding         38,290,862
+Float                      19,959,570
+Short Float                0.04
+Short Interest             787,255     Report Date             2020-MayB
+Prev Month Short Interest  1,007,450   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ---------
+CASTI             5,290,000
+Cash              5,290,000
+ST Debt           7,940,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 11:59:44', 'Shares of several automotive companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16203312/shares-of-several-automotive-companies-are-trading-higher-on-continued-upward-momentum-surrounding-t']
+['2020-06-08 08:32:00', 'ElectraMeccanica Begins Proposed Site Visits In Second Phase Of BDO-Led Search For SOLO EV US Assembly Facility And Engineering Technical Center', 'https://www.benzinga.com/news/20/06/16200508/electrameccanica-begins-proposed-site-visits-in-second-phase-of-bdo-led-search-for-solo-ev-us-assemb']
+['2020-06-08 08:31:00', 'ElectraMeccanica Begins Proposed Site Visits in Second Phase of BDO-Led Search for SOLO EV U.S. Assembly Facility and Engineering Technical Center GlobeNewswire +24.26%', 'https://finance.yahoo.com/news/electrameccanica-begins-proposed-visits-second-123110376.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

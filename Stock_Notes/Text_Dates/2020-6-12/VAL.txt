@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:26.4972
+-----------------------------------------  --------------------------
+Ticker                                     VAL
+Timestamp                                  2020-06-12 08:47:42.759912
+Comp Name                                  Valaris Plc
+Industry                                   Contract Drilling
+Sector                                     Industrial Services
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:9.2734
+---------------------------------  -----
+Total Run Count                    18
+Held High Perc                      0.39
+VWavg Run                           2.75
+Avg Continuation                    0.09
+
+### VOLUME STATS -- Score:1.9318
+----------------------------------  ---------  -----------------------  -------------
+Curr Vol                            4,097,250  Time Adj Curr Vol        30,757,530.44
+Curr RVOL                           0.5        Time Adj RVOL            3.73
+Curr Vol Rank                       255        Time Adj Vol Rank        8
+Float Rotation                      0.02       Time Adj Float Rotation  0.15
+
+### SHARE STATS -- Score:15.292
+---------------------------------  -----------  ----------------------  -------------------
+Market Cap                         191,064,231
+Shares Outstanding                 205,077,668
+Float                              202,501,928
+Short Float                        0.31
+Short Interest                     35,861,964   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest          44,150,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --------------
+CASTI             184,900,000
+Cash              184,900,000
+ST Debt           14,520,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

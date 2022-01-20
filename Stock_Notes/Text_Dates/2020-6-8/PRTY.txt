@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  ----------------------------
+Ticker              PRTY
+Timestamp           2020-06-08 10:13:48.377890
+Comp Name           Party City Holdco, Inc.
+Industry            Retail - Apparel & Specialty
+Sector              Consumer Cyclical
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.64
+VWavg Run           1.22
+Avg Continuation    1
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            13,051,450  Time Adj Curr Vol        31,242,002.98
+Curr RVOL           3.42        Time Adj RVOL            8.18
+Curr Vol Rank       17          Time Adj Vol Rank        5
+Float Rotation      0.15        Time Adj Float Rotation  0.35
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 168,194,598
+Shares Outstanding         94,491,208
+Float                      88,603,791
+Short Float                0.25
+Short Interest             22,359,166   Report Date             2020-MayB
+Prev Month Short Interest  16,090,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             35,180,000
+Cash              35,180,000
+ST Debt           1,450,000,000
+LT Debt           1,070,000,000
+
+### NEWS HEADLINES
+['2020-06-08 10:55:51', 'Shares of several retail and apparel companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16202669/shares-of-several-retail-and-apparel-companies-are-trading-higher-on-continued-upward-momentum-surro']
+
+
+### ERRORS

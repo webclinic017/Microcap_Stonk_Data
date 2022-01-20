@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  -------------------------------------
+Ticker              CDEV
+Timestamp           2020-06-08 10:15:57.755416
+Comp Name           Centennial Resource Development, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.61
+VWavg Run           0.98
+Avg Continuation    0.97
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            24,715,648  Time Adj Curr Vol        59,163,261.44
+Curr RVOL           3.27        Time Adj RVOL            7.82
+Curr Vol Rank       17          Time Adj Vol Rank        1
+Float Rotation      0.14        Time Adj Float Rotation  0.35
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 321,859,542
+Shares Outstanding         276,182,777
+Float                      171,406,529
+Short Float                0.19
+Short Interest             30,822,075   Report Date             2020-MayB
+Prev Month Short Interest  25,640,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             3,840,000
+Cash              3,840,000
+ST Debt           5,610,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

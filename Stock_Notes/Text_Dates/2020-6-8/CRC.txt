@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CRC
+Timestamp           2020-06-08 10:12:32.609893
+Comp Name           California Resources Corp.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.56
+VWavg Run           0.85
+Avg Continuation   -0.24
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            8,142,966  Time Adj Curr Vol        19,492,283.85
+Curr RVOL           2.68       Time Adj RVOL            6.41
+Curr Vol Rank       17         Time Adj Vol Rank        2
+Float Rotation      0.17       Time Adj Float Rotation  0.41
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 99,210,787
+Shares Outstanding         49,358,901
+Float                      47,442,688
+Short Float                0.29
+Short Interest             13,990,000  Report Date             2020-MayB
+Prev Month Short Interest  14,635,000  Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             17,000,000
+Cash              17,000,000
+ST Debt           22,950,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:58:00', 'Is the Options Market Predicting a Spike in California Resources (CRC) Stock? Zacks +45.72%', 'https://finance.yahoo.com/news/options-market-predicting-spike-california-125812058.html']
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+['2020-06-06 19:00:00', 'CEOs Bank Big Bonuses As Oil Companies Go Bankrupt Oilprice.com', 'https://finance.yahoo.com/news/ceos-bank-big-bonuses-oil-230000354.html']
+
+
+### ERRORS
+finviz ['Short Interest']

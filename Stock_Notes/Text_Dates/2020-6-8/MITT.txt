@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  ----------------------------------
+Ticker              MITT
+Timestamp           2020-06-08 10:09:30.291784
+Comp Name           AG Mortgage Investment Trust, Inc.
+Industry            Real Estate Investment Trusts
+Sector              Finance
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    15
+Held High Perc      0.27
+VWavg Run           1.16
+Avg Continuation    0.12
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            12,705,638  Time Adj Curr Vol        31,361,299.95
+Curr RVOL           14.28       Time Adj RVOL            35.26
+Curr Vol Rank       5           Time Adj Vol Rank        1
+Float Rotation      0.4         Time Adj Float Rotation  0.98
+
+### SHARE STATS
+-------------------------  ------------  ----------------------  -----------------------------------------
+Market Cap                 $115,582,837
+Shares Outstanding         32,823,479
+Float                      32,160,002
+Short Float                52.0%
+Short Interest             16,730,000    Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  8,380,000     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             $125,370,000
+Cash              $125,370,000
+ST Debt           $3,290,000,000
+LT Debt           $40,960,000
+
+### NEWS HEADLINES
+['2020-06-08 08:10:55', "10 Real Estate Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199778/10-real-estate-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+finviz ['Short Interest']

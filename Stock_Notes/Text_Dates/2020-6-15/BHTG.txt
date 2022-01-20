@@ -1,0 +1,94 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                BHTG
+Timestamp                             2020-06-15 07:51:37.107201
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:5.0649
+---------------------------------  -----
+Total Run Count                    14
+Held High Perc                      0.29
+VWavg Run                           0.79
+Avg Continuation                   -0.12
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:24.9591
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          21,099,961
+Shares Outstanding                  8,718,713,067,504
+Float                               12,494,097
+Short Float                         0.0
+Short Interest                      23,819             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,998,249         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             2,980,000
+Cash              2,980,000
+ST Debt           42,830,000
+LT Debt           58,000
+
+### NEWS HEADLINES
+['2020-06-15 08:19:10', 'BioHiTech To Conduct Live Product Demonstrations of Altapure High-Level Disinfectant Technology For Use Against Bacteria, Viruses Such As Coronavirus With Potential Customers Starting In June', 'https://www.benzinga.com/news/20/06/16252358/biohitech-to-conduct-live-product-demonstrations-of-altapure-high-level-disinfectant-technology-for']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                BHTG
+Timestamp                             2020-06-15 07:51:37.107201
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:5.0649
+---------------------------------  -----
+Total Run Count                    14
+Held High Perc                      0.29
+VWavg Run                           0.79
+Avg Continuation                   -0.12
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:24.9591
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          21,099,961
+Shares Outstanding                  8,718,713,067,504
+Float                               12,494,097
+Short Float                         0.0
+Short Interest                      23,819             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,998,249         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             2,980,000
+Cash              2,980,000
+ST Debt           42,830,000
+LT Debt           58,000
+
+### NEWS HEADLINES
+['2020-06-15 08:19:10', 'BioHiTech To Conduct Live Product Demonstrations of Altapure High-Level Disinfectant Technology For Use Against Bacteria, Viruses Such As Coronavirus With Potential Customers Starting In June', 'https://www.benzinga.com/news/20/06/16252358/biohitech-to-conduct-live-product-demonstrations-of-altapure-high-level-disinfectant-technology-for']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']

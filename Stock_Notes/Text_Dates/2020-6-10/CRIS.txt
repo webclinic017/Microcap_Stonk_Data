@@ -1,0 +1,49 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CRIS
+Timestamp           2020-06-10 08:55:08.505436
+Comp Name           Curis, Inc.
+Industry            Biotechnology
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    10
+Held High Perc      0.6
+VWavg Run           0.69
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            10,082,697  Time Adj Curr Vol        63,871,732.28
+Curr RVOL           36.3        Time Adj RVOL            229.92
+Curr Vol Rank       2           Time Adj Vol Rank        1
+Float Rotation      0.33        Time Adj Float Rotation  2.07
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 44,630,464
+Shares Outstanding         40,634,630
+Float                      30,911,947
+Short Float                0.0
+Short Interest             42,659      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,405,159  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             12,690,000
+Cash              12,690,000
+ST Debt
+LT Debt           8,980,000
+
+### NEWS HEADLINES
+['2020-06-10 08:21:24', 'Curis shares are trading higher after the company announced that the FDA gave clearance for its IND application for CI-8993 monoclonal anti-VISTA antibody.', 'https://www.benzinga.com/wiim/20/06/16220585/curis-shares-are-trading-higher-after-the-company-announced-that-the-fda-gave-clearance-for-its-ind']
+['2020-06-10 08:08:46', 'Curis Announces FDA Clearance Of IND Application For CI-8993 Monoclonal Anti-VISTA Antibody', 'https://www.benzinga.com/general/biotech/20/06/16220500/curis-announces-fda-clearance-of-ind-application-for-ci-8993-monoclonal-anti-vista-antibody']
+['2020-06-10 08:00:00', 'Curis Announces FDA Clearance of IND Application for CI-8993, the First-In-Class Monoclonal Anti-VISTA Antibody PR Newswire +66.39%', 'https://finance.yahoo.com/news/curis-announces-fda-clearance-ind-120000573.html']
+['2020-06-10 07:35:30', "20 Healthcare Stocks Moving In Wednesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16219958/20-healthcare-stocks-moving-in-wednesdays-pre-market-session']
+['2020-06-10 07:30:59', 'The Daily Biotech Pulse: Keytruda Setback For Merck, Denali Pulls The Plug On Neurological Asset', 'https://www.benzinga.com/general/biotech/20/06/16219829/the-daily-biotech-pulse-keytruda-setback-for-merck-denali-pulls-the-plug-on-neurological-asset']
+['2020-06-10 07:17:10', "34 Stocks Moving in Wednesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16219857/34-stocks-moving-in-wednesdays-pre-market-session']
+
+
+### ERRORS

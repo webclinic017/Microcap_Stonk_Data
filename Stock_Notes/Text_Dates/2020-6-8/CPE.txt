@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CPE
+Timestamp           2020-06-08 08:58:06.020503
+Comp Name           Callon Petroleum Co.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    13
+Held High Perc      0.39
+VWavg Run           1.13
+Avg Continuation    0.24
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            28,958,745  Time Adj Curr Vol        160,561,148.5
+Curr RVOL           1.65        Time Adj RVOL            9.13
+Curr Vol Rank       57          Time Adj Vol Rank        1
+Float Rotation      0.08        Time Adj Float Rotation  0.42
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 545,591,345
+Shares Outstanding         396,996,727
+Float                      385,266,374
+Short Float                0.24
+Short Interest             90,880,000   Report Date             2020-MayB
+Prev Month Short Interest  82,710,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             14,800,000
+Cash              14,800,000
+ST Debt           9,580,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:54.68867287741203
+---------------------------------------------------  --------------------------
+Ticker                                               NK
+Timestamp                                            2020-06-11 12:08:40.802558
+Comp Name                                            NantKwest, Inc.
+Industry                                             Biotechnology
+Sector                                               Health Technology
+Exchange                                             NASDAQ
+
+### PRICE STATS -- Score:12.1815
+----------------------------------  -----
+Total Run Count                     19
+Held High Perc                       0.53
+VWavg Run                            0.74
+Avg Continuation                     1.03
+
+### VOLUME STATS -- Score:24.84717287741203
+---------------------------------------------  ---------  -----------------------  -------------
+Curr Vol                                       9,420,457  Time Adj Curr Vol        14,990,324.85
+Curr RVOL                                      11.3       Time Adj RVOL            17.98
+Curr Vol Rank                                  4          Time Adj Vol Rank        3
+Float Rotation                                 0.34       Time Adj Float Rotation  0.53
+
+### SHARE STATS -- Score:17.66
+--------------------------------  -----------  ----------------------  -------------------
+Market Cap                        611,740,918
+Shares Outstanding                98,586,808
+Float                             28,058,229
+Short Float                       0.15
+Short Interest                    5,247,494    Report Date             2020-JunA
+Prev Month Short Interest         12,814,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             40,220,000
+Cash              16,950,000
+ST Debt           90,420,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-10 09:03:15', 'NantKwest Reports Studies In Collaboration With National Cancer Institute Showing Enhanced Killing Activity of First-in-Class PD-L1 t-haNK Natural Killer Cell Across Every Cancer Cell Line Tested', 'https://www.benzinga.com/news/20/06/16221213/nantkwest-reports-studies-in-collaboration-with-national-cancer-institute-showing-enhanced-killing-a']
+['2020-06-10 09:00:00', 'NantKwest Announces Studies in Collaboration with the National Cancer Institute Demonstrating Enhanced Killing Activity of First-in-Class PD-L1 t-haNK Natural Killer Cell Across Every Cancer Cell Line Tested Business Wire +9.91%', 'https://finance.yahoo.com/news/nantkwest-announces-studies-collaboration-national-130000650.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']

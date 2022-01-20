@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  -----------------------------------
+Ticker              EYES
+Timestamp           2020-06-09 08:54:09.422311
+Comp Name           Second Sight Medical Products, Inc.
+Industry            Medical Specialties
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.5
+VWavg Run           0.86
+Avg Continuation   -0.56
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            5,206,896  Time Adj Curr Vol        32,984,574.2
+Curr RVOL           38.05      Time Adj RVOL            241.04
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.41       Time Adj Float Rotation  2.58
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 29,214,250
+Shares Outstanding         36,136,649
+Float                      12,780,450
+Short Float                0.06
+Short Interest             733,227     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,756,309  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             11,330,000
+Cash              11,330,000
+ST Debt           7,120,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 07:11:42', "34 Stocks Moving in Tuesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16209870/34-stocks-moving-in-tuesdays-pre-market-session']
+
+
+### ERRORS

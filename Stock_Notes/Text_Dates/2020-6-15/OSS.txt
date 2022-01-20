@@ -1,0 +1,94 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                OSS
+Timestamp                             2020-06-15 07:52:47.023793
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:5.3747
+---------------------------------  ----
+Total Run Count                    11
+Held High Perc                     0.27
+VWavg Run                          0.41
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:24.5018
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          27,723,247
+Shares Outstanding                  8,242,750,067,504
+Float                               10,159,823
+Short Float                         0.0
+Short Interest                      43,844             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,999,399         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,040,000
+Cash              3,040,000
+ST Debt           6,300,000
+LT Debt           7,120,000
+
+### NEWS HEADLINES
+['2020-06-15 08:34:58', 'OSS Orders for New U.S. Navy AI Threat Detection System Top $1M', 'https://www.benzinga.com/news/20/06/16252575/oss-orders-for-new-u-s-navy-ai-threat-detection-system-top-1m']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                OSS
+Timestamp                             2020-06-15 07:52:47.023793
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:5.3747
+---------------------------------  ----
+Total Run Count                    11
+Held High Perc                     0.27
+VWavg Run                          0.41
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:24.5018
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          27,723,247
+Shares Outstanding                  8,242,750,067,504
+Float                               10,159,823
+Short Float                         0.0
+Short Interest                      43,844             Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,999,399         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,040,000
+Cash              3,040,000
+ST Debt           6,300,000
+LT Debt           7,120,000
+
+### NEWS HEADLINES
+['2020-06-15 08:34:58', 'OSS Orders for New U.S. Navy AI Threat Detection System Top $1M', 'https://www.benzinga.com/news/20/06/16252575/oss-orders-for-new-u-s-navy-ai-threat-detection-system-top-1m']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']

@@ -1,0 +1,46 @@
+### GENERAL INFO -- Total Score:212.45329765792638
+----------------------------------------------------  --------------------------
+Ticker                                                OPHC
+Timestamp                                             2020-06-11 12:08:27.974373
+Comp Name                                             OptimumBank Holdings, Inc.
+Industry                                              Regional Banks
+Sector                                                Finance
+Exchange                                              NASDAQ
+
+### PRICE STATS -- Score:3.4337
+---------------------------------  -----
+Total Run Count                    15
+Held High Perc                      0.13
+VWavg Run                           0.25
+Avg Continuation                   -0.54
+
+### VOLUME STATS -- Score:161.4295976579264
+---------------------------------------------  ---------  -----------------------  ------------
+Curr Vol                                       1,162,295  Time Adj Curr Vol        1,849,504.71
+Curr RVOL                                      162.15     Time Adj RVOL            258.02
+Curr Vol Rank                                  1          Time Adj Vol Rank        1
+Float Rotation                                 0.53       Time Adj Float Rotation  0.84
+
+### SHARE STATS -- Score:47.59
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        5,578,049
+Shares Outstanding                3,133,746
+Float                             2,189,029
+Short Float                       0.0
+Short Interest                    2,507       Report Date             2020-05-15 00:00:00
+Prev Month Short Interest         10,369,509  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             14,700,000
+Cash              5.96
+ST Debt           14,900,000
+LT Debt           -
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

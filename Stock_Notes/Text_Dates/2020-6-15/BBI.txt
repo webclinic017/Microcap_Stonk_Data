@@ -1,0 +1,147 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                BBI
+Timestamp                             2020-06-15 07:47:50.656448
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:3.1623
+---------------------------------  ----
+Total Run Count                    10
+Held High Perc                     -
+VWavg Run                          0.67
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:31.0773
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          12,190,546
+Shares Outstanding                  4,837,273,567,504
+Float                               8,156,619
+Short Float                         0.01
+Short Interest                      62,804             Report Date             2020-JunA
+Prev Month Short Interest           11,016,699         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             7,130,000
+Cash              7,130,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-15 06:31:19', 'UPDATE: Brickell Says All Primary, Secondary Endpoints Met, Achieved Statistical Significance', 'https://www.benzinga.com/news/20/06/16251172/update-brickell-says-all-primary-secondary-endpoints-met-achieved-statistical-significance']
+['2020-06-15 06:30:55', 'Brickell Biotech Reports Phase 3 Study Results From Sofpironium Bromide In Japan Released By Its Development Partner, Kaken Pharma', 'https://www.benzinga.com/news/20/06/16251171/brickell-biotech-reports-phase-3-study-results-from-sofpironium-bromide-in-japan-released-by-its-dev']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                BBI
+Timestamp                             2020-06-15 07:47:50.656448
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:3.1623
+---------------------------------  ----
+Total Run Count                    10
+Held High Perc                     -
+VWavg Run                          0.67
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:31.0773
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          12,190,546
+Shares Outstanding                  4,837,273,567,504
+Float                               8,156,619
+Short Float                         0.01
+Short Interest                      62,804             Report Date             2020-JunA
+Prev Month Short Interest           11,016,699         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             7,130,000
+Cash              7,130,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-15 06:31:19', 'UPDATE: Brickell Says All Primary, Secondary Endpoints Met, Achieved Statistical Significance', 'https://www.benzinga.com/news/20/06/16251172/update-brickell-says-all-primary-secondary-endpoints-met-achieved-statistical-significance']
+['2020-06-15 06:30:55', 'Brickell Biotech Reports Phase 3 Study Results From Sofpironium Bromide In Japan Released By Its Development Partner, Kaken Pharma', 'https://www.benzinga.com/news/20/06/16251171/brickell-biotech-reports-phase-3-study-results-from-sofpironium-bromide-in-japan-released-by-its-dev']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                BBI
+Timestamp                             2020-06-15 07:47:50.656448
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:3.1623
+---------------------------------  ----
+Total Run Count                    10
+Held High Perc                     -
+VWavg Run                          0.67
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:31.0773
+----------------------------------  -----------------  ----------------------  -------------------
+Market Cap                          12,190,546
+Shares Outstanding                  4,837,273,567,504
+Float                               8,156,619
+Short Float                         0.01
+Short Interest                      62,804             Report Date             2020-JunA
+Prev Month Short Interest           11,016,699         Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             7,130,000
+Cash              7,130,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+['2020-06-15 06:31:19', 'UPDATE: Brickell Says All Primary, Secondary Endpoints Met, Achieved Statistical Significance', 'https://www.benzinga.com/news/20/06/16251172/update-brickell-says-all-primary-secondary-endpoints-met-achieved-statistical-significance']
+['2020-06-15 06:30:55', 'Brickell Biotech Reports Phase 3 Study Results From Sofpironium Bromide In Japan Released By Its Development Partner, Kaken Pharma', 'https://www.benzinga.com/news/20/06/16251171/brickell-biotech-reports-phase-3-study-results-from-sofpironium-bromide-in-japan-released-by-its-dev']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+iex stock stats ['Request Failure']
+iex stock company info ['Request Failure']

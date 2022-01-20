@@ -1,0 +1,50 @@
+### GENERAL INFO -- Total Score:37.3842
+-----------------------------------------  --------------------------
+Ticker                                     CHAP
+Timestamp                                  2020-06-12 08:48:37.220555
+Comp Name                                  Chaparral Energy, Inc.
+Industry                                   Oil & Gas Production
+Sector                                     Energy Minerals
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:13.7292
+----------------------------------  -----
+Total Run Count                     28
+Held High Perc                       0.54
+VWavg Run                            1.91
+Avg Continuation                     0.24
+
+### VOLUME STATS -- Score:3.3217
+----------------------------------  ---------  -----------------------  ------------
+Curr Vol                            1,460,303  Time Adj Curr Vol        10,962,307.4
+Curr RVOL                           1.47       Time Adj RVOL            11.03
+Curr Vol Rank                       46         Time Adj Vol Rank        6
+Float Rotation                      0.03       Time Adj Float Rotation  0.24
+
+### SHARE STATS -- Score:20.3333
+----------------------------------  ----------  ----------------------  -------------------
+Market Cap                          32,067,165
+Shares Outstanding                  51,509,024
+Float                               45,279,081
+Short Float                         0.11
+Short Interest                      16,928,630  Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           13,505,899  Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------------
+CASTI             13,290,000
+Cash              13,290,000
+ST Debt           1,720,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 11:04:00', "Here's Why You Should Hold on to PBF Energy (PBF) Stock Now Zacks -23.55%", 'https://finance.yahoo.com/news/heres-why-hold-pbf-energy-150403874.html']
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-10 10:56:00', 'Chesapeake (CHK) Witnesses Dramatic Share Price Fluctuations Zacks -19.48%', 'https://finance.yahoo.com/news/chesapeake-chk-witnesses-dramatic-share-145602687.html']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']

@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              ENSV
+Timestamp           2020-06-08 11:24:51.558095
+Comp Name           Enservco Corp.
+Industry            Oil & Gas - Services
+Sector              Energy
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    21
+Held High Perc      0.38
+VWavg Run           1.5
+Avg Continuation    0.06
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            17,976,332  Time Adj Curr Vol        32,196,483.36
+Curr RVOL           10.78       Time Adj RVOL            19.3
+Curr Vol Rank       7           Time Adj Vol Rank        3
+Float Rotation      0.39        Time Adj Float Rotation  0.69
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  ---------
+Market Cap                 12,512,867
+Shares Outstanding         55,612,745
+Float                      46,558,228
+Short Float                0.08
+Short Interest             3,571,460   Report Date             2020-MayB
+Prev Month Short Interest  2,600,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  ----------
+CASTI             217,000
+Cash              217,000
+ST Debt           68,720,000
+LT Debt           546,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

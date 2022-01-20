@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              RNET
+Timestamp           2020-06-09 08:52:08.930643
+Comp Name           RigNet, Inc.
+Industry            Communication Equipment
+Sector              Technology
+Exchange            Nasdaq Global Select
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    11
+Held High Perc      0.73
+VWavg Run           2.84
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,086,424  Time Adj Curr Vol        25,886,623.36
+Curr RVOL           34.2       Time Adj RVOL            216.66
+Curr Vol Rank       2          Time Adj Vol Rank        1
+Float Rotation      0.28       Time Adj Float Rotation  1.75
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 58,503,082
+Shares Outstanding         21,200,857
+Float                      14,809,536
+Short Float                0.04
+Short Interest             599,598     Report Date             2020-MayB
+Prev Month Short Interest  10,618,509  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             13,650,000
+Cash              13,650,000
+ST Debt
+LT Debt           20,460,000
+
+### NEWS HEADLINES
+['2020-06-09 07:38:39', "16 Energy Stocks Moving In Tuesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16210021/16-energy-stocks-moving-in-tuesdays-pre-market-session']
+
+
+### ERRORS

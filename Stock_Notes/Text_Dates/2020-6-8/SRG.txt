@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  -----------------------------
+Ticker              SRG
+Timestamp           2020-06-08 10:14:05.924943
+Comp Name           Seritage Growth Properties
+Industry            Real Estate Investment Trusts
+Sector              Finance
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    10
+Held High Perc      0.5
+VWavg Run           0.76
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,769,058  Time Adj Curr Vol        9,022,209.89
+Curr RVOL           7.75       Time Adj RVOL            18.56
+Curr Vol Rank       4          Time Adj Vol Rank        1
+Float Rotation      0.11       Time Adj Float Rotation  0.26
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 599,415,002
+Shares Outstanding         37,694,033
+Float                      34,280,441
+Short Float                0.5
+Short Interest             17,249,615   Report Date             2020-MayB
+Prev Month Short Interest  13,320,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  -----------
+CASTI             96,740,000
+Cash              96,740,000
+ST Debt
+LT Debt           153,410,000
+
+### NEWS HEADLINES
+['2020-06-08 10:00:54', 'Shares of several real estate companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity.', 'https://www.benzinga.com/wiim/20/06/16201904/shares-of-several-real-estate-companies-are-trading-higher-on-continued-upward-momentum-surrounding']
+['2020-06-08 08:10:55', "10 Real Estate Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199778/10-real-estate-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

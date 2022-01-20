@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              GTE
+Timestamp           2020-06-08 09:01:15.450040
+Comp Name           Gran Tierra Energy, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    6
+Held High Perc     0.5
+VWavg Run          0.57
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            7,668,156  Time Adj Curr Vol        42,515,928.58
+Curr RVOL           2.93       Time Adj RVOL            16.23
+Curr Vol Rank       15         Time Adj Vol Rank        1
+Float Rotation      0.02       Time Adj Float Rotation  0.12
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 169,799,785
+Shares Outstanding         366,981,552
+Float                      359,079,409
+Short Float                0.03
+Short Interest             9,260,000    Report Date             2020-MayB
+Prev Month Short Interest  5,920,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             65,790,000
+Cash              39,770,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+finviz ['Short Interest']

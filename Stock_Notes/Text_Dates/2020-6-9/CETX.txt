@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------------
+Ticker              CETX
+Timestamp           2020-06-09 09:03:02.291454
+Comp Name           Cemtrex, Inc.
+Industry            Electronic Equipment/Instruments
+Sector              Electronic Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    29
+Held High Perc      0.1
+VWavg Run           2.4
+Avg Continuation    0.07
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,122,065  Time Adj Curr Vol        25,382,173.27
+Curr RVOL           3.42       Time Adj RVOL            16.96
+Curr Vol Rank       15         Time Adj Vol Rank        5
+Float Rotation      0.62       Time Adj Float Rotation  3.08
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 20,333,517
+Shares Outstanding         17,035,185
+Float                      8,239,306
+Short Float                0.05
+Short Interest             415,259     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,392,159  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             4,080,000
+Cash              4,059,999
+ST Debt           35,370,000
+LT Debt           4,370,000
+
+### NEWS HEADLINES
+['2020-06-08 09:15:00', 'Cemtrex, Inc. Closes $5.5 Million Registered Direct Offering Priced At-The-Market GlobeNewswire', 'https://finance.yahoo.com/news/cemtrex-inc-closes-5-5-131510126.html']
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

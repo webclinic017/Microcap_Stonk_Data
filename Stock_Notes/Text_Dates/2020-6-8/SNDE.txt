@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              SNDE
+Timestamp           2020-06-08 10:11:57.710695
+Comp Name           Sundance Energy, Inc.
+Industry            Integrated Oil
+Sector              Energy Minerals
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.44
+VWavg Run           1.6
+Avg Continuation    0.02
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -----------
+Curr Vol            3,114,626  Time Adj Curr Vol        7,687,824.9
+Curr RVOL           94.92      Time Adj RVOL            234.28
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.46       Time Adj Float Rotation  1.12
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 22,923,270
+Shares Outstanding         6,888,690
+Float                      6,843,222
+Short Float                0.01
+Short Interest             38,374      Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  45,565      Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --
+CASTI
+Cash
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+yahoo key stats ['Assigned Short Float']
+shortsqueeze ['Market Cap']
+marketwatch financials ['Pandas HTML Parse Error']
+finviz ['Short Interest']

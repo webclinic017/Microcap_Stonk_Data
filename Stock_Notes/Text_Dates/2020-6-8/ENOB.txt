@@ -1,0 +1,48 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              ENOB
+Timestamp           2020-06-08 08:54:38.380194
+Comp Name           Enochian Biosciences, Inc.
+Industry            Financial Conglomerates
+Sector              Finance
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.75
+VWavg Run           0.32
+Avg Continuation   -0.15
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            5,458,520  Time Adj Curr Vol        34,578,558.5
+Curr RVOL           89.05      Time Adj RVOL            564.09
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.39       Time Adj Float Rotation  2.45
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 191,569,225
+Shares Outstanding         46,497,395
+Float                      14,120,045
+Short Float                0.09
+Short Interest             1,318,795    Report Date             2020-MayB
+Prev Month Short Interest  1,290,000    Prev Month Report Date
+
+### FINANCIALS
+----------------  ----------
+CASTI             10,940,000
+Cash              10,940,000
+ST Debt           2,690,000
+LT Debt           11,640,000
+
+### NEWS HEADLINES
+['2020-06-08 09:20:17', 'Enochian Biosciences shares are trading higher after the company announced the completion of an FDA INTERACT meeting for a potential cure for HIV.', 'https://www.benzinga.com/wiim/20/06/16201171/enochian-biosciences-shares-are-trading-higher-after-the-company-announced-the-completion-of-an-fda']
+['2020-06-08 07:31:43', 'Enochian BioSciences Announces Its Completion Of FDA INTERACT Meeting For Potential HIV Cure', 'https://www.benzinga.com/general/biotech/20/06/16199789/enochian-biosciences-announces-its-completion-of-fda-interact-meeting-for-potential-hiv-cure']
+['2020-06-08 07:30:00', 'Enochian BioSciences Announces Its Successful Completion of FDA INTERACT Meeting for a Potential Cure for HIV GlobeNewswire +158.13%', 'https://finance.yahoo.com/news/enochian-biosciences-announces-successful-completion-113010514.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

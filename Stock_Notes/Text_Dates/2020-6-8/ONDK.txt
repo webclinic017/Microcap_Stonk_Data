@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              ONDK
+Timestamp           2020-06-08 10:14:40.682386
+Comp Name           On Deck Capital, Inc.
+Industry            Finance/Rental/Leasing
+Sector              Finance
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.42
+VWavg Run           0.62
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,469,941  Time Adj Curr Vol        5,912,439.16
+Curr RVOL           3.42       Time Adj RVOL            8.18
+Curr Vol Rank       15         Time Adj Vol Rank        1
+Float Rotation      0.05       Time Adj Float Rotation  0.11
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 56,559,906
+Shares Outstanding         58,424,796
+Float                      52,733,911
+Short Float                0.09
+Short Interest             3,553,527   Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  2,590,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             150,240,000
+Cash              150,240,000
+ST Debt           105,000
+LT Debt           66,739,999
+
+### NEWS HEADLINES
+
+
+### ERRORS

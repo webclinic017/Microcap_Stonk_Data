@@ -1,0 +1,52 @@
+### GENERAL INFO -- Total Score:113.28541186121561
+----------------------------------------------------  --------------------------
+Ticker                                                CLDX
+Timestamp                                             2020-06-11 12:07:23.937727
+Comp Name                                             Celldex Therapeutics, Inc.
+Industry                                              Medical Specialties
+Sector                                                Health Technology
+Exchange                                              NASDAQ
+
+### PRICE STATS -- Score:7.1151
+---------------------------------  ----
+Total Run Count                    10
+Held High Perc                     0.5
+VWavg Run                          1.59
+Avg Continuation                   -
+
+### VOLUME STATS -- Score:87.74031186121562
+---------------------------------------------  ----------  -----------------------  -------------
+Curr Vol                                       15,318,755  Time Adj Curr Vol        24,688,813.91
+Curr RVOL                                      40.48       Time Adj RVOL            65.25
+Curr Vol Rank                                  2           Time Adj Vol Rank        1
+Float Rotation                                 0.81        Time Adj Float Rotation  1.31
+
+### SHARE STATS -- Score:18.43
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        90,902,959
+Shares Outstanding                21,899,516
+Float                             18,906,293
+Short Float                       0.02
+Short Interest                    300,699     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest         10,501,109  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI             -
+Cash              -
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 10:39:09', "Insider Buys Celldex Therapeutics' Shares", 'https://www.benzinga.com/news/insider-trades/20/06/16233408/insider-buys-celldex-therapeutics-shares']
+['2020-06-11 08:46:00', 'Implied Volatility Surging for Celldex Therapeutics (CLDX) Stock Options Zacks +50.83%', 'https://finance.yahoo.com/news/implied-volatility-surging-celldex-therapeutics-124612832.html']
+['2020-06-11 08:12:50', 'The Daily Biotech Pulse: Sorrento Submits EUA Application For Rapid Coronavirus Test, Decision Day For Viela, Lantern Pharma IPO', 'https://www.benzinga.com/general/biotech/20/06/16230544/the-daily-biotech-pulse-sorrento-submits-eua-application-for-rapid-coronavirus-test-decision-day-']
+['2020-06-11 05:00:23', '80 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16229795/80-biggest-movers-from-yesterday']
+['2020-06-10 13:31:54', "61 Stocks Moving In Wednesday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16224660/61-stocks-moving-in-wednesdays-mid-day-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+marketwatch financials ['Request Failure']

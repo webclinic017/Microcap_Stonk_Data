@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  ------------------------------
+Ticker              MGEN
+Timestamp           2020-06-10 09:10:56.534578
+Comp Name           Miragen Therapeutics Inc.
+Industry            Medical Diagnostics & Research
+Sector              Healthcare
+Exchange            NASDAQ Capital Market
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    26
+Held High Perc      0.39
+VWavg Run           0.97
+Avg Continuation    0.27
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,576,852  Time Adj Curr Vol        18,891,043.46
+Curr RVOL           5.74       Time Adj RVOL            23.71
+Curr Vol Rank       13         Time Adj Vol Rank        3
+Float Rotation      0.09       Time Adj Float Rotation  0.39
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 47,080,879
+Shares Outstanding         65,517,034
+Float                      48,812,931
+Short Float                0.01
+Short Interest             321,959     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,541,659  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             36,100,000
+Cash              36,100,000
+ST Debt           4,080,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-10 09:51:05', "Miragen Therapeutics Shares Spike To Session High, Up 32%, As Traders Circulate European Patent Office Patent Specification For 'OLIGONUCLEOTIDE-BASED INHIBITORS COMPRISING LOCKED NUCLEIC ACID MOTIF'", 'https://www.benzinga.com/news/20/06/16221816/miragen-therapeutics-shares-spike-to-session-high-up-32-as-traders-circulate-european-patent-office']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

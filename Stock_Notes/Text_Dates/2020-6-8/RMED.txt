@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              RMED
+Timestamp           2020-06-08 10:18:33.738294
+Comp Name           Ra Medical Systems, Inc.
+Industry            Medical Specialties
+Sector              Health Technology
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.56
+VWavg Run           0.66
+Avg Continuation   -0.67
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            8,829,608  Time Adj Curr Vol        20,572,049.62
+Curr RVOL           20.75      Time Adj RVOL            48.35
+Curr Vol Rank       5          Time Adj Vol Rank        2
+Float Rotation      0.34       Time Adj Float Rotation  0.8
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 18,284,372
+Shares Outstanding         34,620,033
+Float                      25,659,262
+Short Float                0.03
+Short Interest             248,688     Report Date             2020-MayB
+Prev Month Short Interest  145,620     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             23,440,000
+Cash              18,440,000
+ST Debt           10,020,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 09:40:30', 'Shares Of Nano-Cap Penny Stock Ra Medical Systems Spike, Hearing Buysellshort Issued Positive Alert On Stock', 'https://www.benzinga.com/trading-ideas/movers/20/06/16201522/shares-of-nano-cap-penny-stock-ra-medical-systems-spike-hearing-buysellshort-issued-positive']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

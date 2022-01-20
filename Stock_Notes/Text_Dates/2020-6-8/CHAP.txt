@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CHAP
+Timestamp           2020-06-08 10:12:44.825317
+Comp Name           Chaparral Energy, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    27
+Held High Perc      0.56
+VWavg Run           1.88
+Avg Continuation   -0.06
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            7,668,178  Time Adj Curr Vol        18,355,756.63
+Curr RVOL           8.34       Time Adj RVOL            19.95
+Curr Vol Rank       10         Time Adj Vol Rank        5
+Float Rotation      0.17       Time Adj Float Rotation  0.41
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 46,333,658
+Shares Outstanding         47,790,054
+Float                      45,273,178
+Short Float                0.11
+Short Interest             5,040,000   Report Date             2020-MayB
+Prev Month Short Interest  2,579,999   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             13,290,000
+Cash              13,290,000
+ST Debt           1,720,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']

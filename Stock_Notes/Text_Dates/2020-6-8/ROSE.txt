@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              ROSE
+Timestamp           2020-06-08 10:18:00.595614
+Comp Name           Rosehill Resources, Inc.
+Industry            Oil & Gas - E&P
+Sector              Energy
+Exchange            NASDAQ Capital Market
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    23
+Held High Perc      0.39
+VWavg Run           1.53
+Avg Continuation   -0.47
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,130,913  Time Adj Curr Vol        7,294,695.03
+Curr RVOL           8.18       Time Adj RVOL            19.05
+Curr Vol Rank       12         Time Adj Vol Rank        5
+Float Rotation      0.38       Time Adj Float Rotation  0.89
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 28,718,769
+Shares Outstanding         28,810,536
+Float                      8,194,946
+Short Float                0.21
+Short Interest             1,588,390   Report Date             2020-MayB
+Prev Month Short Interest  1,051,230   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             2,990,000
+Cash              2,990,000
+ST Debt           1,120,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

@@ -1,0 +1,54 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              LOVE
+Timestamp           2020-06-09 09:50:33.207500
+Comp Name           The Lovesac Co.
+Industry            Specialty Stores
+Sector              Retail Trade
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    11
+Held High Perc      0.64
+VWavg Run           0.45
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            7,296,500  Time Adj Curr Vol        20,807,808.07
+Curr RVOL           24.97      Time Adj RVOL            71.22
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.68       Time Adj Float Rotation  1.94
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 285,829,406
+Shares Outstanding         14,554,769
+Float                      10,712,896
+Short Float                0.29
+Short Interest             3,060,065    Report Date             2020-MayB
+Prev Month Short Interest  11,949,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             48,540,000
+Cash              48,540,000
+ST Debt           39,690,000
+LT Debt           143,562
+
+### NEWS HEADLINES
+['2020-06-09 08:25:00', 'The Lovesac Company (LOVE) Reports Q1 Loss, Tops Revenue Estimates Zacks +46.63%', 'https://finance.yahoo.com/news/lovesac-company-love-reports-q1-122512640.html']
+['2020-06-09 07:36:06', "20 Consumer Cyclical Stocks Moving In Tuesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16210028/20-consumer-cyclical-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 07:26:24', 'The Lovesac Co shares are trading higher after the company reported better-than-expected Q1 EPS and sales results. The company also reported a 32.8% increase in Q1 net sales.', 'https://www.benzinga.com/wiim/20/06/16209946/the-lovesac-co-shares-are-trading-higher-after-the-company-reported-better-than-expected-q1-eps-and']
+['2020-06-09 07:08:16', 'Lovesac: Q1 Earnings Insights', 'https://www.benzinga.com/news/earnings/20/06/16209835/lovesac-q1-earnings-insights']
+['2020-06-09 07:08:00', 'Lovesac: Q1 Earnings Insights Benzinga', 'https://finance.yahoo.com/news/lovesac-q1-earnings-insights-110816656.html']
+['2020-06-09 07:02:55', 'Lovesac Q1 Net Sales Increased 32.8%', 'https://www.benzinga.com/news/earnings/20/06/16209791/lovesac-q1-net-sales-increased-32-8']
+['2020-06-09 07:02:38', 'Lovesac Q1 EPS $(0.58) Beats $(0.67) Estimate, Sales $54.40M Beat $47.20M Estimate', 'https://www.benzinga.com/news/earnings/20/06/16209790/lovesac-q1-eps-0-58-beats-0-67-estimate-sales-54-40m-beat-47-20m-estimate']
+['2020-06-09 07:00:00', 'The Lovesac Company Announces First Quarter Fiscal 2021 Financial Results GlobeNewswire', 'https://finance.yahoo.com/news/lovesac-company-announces-first-quarter-110010514.html']
+['2020-06-09 06:30:00', 'The Lovesac Co. to Host Earnings Call ACCESSWIRE', 'https://finance.yahoo.com/news/lovesac-co-host-earnings-call-103000819.html']
+['2020-06-09 04:06:08', 'Earnings Scheduled For June 9, 2020', 'https://www.benzinga.com/news/earnings/20/06/16208960/earnings-scheduled-for-june-9-2020']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

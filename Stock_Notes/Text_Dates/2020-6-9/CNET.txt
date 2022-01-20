@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  ------------------------------
+Ticker              CNET
+Timestamp           2020-06-09 09:50:33.207500
+Comp Name           ChinaNet Online Holdings, Inc.
+Industry            Advertising/Marketing Services
+Sector              Commercial Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    14
+Held High Perc      0.29
+VWavg Run           0.69
+Avg Continuation   -0.04
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,624,680  Time Adj Curr Vol        18,891,944.08
+Curr RVOL           31.14      Time Adj RVOL            88.82
+Curr Vol Rank       4          Time Adj Vol Rank        1
+Float Rotation      0.42       Time Adj Float Rotation  1.19
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 21,212,602
+Shares Outstanding         26,459,162
+Float                      15,917,887
+Short Float                0.03
+Short Interest             482,882     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,600,759  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             1,600,000
+Cash              1,600,000
+ST Debt           3,040,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------------
+Ticker              CBL
+Timestamp           2020-06-08 11:26:34.050003
+Comp Name           CBL & Associates Properties Inc.
+Industry            REITs
+Sector              Real Estate
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.65
+VWavg Run           0.91
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  ------------
+Curr Vol            11,562,596  Time Adj Curr Vol        20,709,170.8
+Curr RVOL           3.43        Time Adj RVOL            6.15
+Curr Vol Rank       9           Time Adj Vol Rank        3
+Float Rotation      0.07        Time Adj Float Rotation  0.13
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 65,242,584
+Shares Outstanding         191,965,633
+Float                      155,757,030
+Short Float                0.24
+Short Interest             37,872,250   Report Date             2020-MayB
+Prev Month Short Interest  35,885,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             185,130,000
+Cash              185,130,000
+ST Debt           118,560,000
+LT Debt           205,470,000
+
+### NEWS HEADLINES
+
+
+### ERRORS

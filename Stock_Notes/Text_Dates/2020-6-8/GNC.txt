@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              GNC
+Timestamp           2020-06-08 10:15:08.845504
+Comp Name           GNC Holdings, Inc.
+Industry            Specialty Stores
+Sector              Retail Trade
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.25
+VWavg Run           0.81
+Avg Continuation    0.41
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            10,983,897  Time Adj Curr Vol        26,292,783.01
+Curr RVOL           5.44        Time Adj RVOL            13.03
+Curr Vol Rank       7           Time Adj Vol Rank        1
+Float Rotation      0.14        Time Adj Float Rotation  0.35
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  ---------
+Market Cap                 60,917,244
+Shares Outstanding         84,607,185
+Float                      75,842,907
+Short Float                0.35
+Short Interest             26,553,038  Report Date             2020-MayB
+Prev Month Short Interest  26,390,000  Prev Month Report Date
+
+### FINANCIALS
+----------------  -----------
+CASTI             137,440,000
+Cash              137,440,000
+ST Debt
+LT Debt           73,550,000
+
+### NEWS HEADLINES
+['2020-06-08 10:55:51', 'Shares of several retail and apparel companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16202669/shares-of-several-retail-and-apparel-companies-are-trading-higher-on-continued-upward-momentum-surro']
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

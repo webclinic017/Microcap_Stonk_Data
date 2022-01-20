@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:228.86572619895455
+----------------------------------------------------  -------------------------------
+Ticker                                                HHT
+Timestamp                                             2020-06-11 12:07:01.342982
+Comp Name                                             Color Star Technology Co., Ltd.
+Industry                                              Construction Materials
+Sector                                                Non-Energy Minerals
+Exchange                                              NASDAQ
+
+### PRICE STATS -- Score:8.8846
+---------------------------------  -----
+Total Run Count                    43
+Held High Perc                      0.26
+VWavg Run                           2.17
+Avg Continuation                   -0.46
+
+### VOLUME STATS -- Score:192.47112619895455
+----------------------------------------------  ----------  -----------------------  -------------
+Curr Vol                                        46,546,034  Time Adj Curr Vol        75,016,956.12
+Curr RVOL                                       170.96      Time Adj RVOL            275.54
+Curr Vol Rank                                   1           Time Adj Vol Rank        1
+Float Rotation                                  3.17        Time Adj Float Rotation  5.1
+
+### SHARE STATS -- Score:27.51
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        14,426,649
+Shares Outstanding                52,440,438
+Float                             14,696,208
+Short Float                       0.03
+Short Interest                    420,039     Report Date             2020-JunA
+Prev Month Short Interest         10,595,459  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             1,500,000
+Cash              1,500,000
+ST Debt           6,790,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 08:30:00', "Color Star Technology's Announces Key Talent Acquisitions by its Subsidiary Color China Strengthening its Commitment to Expand its Online Music Education Services PR Newswire +78.21%", 'https://finance.yahoo.com/news/color-star-technologys-announces-key-123000876.html']
+['2020-06-11 07:45:12', "10 Basic Materials Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230706/10-basic-materials-stocks-moving-in-thursdays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

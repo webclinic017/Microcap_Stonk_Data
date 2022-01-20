@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              INUV
+Timestamp           2020-06-09 08:54:09.422311
+Comp Name           Inuvo, Inc.
+Industry            Information Technology Services
+Sector              Technology Services
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    26
+Held High Perc      0.58
+VWavg Run           1.57
+Avg Continuation    0.5
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,819,680  Time Adj Curr Vol        43,201,216.42
+Curr RVOL           8.58       Time Adj RVOL            54.38
+Curr Vol Rank       13         Time Adj Vol Rank        1
+Float Rotation      0.14       Time Adj Float Rotation  0.88
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 48,507,768
+Shares Outstanding         78,594,365
+Float                      49,329,846
+Short Float                0.0
+Short Interest             213,292     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,470,309  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             470,807
+Cash              470,807
+ST Debt           13,480,000
+LT Debt           9,850,000
+
+### NEWS HEADLINES
+['2020-06-08 11:20:00', 'Inuvo, Inc. Closes $5.5 Million Common Stock Registered Direct Offering GlobeNewswire +18.17%', 'https://finance.yahoo.com/news/inuvo-inc-closes-5-5-152010594.html']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  ---------------------------------
+Ticker              NXTD
+Timestamp           2020-06-10 13:23:00.591159
+Comp Name           Nxt-ID, Inc.
+Industry            Miscellaneous Commercial Services
+Sector              Commercial Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count      5
+Held High Perc       0.6
+VWavg Run          inf
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,048,423  Time Adj Curr Vol        2,746,881.14
+Curr RVOL                      Time Adj RVOL
+Curr Vol Rank       220        Time Adj Vol Rank        220
+Float Rotation      0.08       Time Adj Float Rotation  0.1
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 14,112,170
+Shares Outstanding         30,682,537
+Float                      26,231,086
+Short Float                0.03
+Short Interest             727,280     Report Date             2020-JunA
+Prev Month Short Interest  10,851,309  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             1,590,000
+Cash              1,590,000
+ST Debt           1,010,000
+LT Debt           15,480,000
+
+### NEWS HEADLINES
+['2020-06-10 12:37:10', 'Shares of several technology companies are trading higher on continued volatility despite market weakness. The sector sold off recently as other sectors gained amid US economic reopening and appears to be rebounding.', 'https://www.benzinga.com/wiim/20/06/16224173/shares-of-several-technology-companies-are-trading-higher-on-continued-volatility-despite-market-wea']
+
+
+### ERRORS
+get curr day volume ['Cant get TOS curr day volume']

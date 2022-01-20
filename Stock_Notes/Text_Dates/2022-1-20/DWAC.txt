@@ -1,0 +1,49 @@
+### GENERAL INFO -- Total Score:24.0575
+-----------------------------------------  ---------------------------------------
+Ticker                                     DWAC
+Timestamp                                  2022-01-20 13:03:33.556538
+Comp Name                                  Elkhorn Commodity Rotation Strategy ETF
+Industry                                   Shell Companies
+Sector                                     Financial Services
+Exchange                                   NASDAQ Global Market
+
+### PRICE STATS -- Score:6.364
+--------------------------------  ----
+Total Run Count                   8
+Held High Perc                    0.5
+VWavg Run                         1.46
+Avg Continuation                  -
+
+### VOLUME STATS -- Score:0.9597
+----------------------------------  ----------  -----------------------  -------------
+Curr Vol                            10,146,072  Time Adj Curr Vol        14,219,082.85
+Curr RVOL                           0.66        Time Adj RVOL            0.92
+Curr Vol Rank                       19          Time Adj Vol Rank        15
+Float Rotation                      0.34        Time Adj Float Rotation  0.48
+
+### SHARE STATS -- Score:16.7338
+----------------------------------  -------------  ----------------------  --
+Market Cap                          2,880,682,162
+Shares Outstanding                  30,027,251
+Float                               29,427,455
+Short Float                         0.12
+Short Interest                      3,560,000      Report Date             -
+Prev Month Short Interest           -              Prev Month Report Date  -
+
+### FINANCIALS
+----------------  ----
+CASTI             0.01
+Cash              0.01
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2022-01-20 12:08:00', 'Trump Solicited Hedge Funds, Family Offices for $1 Billion PIPE Bloomberg +8.90%', 'https://finance.yahoo.com/news/trump-solicited-hedge-funds-family-170815135.html']
+['2022-01-19 17:38:00', 'Peoples Financial Services Corp. Buys Danaher Corp, Goldman Sachs Group Inc, Thermo Fisher ... GuruFocus.com -10.27%', 'https://finance.yahoo.com/news/peoples-financial-services-corp-buys-223827416.html']
+['2022-01-19 14:45:00', 'Why Digital World Acquisition and Phunware Shares Are Sinking Today Motley Fool', 'https://www.fool.com/investing/2022/01/19/why-phunware-and-digital-world-acquisition-are-sin/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+
+
+### ERRORS
+shortsqueeze ['Short Interest', 'Prev Month Short Interest', 'Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap', 'Exchange', 'Report Date']
+finviz ['Market Cap', 'Shares Outstanding', 'Float', 'Assigned Short Float', 'Short Interest', 'Curr Day Volume']
+marketwatch_financials ['ST debt', 'LT debt']

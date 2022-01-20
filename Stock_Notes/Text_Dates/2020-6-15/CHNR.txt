@@ -1,0 +1,96 @@
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                CHNR
+Timestamp                             2020-06-15 07:52:20.331219
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:5.5317
+---------------------------------  -----
+Total Run Count                    20
+Held High Perc                      0.25
+VWavg Run                           6.54
+Avg Continuation                   -0.46
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:23.5249
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          36,620,474
+Shares Outstanding                  12,455,527,067,504
+Float                               9,450,799
+Short Float                         0.0
+Short Interest                      11,476,819          Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           21,971,799          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------
+CASTI             638,586
+Cash              638,586
+ST Debt           350,159
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Prev Month Short Interest', 'Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']
+### GENERAL INFO -- Total Score:NA
+------------------------------------  --------------------------
+Ticker                                CHNR
+Timestamp                             2020-06-15 07:52:20.331219
+Comp Name
+Industry                              Oil & Gas E&P
+Sector                                Energy
+Exchange                              NASDAQ
+
+### PRICE STATS -- Score:5.5317
+---------------------------------  -----
+Total Run Count                    20
+Held High Perc                      0.25
+VWavg Run                           6.54
+Avg Continuation                   -0.46
+
+### VOLUME STATS -- Score:None
+--------------------------------  ------------  -----------------------  ------------
+Curr Vol                          IS PREMARKET  Time Adj Curr Vol        IS PREMARKET
+Curr RVOL                         IS PREMARKET  Time Adj RVOL            IS PREMARKET
+Curr Vol Rank                     IS PREMARKET  Time Adj Vol Rank        IS PREMARKET
+Float Rotation                    IS PREMARKET  Time Adj Float Rotation  IS PREMARKET
+
+### SHARE STATS -- Score:23.5249
+----------------------------------  ------------------  ----------------------  -------------------
+Market Cap                          36,620,474
+Shares Outstanding                  12,455,527,067,504
+Float                               9,450,799
+Short Float                         0.0
+Short Interest                      11,476,819          Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           21,971,799          Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------
+CASTI             638,586
+Cash              638,586
+ST Debt           350,159
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-15 07:20:20', "25 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16251630/25-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Prev Month Short Interest', 'Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']

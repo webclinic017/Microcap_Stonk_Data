@@ -1,0 +1,53 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              LAKE
+Timestamp           2020-06-10 09:10:56.534578
+Comp Name           Lakeland Industries, Inc.
+Industry            Industrial Specialties
+Sector              Process Industries
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    4
+Held High Perc     0.25
+VWavg Run          0.17
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            4,438,825  Time Adj Curr Vol        19,890,569.95
+Curr RVOL           14.74      Time Adj RVOL            66.06
+Curr Vol Rank       3          Time Adj Vol Rank        1
+Float Rotation      0.59       Time Adj Float Rotation  2.62
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -------------------
+Market Cap                 127,710,928
+Shares Outstanding         7,995,997
+Float                      7,583,791
+Short Float                0.2
+Short Interest             1,508,321    Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  11,119,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             14,610,000
+Cash              14,610,000
+ST Debt           22,530,000
+LT Debt           871,000
+
+### NEWS HEADLINES
+['2020-06-10 08:32:01', 'Lakeland Industries shares are trading higher after the company reported better-than-expected Q1 EPS and sales results.', 'https://www.benzinga.com/wiim/20/06/16220722/lakeland-industries-shares-are-trading-higher-after-the-company-reported-better-than-expected-q1-eps']
+['2020-06-10 07:41:36', "20 Consumer Cyclical Stocks Moving In Wednesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16219954/20-consumer-cyclical-stocks-moving-in-wednesdays-pre-market-session']
+['2020-06-10 07:17:10', "34 Stocks Moving in Wednesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16219857/34-stocks-moving-in-wednesdays-pre-market-session']
+['2020-06-09 17:01:05', "6 Stocks Moving In Tuesday's After-Hours Session", 'https://www.benzinga.com/news/20/06/16217143/6-stocks-moving-in-tuesdays-after-hours-session']
+['2020-06-09 16:11:46', 'Lakeland Industries shares are trading higher after the company reported better-than-expected Q1 EPS and sales results.', 'https://www.benzinga.com/wiim/20/06/16216220/lakeland-industries-shares-are-trading-higher-after-the-company-reported-better-than-expected-q1-eps']
+['2020-06-09 16:06:00', 'Lakeland Industries Q1 EPS $1.07 Beats $0.15 Estimate, Sales $45.60M Beat $27.76M Estimate', 'https://www.benzinga.com/news/earnings/20/06/16216099/lakeland-industries-q1-eps-1-07-beats-0-15-estimate-sales-45-60m-beat-27-76m-estimate']
+['2020-06-09 16:01:00', 'Lakeland Industries, Inc. Reports Fiscal 2021 First Quarter Financial Results ACCESSWIRE', 'https://finance.yahoo.com/news/lakeland-industries-inc-reports-fiscal-200100244.html']
+['2020-06-09 08:52:55', 'Lakeland Industries shares are trading higher after Benchmark initiated coverage on the stock with a Buy rating and a price target of $24 per share.', 'https://www.benzinga.com/wiim/20/06/16211123/lakeland-industries-shares-are-trading-higher-after-benchmark-initiated-coverage-on-the-stock-with-a']
+['2020-06-09 07:35:45', 'Benchmark Initiates Coverage On Lakeland Industries with Buy Rating, Announces Price Target of $24', 'https://www.benzinga.com/news/20/06/16210100/benchmark-initiates-coverage-on-lakeland-industries-with-buy-rating-announces-price-target-of-24']
+['2020-06-09 04:06:08', 'Earnings Scheduled For June 9, 2020', 'https://www.benzinga.com/news/earnings/20/06/16208960/earnings-scheduled-for-june-9-2020']
+
+
+### ERRORS

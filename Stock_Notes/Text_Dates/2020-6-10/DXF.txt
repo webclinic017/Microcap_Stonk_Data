@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  ------------------------------
+Ticker              DXF
+Timestamp           2020-06-10 10:12:47.473600
+Comp Name           Dunxin Financial Holdings Ltd.
+Industry            Finance/Rental/Leasing
+Sector              Finance
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    40
+Held High Perc      0.28
+VWavg Run           1.28
+Avg Continuation   -0.46
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,059,965  Time Adj Curr Vol        12,112,327.87
+Curr RVOL           187.13     Time Adj RVOL            447.93
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.73       Time Adj Float Rotation  1.74
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 10,438,909
+Shares Outstanding         20,853,884
+Float                      6,953,449
+Short Float                0.24
+Short Interest             22,999      Report Date             2020-JunA
+Prev Month Short Interest  10,370,809  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             20,238
+Cash              20,238
+ST Debt           28,480,000
+LT Debt           13,450,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+marketwatch overview ['Assigned Short Float', 'Calculated Short Float']

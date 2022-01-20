@@ -1,0 +1,86 @@
+### GENERAL INFO -- Total Score:71.075
+----------------------------------------  ---------------------------
+Ticker                                    HTZ
+Timestamp                                 2020-06-12 08:45:29.908696
+Comp Name                                 Hertz Global Holdings, Inc.
+Industry                                  Finance/Rental/Leasing
+Sector                                    Finance
+Exchange                                  New York Stock Exchange
+
+### PRICE STATS -- Score:7.047
+--------------------------------  -----
+Total Run Count                   15
+Held High Perc                     0.47
+VWavg Run                          3.99
+Avg Continuation                  -0.29
+
+### VOLUME STATS -- Score:46.5146
+-----------------------------------  ----------  -----------------------  -------------
+Curr Vol                             37,421,656  Time Adj Curr Vol        346,025,144.1
+Curr RVOL                            3.03        Time Adj RVOL            27.99
+Curr Vol Rank                        18          Time Adj Vol Rank        2
+Float Rotation                       0.26        Time Adj Float Rotation  2.45
+
+### SHARE STATS -- Score:17.5134
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          293,124,037
+Shares Outstanding                  142,274,498
+Float                               141,500,407
+Short Float                         0.36
+Short Interest                      36,721,473   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           44,080,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------------
+CASTI             1,410,000,000
+Cash              1,410,000,000
+ST Debt           -
+LT Debt           1,080,000,000
+
+### NEWS HEADLINES
+['2020-06-12 08:46:00', 'Dow Futures Rise, Hertz, Lululemon: 5 Things You Must Know TheStreet.com', 'https://www.thestreet.com/markets/5-things-you-must-know-before-the-market-opens-friday-061220?puc=yahoo&cm_ven=YAHOO']
+['2020-06-12 08:43:00', 'Hertz Surges on Bankrupt Car Renters $1 Billion Stock-Sale Bid Bloomberg', 'https://finance.yahoo.com/news/hertz-proposes-1-billion-stock-004913045.html']
+['2020-06-12 08:21:00', 'Bankrupt car rental firm Hertz to offer up to $1 billion in shares Reuters', 'https://finance.yahoo.com/news/bankrupt-car-rental-firm-hertz-122109301.html']
+['2020-06-12 08:21:00', 'Heres why one strategist has slashed his S&P 500 target  and it isnt just because of the Fed and COVID-19 MarketWatch', 'https://www.marketwatch.com/story/heres-why-one-strategist-has-slashed-his-sp-500-target-and-it-isnt-just-because-of-the-fed-and-covid-19-2020-06-12?siteid=yhoof2']
+['2020-06-12 08:19:00', 'The Dow Is Coming Back From Its Hammering. Hertz Is Soaring. Barrons.com', 'https://www.barrons.com/articles/stocks-moving-premarket-hertz-boeing-lululemon-athletica-51591964360?siteid=yhoof2']
+['2020-06-12 07:38:09', "11 Industrials Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241228/11-industrials-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:19:00', 'Bankrupt car rental firm Hertz to offer up to $1 bln in shares Reuters', 'https://finance.yahoo.com/news/bankrupt-car-rental-firm-hertz-111950696.html']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 06:50:00', 'Hertz Looks to Sell Up to $1 Billion in Shares to Fund Bankruptcy TheStreet.com', 'https://www.thestreet.com/investing/hertz-htz-stock-sale-bankruptcy?puc=yahoo&cm_ven=YAHOO']
+['2020-06-12 05:12:00', 'Bankrupt Hertz Pops 51% In Pre-Market On $1 Billion Share Sale Plan SmarterAnalyst', 'https://finance.yahoo.com/news/bankrupt-hertz-pops-51-pre-091234070.html']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-12 03:45:00', 'Bankrupt Hertz wants to sell up to $1 billion in stock MarketWatch', 'https://www.marketwatch.com/story/bankrupt-hertz-wants-to-sell-up-to-1-billion-in-stock-2020-06-12?siteid=yhoof2']
+['2020-06-12 01:22:08', 'Hertz Wants To Capitalize On Its Stock Rally, Seeks Permission To Sell Up To $1B In Shares', 'https://www.benzinga.com/news/20/06/16239702/hertz-wants-to-capitalize-on-its-stock-rally-seeks-permission-to-sell-up-to-1b-in-shares']
+['2020-06-12 01:22:00', 'Hertz Wants To Capitalize On Its Stock Rally, Seeks Permission To Sell Up To $1B In Shares Benzinga', 'https://finance.yahoo.com/news/hertz-wants-capitalize-stock-rally-052208470.html']
+['2020-06-11 23:01:00', 'Hertz seeks unusual $1bn share sale while in bankruptcy Financial Times -18.25%', 'http://www.ft.com/cms/s/211ca989-3d9d-43ee-9e6f-526d0a809ed6,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev']
+['2020-06-11 20:06:00', 'MEDIA-Bankrupt Hertz wants to sell up to $1 billion in new shares - WSJ Reuters', 'https://finance.yahoo.com/news/media-bankrupt-hertz-wants-sell-000635249.html']
+['2020-06-11 16:43:00', 'Low-information investors rule the stock market  at least until they lose every cent MarketWatch', 'https://www.marketwatch.com/story/low-information-investors-rule-the-stock-market-at-least-until-they-lose-every-cent-2020-06-11?siteid=yhoof2']
+['2020-06-11 16:17:00', 'Rampant speculation in the stock market  you aint seen nothing yet. Thank the Federal Reserve MarketWatch', 'https://www.marketwatch.com/story/rampant-speculation-in-the-stock-market-you-aint-seen-nothing-yet-thank-the-federal-reserve-2020-06-11?siteid=yhoof2']
+['2020-06-11 13:20:00', 'Marty Whitman: The King of Distressed Investing on Buying Bankrupt Stocks GuruFocus.com', 'https://finance.yahoo.com/news/marty-whitman-king-distressed-investing-172034375.html']
+['2020-06-11 12:21:00', 'Trump should be worried about another stock market meltdown Yahoo Finance', 'https://finance.yahoo.com/news/trump-should-be-worried-about-another-stock-market-meltdown-162158918.html']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 10:28:00', 'Why Hertz Stock Is Falling Back to Earth Motley Fool', 'https://www.fool.com/investing/2020/06/11/why-hertz-stock-is-falling-back-to-earth.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 10:25:28', 'Shares of several industrials companies are trading lower with the overall market as coronavirus cases increase in some US states that have reopened, leading to concerns of a second wave of the virus.', 'https://www.benzinga.com/wiim/20/06/16233326/shares-of-several-industrials-companies-are-trading-lower-with-the-overall-market-as-coronavirus-cas']
+['2020-06-11 08:00:00', "What's The Market's 'Craziest' Bubble? Check Out These 18 Stocks Investor's Business Daily", 'https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-inflate-craziest-thing-since-internet-bubble-bankrupt/?src=A00220']
+['2020-06-11 07:42:49', "12 Industrials Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230703/12-industrials-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 05:00:23', '80 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16229795/80-biggest-movers-from-yesterday']
+['2020-06-11 03:59:00', 'The OECD warns a second virus wave is as likely as not  heres what that would do to the economic recovery MarketWatch', 'https://www.marketwatch.com/story/the-oecd-warns-a-second-virus-wave-is-as-likely-as-not-heres-what-that-would-do-to-the-economic-recovery-2020-06-10?siteid=yhoof2']
+['2020-06-10 16:53:00', 'Dow closes 280 points lower, Nasdaq above 10,000 after Fed says itll keep buying bonds and interest rates near zero MarketWatch -39.71%', 'https://www.marketwatch.com/story/dow-futures-slip-ahead-of-fed-policy-update-2020-06-10?siteid=yhoof2']
+['2020-06-10 16:23:00', 'Stock Market Today: The Nasdaq Breaks Through 10,000 Kiplinger', 'https://finance.yahoo.com/news/stock-market-today-nasdaq-breaks-202340603.html']
+['2020-06-10 16:08:00', 'Hertz: Bankruptcy Bull Run Will End in Tears GuruFocus.com', 'https://finance.yahoo.com/news/hertz-bankruptcy-bull-run-end-200846361.html']
+['2020-06-10 16:06:00', 'Hertzs stock gives back more than half of the postbankruptcy surge after NYSE delisting notice MarketWatch', 'https://www.marketwatch.com/story/hertzs-stock-gives-back-more-than-half-of-the-postbankruptcy-surge-after-nyse-delisting-notice-2020-06-10?siteid=yhoof2']
+['2020-06-10 13:43:00', 'Hertz Stock Delisting: What Does it Actually Mean? Motley Fool', 'https://www.fool.com/investing/2020/06/10/hertz-stock-delisting-what-does-it-actually-mean.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-10 13:31:54', "61 Stocks Moving In Wednesday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16224660/61-stocks-moving-in-wednesdays-mid-day-session']
+['2020-06-10 12:12:25', 'Afternoon Market Stats in 5 Minutes', 'https://www.benzinga.com/markets/20/06/16223572/afternoon-market-stats-in-5-minutes']
+['2020-06-10 11:30:00', 'Why Is Hertz (HTZ) Up 44.1% Since Last Earnings Report? Zacks', 'https://finance.yahoo.com/news/why-hertz-htz-44-1-153003531.html']
+['2020-06-10 10:37:00', 'The Hot New Trend of Buying Bankrupt Stocks GuruFocus.com', 'https://finance.yahoo.com/news/hot-trend-buying-bankrupt-stocks-143710495.html']
+['2020-06-10 10:03:00', 'Why Hertz Stock Is Plunging After Insane 896% Run Higher Motley Fool', 'https://www.fool.com/investing/2020/06/10/why-hertz-stock-is-plunging-after-insane-896-run-h.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-10 09:39:00', 'Dow, S&P 500 under the pressure at the start of Wednesday trade but Nasdaq carves out a fresh record above 10,000 MarketWatch', 'https://www.marketwatch.com/story/dow-sp-500-under-the-pressure-at-the-start-of-wednesday-trade-but-nasdaq-carves-out-a-fresh-record-above-10000-2020-06-10?siteid=yhoof2']
+['2020-06-10 09:18:00', "Zacks Investment Ideas feature highlights: JETS, Macy's, Gap and Hertz Zacks", 'https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-131801276.html']
+['2020-06-10 08:51:00', 'Hertz Receives Delisting Notice From NYSE TheStreet.com', 'https://www.thestreet.com/investing/hertz-receives-delisting-notice-from-nyse?puc=yahoo&cm_ven=YAHOO']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

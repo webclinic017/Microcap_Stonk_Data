@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              BORR
+Timestamp           2020-06-08 08:59:20.513596
+Comp Name           Borr Drilling Ltd.
+Industry            Contract Drilling
+Sector              Industrial Services
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    19
+Held High Perc      0.37
+VWavg Run           1.91
+Avg Continuation    0.06
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            9,321,995  Time Adj Curr Vol        51,685,603.9
+Curr RVOL           14.0       Time Adj RVOL            77.62
+Curr Vol Rank       4          Time Adj Vol Rank        1
+Float Rotation      0.11       Time Adj Float Rotation  0.63
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 128,546,843
+Shares Outstanding         110,818,857
+Float                      81,536,199
+Short Float                0.03
+Short Interest             1,734,332    Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  1,415,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             1,120,000,000
+Cash              1,120,000,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+yahoo key stats ['Assigned Short Float']
+shortsqueeze ['Market Cap']
+finviz ['News Headlines']

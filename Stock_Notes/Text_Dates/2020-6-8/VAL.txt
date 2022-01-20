@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              VAL
+Timestamp           2020-06-08 08:56:42.620988
+Comp Name           Valaris Plc
+Industry            Contract Drilling
+Sector              Industrial Services
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    16
+Held High Perc      0.38
+VWavg Run           2.04
+Avg Continuation   -0.54
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            44,224,762  Time Adj Curr Vol        280,154,422.84
+Curr RVOL           6.14        Time Adj RVOL            38.91
+Curr Vol Rank       3           Time Adj Vol Rank        1
+Float Rotation      0.22        Time Adj Float Rotation  1.38
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 187,295,496
+Shares Outstanding         205,940,593
+Float                      203,466,931
+Short Float                0.33
+Short Interest             66,330,000   Report Date             2020-MayB
+Prev Month Short Interest  62,010,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             184,900,000
+Cash              184,900,000
+ST Debt           14,520,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:50:00', "Do Options Traders Know Something About Valaris (VAL) Stock We Don't? Zacks +87.63%", 'https://finance.yahoo.com/news/options-traders-know-something-valaris-125012241.html']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+finviz ['Short Interest']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

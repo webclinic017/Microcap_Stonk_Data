@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              PETZ
+Timestamp           2020-06-10 12:44:49.544918
+Comp Name           TDH Holdings, Inc.
+Industry            Food: Specialty/Candy
+Sector              Consumer Non-Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    9
+Held High Perc     0.78
+VWavg Run          0.06
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -----------
+Curr Vol            2,111,706  Time Adj Curr Vol        3,093,878.1
+Curr RVOL                      Time Adj RVOL
+Curr Vol Rank       283        Time Adj Vol Rank        283
+Float Rotation      2.97       Time Adj Float Rotation  4.35
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 13,525,206
+Shares Outstanding         13,206,244
+Float                      711,736
+Short Float                0.05
+Short Interest             109,532     Report Date             2020-JunA
+Prev Month Short Interest  10,423,109  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,150,000
+Cash              3,150,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+get curr day volume ['Cant get TOS curr day volume']

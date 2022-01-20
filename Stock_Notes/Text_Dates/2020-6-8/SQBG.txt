@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  -----------------------------
+Ticker              SQBG
+Timestamp           2020-06-08 09:01:41.737751
+Comp Name           Sequential Brands Group, Inc.
+Industry            Apparel/Footwear
+Sector              Consumer Non-Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    28
+Held High Perc      0.29
+VWavg Run           1.18
+Avg Continuation   -0.1
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            6,520,842  Time Adj Curr Vol        36,154,670.4
+Curr RVOL           10.02      Time Adj RVOL            55.55
+Curr Vol Rank       9          Time Adj Vol Rank        1
+Float Rotation      0.14       Time Adj Float Rotation  0.79
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  ---------
+Market Cap                 11,718,074
+Shares Outstanding         65,581,966
+Float                      45,926,294
+Short Float                0.06
+Short Interest             2,493,566   Report Date             2020-MayB
+Prev Month Short Interest  2,440,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  --
+CASTI
+Cash
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+marketwatch financials ['Pandas HTML Parse Error']
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

@@ -1,0 +1,54 @@
+### GENERAL INFO -- Total Score:27.2148
+-----------------------------------------  --------------------------
+Ticker                                     OAS
+Timestamp                                  2020-06-12 08:47:33.750342
+Comp Name                                  Oasis Petroleum, Inc.
+Industry                                   Oil & Gas Production
+Sector                                     Energy Minerals
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:11.3605
+----------------------------------  -----
+Total Run Count                     19
+Held High Perc                       0.53
+VWavg Run                            2.17
+Avg Continuation                     0.21
+
+### VOLUME STATS -- Score:1.6227
+----------------------------------  ---------  -----------------------  -------------
+Curr Vol                            6,267,713  Time Adj Curr Vol        47,050,917.91
+Curr RVOL                           0.35       Time Adj RVOL            2.63
+Curr Vol Rank                       354        Time Adj Vol Rank        18
+Float Rotation                      0.02       Time Adj Float Rotation  0.17
+
+### SHARE STATS -- Score:14.2316
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          317,554,468
+Shares Outstanding                  323,771,346
+Float                               279,923,822
+Short Float                         0.33
+Short Interest                      57,946,473   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           56,410,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --
+CASTI             -
+Cash              -
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 16:21:00', 'Oil and Energy Stocks Plunge as Momentum Reverses Barrons.com -19.01%', 'https://www.barrons.com/articles/oil-and-energy-stocks-plunge-as-momentum-reverses-51591906867?siteid=yhoof2']
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-10 16:17:00', 'Why Oasis Petroleum, SM Energy, and QEP Resources All Fell Sharply Today Motley Fool -22.93%', 'https://www.fool.com/investing/2020/06/10/why-oasis-petroleum-sm-energy-and-qep-resources-al.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-10 10:22:11', 'Morning Market Stats in 5 Minutes', 'https://www.benzinga.com/markets/20/06/16221744/morning-market-stats-in-5-minutes']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']
+finviz ['Short Interest']
+marketwatch financials ['Request Failure']

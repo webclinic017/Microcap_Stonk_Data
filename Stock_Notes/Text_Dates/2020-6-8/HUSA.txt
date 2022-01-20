@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  -----------------------------
+Ticker              HUSA
+Timestamp           2020-06-08 11:27:15.950548
+Comp Name           Houston American Energy Corp.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    17
+Held High Perc      0.35
+VWavg Run           0.74
+Avg Continuation   -0.34
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            25,761,168  Time Adj Curr Vol        46,139,502.58
+Curr RVOL           11.76       Time Adj RVOL            21.07
+Curr Vol Rank       5           Time Adj Vol Rank        3
+Float Rotation      0.34        Time Adj Float Rotation  0.6
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 14,773,778
+Shares Outstanding         87,007,100
+Float                      76,530,646
+Short Float                0.05
+Short Interest             3,949,211   Report Date             2020-MayB
+Prev Month Short Interest  3,855,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             2,920,000
+Cash              2,920,000
+ST Debt           64,420,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

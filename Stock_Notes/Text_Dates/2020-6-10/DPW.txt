@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              DPW
+Timestamp           2020-06-10 08:55:08.505436
+Comp Name           DPW Holdings, Inc.
+Industry            Electrical Products
+Sector              Producer Manufacturing
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    46
+Held High Perc      0.3
+VWavg Run           1.85
+Avg Continuation   -0.59
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            16,252,087  Time Adj Curr Vol        102,953,500.42
+Curr RVOL           30.42       Time Adj RVOL            192.68
+Curr Vol Rank       2           Time Adj Vol Rank        1
+Float Rotation      3.39        Time Adj Float Rotation  21.5
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 8,195,776
+Shares Outstanding         10,749,861
+Float                      4,788,819
+Short Float                0.04
+Short Interest             191,899     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,483,059  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             1,130,000
+Cash              488,553
+ST Debt           10,930,000
+LT Debt           8,100,000
+
+### NEWS HEADLINES
+['2020-06-10 08:26:41', "DPW Holdings shares are trading higher after the company's Gresham Worldwide defense business announced it has received purchase orders totaling $3.2 million from four defense contractors.", 'https://www.benzinga.com/wiim/20/06/16220614/dpw-holdings-shares-are-trading-higher-after-the-companys-gresham-worldwide-defense-business-announc']
+['2020-06-10 08:21:00', "DPW's stock more than doubles on heavy volume after announcing defense orders MarketWatch +194.37%", 'https://www.marketwatch.com/story/dpws-stock-more-than-doubles-on-heavy-volume-after-announcing-defense-orders-2020-06-10?siteid=yhoof2']
+['2020-06-10 06:32:50', 'DPW Holdings Announces Its Gresham Worldwide Defense Business Received Purchase Orders Totaling About $3.2M From Four Defense Contractors', 'https://www.benzinga.com/news/20/06/16219607/dpw-holdings-announces-its-gresham-worldwide-defense-business-received-purchase-orders-totaling-abou']
+['2020-06-10 06:30:00', 'DPW Holdings Announces That Its Gresham Worldwide Defense Business Has Received Purchase Orders Totaling Approximately $3,200,000 From Four Defense Contractors GlobeNewswire', 'https://finance.yahoo.com/news/dpw-holdings-announces-gresham-worldwide-103010691.html']
+
+
+### ERRORS

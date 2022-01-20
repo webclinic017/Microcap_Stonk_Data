@@ -1,0 +1,48 @@
+### GENERAL INFO -- Total Score:70.39027485026935
+---------------------------------------------------  ---------------------------
+Ticker                                               ONTX
+Timestamp                                            2020-06-11 12:08:15.203972
+Comp Name                                            Onconova Therapeutics, Inc.
+Industry                                             Biotechnology
+Sector                                               Health Technology
+Exchange                                             NASDAQ
+
+### PRICE STATS -- Score:11.5349
+----------------------------------  -----
+Total Run Count                     26
+Held High Perc                       0.58
+VWavg Run                            0.72
+Avg Continuation                    -0.15
+
+### VOLUME STATS -- Score:46.38537485026935
+---------------------------------------------  ----------  -----------------------  --------------
+Curr Vol                                       85,110,604  Time Adj Curr Vol        135,432,453.25
+Curr RVOL                                      13.39       Time Adj RVOL            21.3
+Curr Vol Rank                                  3           Time Adj Vol Rank        1
+Float Rotation                                 0.51        Time Adj Float Rotation  0.81
+
+### SHARE STATS -- Score:12.47
+--------------------------------  -----------  ----------------------  -------------------
+Market Cap                        80,470,456
+Shares Outstanding                166,775,559
+Float                             166,970,758
+Short Float                       0.05
+Short Interest                    7,886,526    Report Date             2020-JunA
+Prev Month Short Interest         14,129,009   Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             31,040,000
+Cash              31,040,000
+ST Debt           2,280,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 07:36:07', "20 Healthcare Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230702/20-healthcare-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-10 17:42:07', 'Onconova Therapeutics Filing Shows Board Expects To Withdraw Reverse Stock Split Proposal For Annual Shareholder Meeting', 'https://www.benzinga.com/news/20/06/16227426/onconova-therapeutics-filing-shows-board-expects-to-withdraw-reverse-stock-split-proposal-for-annual']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

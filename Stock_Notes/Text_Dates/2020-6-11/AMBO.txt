@@ -1,0 +1,45 @@
+### GENERAL INFO -- Total Score:389.78259418568507
+----------------------------------------------------  ----------------------------
+Ticker                                                AMBO
+Timestamp                                             2020-06-11 12:09:14.960406
+Comp Name                                             Ambow Education Holding Ltd.
+Industry                                              Other Consumer Services
+Sector                                                Consumer Services
+Exchange                                              NYSE American
+
+### PRICE STATS -- Score:15.2986
+----------------------------------  -----
+Total Run Count                     24
+Held High Perc                       0.71
+VWavg Run                            0.74
+Avg Continuation                     0.01
+
+### VOLUME STATS -- Score:353.9539941856851
+---------------------------------------------  ---------  -----------------------  ------------
+Curr Vol                                       5,317,604  Time Adj Curr Vol        8,461,650.15
+Curr RVOL                                      779.53     Time Adj RVOL            1,240.43
+Curr Vol Rank                                  1          Time Adj Vol Rank        1
+Float Rotation                                 0.28       Time Adj Float Rotation  0.44
+
+### SHARE STATS -- Score:20.53
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        36,642,680
+Shares Outstanding                26,643,328
+Float                             19,199,572
+Short Float                       0.0
+Short Interest                    982         Report Date             2020-05-15 00:00:00
+Prev Month Short Interest         10,369,709  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             35,330,000
+Cash              22,630,000
+ST Debt           78,020,000
+LT Debt           8,660,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']

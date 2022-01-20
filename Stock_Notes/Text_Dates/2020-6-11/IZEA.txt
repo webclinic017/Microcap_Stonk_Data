@@ -1,0 +1,56 @@
+### GENERAL INFO -- Total Score:72.71672000357633
+---------------------------------------------------  --------------------------
+Ticker                                               IZEA
+Timestamp                                            2020-06-11 12:07:55.072324
+Comp Name                                            IZEA Worldwide, Inc.
+Industry                                             Packaged Software
+Sector                                               Technology Services
+Exchange                                             NASDAQ
+
+### PRICE STATS -- Score:12.1265
+----------------------------------  -----
+Total Run Count                     34
+Held High Perc                       0.32
+VWavg Run                            3.32
+Avg Continuation                     0.9
+
+### VOLUME STATS -- Score:43.55022000357633
+---------------------------------------------  ----------  -----------------------  -------------
+Curr Vol                                       54,176,268  Time Adj Curr Vol        86,208,116.71
+Curr RVOL                                      23.35       Time Adj RVOL            37.16
+Curr Vol Rank                                  4           Time Adj Vol Rank        3
+Float Rotation                                 1.68        Time Adj Float Rotation  2.67
+
+### SHARE STATS -- Score:17.04
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        76,204,914
+Shares Outstanding                35,982,425
+Float                             32,252,072
+Short Float                       0.03
+Short Interest                    849,699     Report Date             2020-JunA
+Prev Month Short Interest         10,663,159  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             5,630,000
+Cash              5,630,000
+ST Debt           1,220,000
+LT Debt           4,019,999
+
+### NEWS HEADLINES
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 07:33:12', "16 Communication Services Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230683/16-communication-services-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 07:18:29', "28 Stocks Moving in Thursday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16230592/28-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-10 13:00:00', 'IZEA Sets Investor Conference Call GlobeNewswire', 'https://finance.yahoo.com/news/izea-sets-investor-conference-call-170010896.html']
+['2020-06-10 10:47:32', "Shares of several communication companies are trading lower amid market weakness as investors await today's Federal Reserve decision and update on the state of the economy. Markets have sold off over the past few sessions following a recent surge.", 'https://www.benzinga.com/wiim/20/06/16222825/shares-of-several-communication-companies-are-trading-lower-amid-market-weakness-as-investors-await']
+['2020-06-10 05:46:49', '90 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16219250/90-biggest-movers-from-yesterday']
+['2020-06-09 14:02:53', 'UPDATE: IZEA Awarded $1M In Contracts; Shares Up 73%', 'https://www.benzinga.com/news/20/06/16214979/update-izea-awarded-1m-in-contracts-shares-up-73']
+['2020-06-09 14:01:22', 'IZEA Awarded New Contracts by Two Fortune 500 Retailers', 'https://www.benzinga.com/news/20/06/16214966/izea-awarded-new-contracts-by-two-fortune-500-retailers']
+['2020-06-09 14:00:00', 'IZEA Awarded New Contracts by Two Fortune 500 Retailers GlobeNewswire +65.08%', 'https://finance.yahoo.com/news/izea-awarded-contracts-two-fortune-180010216.html']
+['2020-06-09 12:26:29', "64 Stocks Moving In Tuesday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16214212/64-stocks-moving-in-tuesdays-mid-day-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

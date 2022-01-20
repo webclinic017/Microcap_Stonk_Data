@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CEI
+Timestamp           2020-06-08 11:23:58.007994
+Comp Name           Camber Energy, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    60
+Held High Perc      0.25
+VWavg Run           2.12
+Avg Continuation   -0.61
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            4,693,918  Time Adj Curr Vol        8,407,035.03
+Curr RVOL           5.89       Time Adj RVOL            10.54
+Curr Vol Rank       14         Time Adj Vol Rank        7
+Float Rotation      0.7        Time Adj Float Rotation  1.26
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 10,987,555
+Shares Outstanding         6,699,733
+Float                      6,698,018
+Short Float                0.06
+Short Interest             400,963     Report Date             2020-MayB
+Prev Month Short Interest  527,185     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             2,250,000
+Cash              2,250,000
+ST Debt           78,520,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 12:03:44', "71 Stocks Moving In Monday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16203382/71-stocks-moving-in-mondays-mid-day-session']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

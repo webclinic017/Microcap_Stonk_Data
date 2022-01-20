@@ -1,0 +1,57 @@
+### GENERAL INFO -- Total Score:42.3198
+-----------------------------------------  --------------------------
+Ticker                                     PRTY
+Timestamp                                  2020-06-12 08:47:11.138336
+Comp Name                                  Party City Holdco, Inc.
+Industry                                   Specialty Stores
+Sector                                     Retail Trade
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:11.6958
+----------------------------------  -----
+Total Run Count                     15
+Held High Perc                       0.6
+VWavg Run                            1.36
+Avg Continuation                     0.78
+
+### VOLUME STATS -- Score:13.6512
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             3,815,632  Time Adj Curr Vol        35,281,832.87
+Curr RVOL                            0.96       Time Adj RVOL            8.87
+Curr Vol Rank                        86         Time Adj Vol Rank        5
+Float Rotation                       0.04       Time Adj Float Rotation  0.4
+
+### SHARE STATS -- Score:16.9728
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          134,177,338
+Shares Outstanding                  96,598,873
+Float                               88,602,606
+Short Float                         0.23
+Short Interest                      22,278,556   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           22,165,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  -------------
+CASTI             35,180,000
+Cash              35,180,000
+ST Debt           1,450,000,000
+LT Debt           1,070,000,000
+
+### NEWS HEADLINES
+['2020-06-12 09:36:16', 'Party City Shares Halted On Volatility, Resume Trading; Shares Up 39%', 'https://www.benzinga.com/trading-ideas/movers/20/06/16242405/party-city-shares-halted-on-volatility-resume-trading-shares-up-39']
+['2020-06-12 08:35:00', 'Party City (PRTY) Reports Q1 Loss, Misses Revenue Estimates Zacks +32.39%', 'https://finance.yahoo.com/news/party-city-prty-reports-q1-123512831.html']
+['2020-06-12 07:28:00', 'Party City stock soars 24% after possible bond deal that could cut debt by 25%, raise $100 million in capital MarketWatch', 'https://www.marketwatch.com/story/party-city-stock-soars-24-after-possible-bond-deal-that-could-cut-debt-by-25-raise-100-million-in-capital-2020-06-12?siteid=yhoof2']
+['2020-06-12 07:05:47', 'Party City Holdco: Q1 Earnings Insights', 'https://www.benzinga.com/news/earnings/20/06/16241098/party-city-holdco-q1-earnings-insights']
+['2020-06-12 06:56:25', 'Party City To Close ~21 Stores, Open 2 New Stores, Remaining 10 Planned New Store Openings Likely To Shift To 2021', 'https://www.benzinga.com/news/20/06/16240976/party-city-to-close-21-stores-open-2-new-stores-remaining-10-planned-new-store-openings-likely-to-sh']
+['2020-06-12 06:55:40', 'Party City Holdco Q1 Adj. EPS $(0.28) Misses $(0.19) Estimate, Sales $414.00M Miss $445.17M Estimate', 'https://www.benzinga.com/news/earnings/20/06/16240969/party-city-holdco-q1-adj-eps-0-28-misses-0-19-estimate-sales-414-00m-miss-445-17m-estimate']
+['2020-06-12 06:55:00', 'Party City Announces First Quarter 2020 Financial Results GlobeNewswire', 'https://finance.yahoo.com/news/party-city-announces-first-quarter-105510223.html']
+['2020-06-12 06:00:00', 'Party City Holdco, Inc. to Host Earnings Call ACCESSWIRE', 'https://finance.yahoo.com/news/party-city-holdco-inc-host-100000373.html']
+['2020-06-12 04:12:38', 'Earnings Scheduled For June 12, 2020', 'https://www.benzinga.com/news/earnings/20/06/16240337/earnings-scheduled-for-june-12-2020']
+['2020-06-12 04:12:00', 'Earnings Scheduled For June 12, 2020 Benzinga', 'https://finance.yahoo.com/news/earnings-scheduled-june-12-2020-081238942.html']
+['2020-06-11 10:34:01', 'Shares of several retail & apparel companies are trading lower following an increase in coronavirus cases in some US states that have reopened, leading to concerns of a second wave of the virus.', 'https://www.benzinga.com/wiim/20/06/16233472/shares-of-several-retail-apparel-companies-are-trading-lower-following-an-increase-in-coronavirus-ca']
+['2020-06-10 08:54:46', 'Credit Suisse Maintains Outperform on Party City Holdco, Lowers Price Target to $4', 'https://www.benzinga.com/news/20/06/16220919/credit-suisse-maintains-outperform-on-party-city-holdco-lowers-price-target-to-4']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

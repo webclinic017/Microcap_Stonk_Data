@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              MOXC
+Timestamp           2020-06-10 09:10:56.534578
+Comp Name           Moxian, Inc.
+Industry            Data Processing Services
+Sector              Technology Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    49
+Held High Perc      0.35
+VWavg Run           2.39
+Avg Continuation   -0.54
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            3,355,952  Time Adj Curr Vol        15,038,168.43
+Curr RVOL           62.29      Time Adj RVOL            279.13
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.56       Time Adj Float Rotation  2.52
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 19,429,994
+Shares Outstanding         16,194,499
+Float                      5,975,999
+Short Float                0.01
+Short Interest             33,909      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,380,609  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----
+CASTI             8,114
+Cash              8,114
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS

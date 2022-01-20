@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              CLDX
+Timestamp           2020-06-10 10:12:47.473600
+Comp Name           Celldex Therapeutics, Inc.
+Industry            Medical Specialties
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    9
+Held High Perc     0.44
+VWavg Run          0.18
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,377,564  Time Adj Curr Vol        12,872,582.78
+Curr RVOL           17.05      Time Adj RVOL            40.81
+Curr Vol Rank       2          Time Adj Vol Rank        1
+Float Rotation      0.28       Time Adj Float Rotation  0.68
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 56,625,098
+Shares Outstanding         21,899,516
+Float                      18,906,293
+Short Float                0.02
+Short Interest             300,699     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,501,109  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             53,520,000
+Cash              22,720,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 07:46:06', 'The Daily Biotech Pulse: Soleno Flunks Late-Stage Study, Sanofi Strikes Breast Cancer Partnership, NanoViricides Shortlists Coronavirus Treatment Candidates', 'https://www.benzinga.com/general/biotech/20/06/16209621/the-daily-biotech-pulse-soleno-flunks-late-stage-study-sanofi-strikes-breast-cancer-partnership-n']
+['2020-06-09 07:46:00', 'The Daily Biotech Pulse: Soleno Flunks Late-Stage Study, Sanofi Strikes Breast Cancer Partnership, NanoViricides Shortlists Coronavirus Treatment Candidates Benzinga', 'https://finance.yahoo.com/news/daily-biotech-pulse-soleno-flunks-114606182.html']
+['2020-06-08 11:04:33', 'Stocks That Hit 52-Week Highs On Monday', 'https://www.benzinga.com/news/20/06/16202785/stocks-that-hit-52-week-highs-on-monday']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

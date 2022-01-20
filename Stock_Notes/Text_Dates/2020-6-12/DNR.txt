@@ -1,0 +1,52 @@
+### GENERAL INFO -- Total Score:25.5955
+-----------------------------------------  --------------------------
+Ticker                                     DNR
+Timestamp                                  2020-06-12 08:50:38.892665
+Comp Name                                  Denbury Resources, Inc.
+Industry                                   Oil & Gas Production
+Sector                                     Energy Minerals
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:11.6588
+----------------------------------  -----
+Total Run Count                     15
+Held High Perc                       0.6
+VWavg Run                            1.39
+Avg Continuation                     0.74
+
+### VOLUME STATS -- Score:1.5359
+----------------------------------  ---------  -----------------------  -------------
+Curr Vol                            4,908,610  Time Adj Curr Vol        36,848,305.94
+Curr RVOL                           0.31       Time Adj RVOL            2.36
+Curr Vol Rank                       363        Time Adj Vol Rank        11
+Float Rotation                      0.01       Time Adj Float Rotation  0.07
+
+### SHARE STATS -- Score:12.4008
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          203,351,410
+Shares Outstanding                  506,089,062
+Float                               498,965,838
+Short Float                         0.3
+Short Interest                      65,921,964   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           78,425,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --------------
+CASTI             6,920,000
+Cash              6,920,000
+ST Debt           16,100,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-11 09:54:38', 'Shares of several energy companies are trading lower as oil prices dip. Concerns of a second wave of the coronavirus have caused economic uncertainty and clouded demand outlook, while a recent build in US crude inventories has led to continued oversupply concerns.', 'https://www.benzinga.com/wiim/20/06/16232706/shares-of-several-energy-companies-are-trading-lower-as-oil-prices-dip-concerns-of-a-second-wave-of']
+['2020-06-10 12:47:00', 'Top Oil & Gas Stocks for Q3 2020 Investopedia -8.90%', 'https://www.investopedia.com/investing/oil-stocks/?utm_campaign=quote-yahoo&utm_source=yahoo&utm_medium=referral']
+['2020-06-10 12:09:00', 'Why Chesapeake Energy, Centennial Resource Development, and Denbury Resources Fell Sharply on Wednesday Motley Fool', 'https://www.fool.com/investing/2020/06/10/why-chesapeake-energy-centennial-resource-developm.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-10 10:16:57', 'Shares of several energy companies are trading lower after API reported an 8.42 million barrel build in crude oil inventories.', 'https://www.benzinga.com/wiim/20/06/16222364/shares-of-several-energy-companies-are-trading-lower-after-api-reported-an-8-42-million-barrel-build']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

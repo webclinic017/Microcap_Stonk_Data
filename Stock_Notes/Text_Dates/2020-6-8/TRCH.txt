@@ -1,0 +1,44 @@
+### GENERAL INFO
+------------------  ---------------------------------
+Ticker              TRCH
+Timestamp           2020-06-08 10:17:20.041721
+Comp Name           Torchlight Energy Resources, Inc.
+Industry            Other Consumer Services
+Sector              Consumer Services
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.17
+VWavg Run           0.63
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            2,780,694  Time Adj Curr Vol        6,656,306.41
+Curr RVOL           9.52       Time Adj RVOL            22.79
+Curr Vol Rank       2          Time Adj Vol Rank        1
+Float Rotation      0.04       Time Adj Float Rotation  0.1
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 33,418,881
+Shares Outstanding         85,273,952
+Float                      64,267,595
+Short Float                0.08
+Short Interest             5,641,610   Report Date             Shares Short (May 14, 2020) 4
+Prev Month Short Interest  5,415,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  ----------
+CASTI             89,730
+Cash              89,730
+ST Debt           52,920,000
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+marketwatch overview ['Float', 'Short Interest', 'Assigned Short Float', 'Calculated Short Float', 'Market Cap']

@@ -1,0 +1,62 @@
+### GENERAL INFO -- Total Score:27.2287
+-----------------------------------------  --------------------------------
+Ticker                                     FCEL
+Timestamp                                  2020-06-12 08:50:02.642355
+Comp Name                                  FuelCell Energy, Inc.
+Industry                                   Electronic Equipment/Instruments
+Sector                                     Electronic Technology
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:15.0774
+----------------------------------  -----
+Total Run Count                     38
+Held High Perc                       0.42
+VWavg Run                            1.33
+Avg Continuation                     1.63
+
+### VOLUME STATS -- Score:1.5408
+----------------------------------  ---------  -----------------------  -------------
+Curr Vol                            4,496,919  Time Adj Curr Vol        33,757,794.38
+Curr RVOL                           0.32       Time Adj RVOL            2.37
+Curr Vol Rank                       239        Time Adj Vol Rank        33
+Float Rotation                      0.02       Time Adj Float Rotation  0.17
+
+### SHARE STATS -- Score:10.6105
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          537,969,205
+Shares Outstanding                  210,018,506
+Float                               199,820,186
+Short Float                         0.14
+Short Interest                      27,449,993   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           25,135,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             46,430,000
+Cash              46,430,000
+ST Debt           -
+LT Debt           4,080,000
+
+### NEWS HEADLINES
+['2020-06-12 08:45:00', 'FuelCell Energy (FCEL) Reports Q2 Loss, Tops Revenue Estimates Zacks +20.04%', 'https://finance.yahoo.com/news/fuelcell-energy-fcel-reports-q2-124512110.html']
+['2020-06-12 08:13:00', 'FuelCell Energy stock surges after revenue beat MarketWatch', 'https://www.marketwatch.com/story/fuelcell-energy-stock-surges-after-revenue-beat-2020-06-12?siteid=yhoof2']
+['2020-06-12 08:03:07', 'FuelCell Energy shares are trading higher after the company reported better-than-expected Q2 sales results.', 'https://www.benzinga.com/wiim/20/06/16241437/fuelcell-energy-shares-are-trading-higher-after-the-company-reported-better-than-expected-q2-sales-r']
+['2020-06-12 08:00:00', 'FuelCell Energy, Inc. to Host Earnings Call ACCESSWIRE', 'https://finance.yahoo.com/news/fuelcell-energy-inc-host-earnings-120000237.html']
+['2020-06-12 07:48:19', 'Recap: FuelCell Energy Q2 Earnings', 'https://www.benzinga.com/news/earnings/20/06/16241252/recap-fuelcell-energy-q2-earnings']
+['2020-06-12 07:38:09', "11 Industrials Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241228/11-industrials-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:31:08', 'FuelCell Energy Q2 EPS $(0.07), Inline, Sales $18.90M Beat $15.55M Estimate', 'https://www.benzinga.com/news/earnings/20/06/16241234/fuelcell-energy-q2-eps-0-07-inline-sales-18-90m-beat-15-55m-estimate']
+['2020-06-12 07:30:00', 'FuelCell Energy Reports Results for the Second Quarter of Fiscal 2020 and Provides Business Update GlobeNewswire', 'https://finance.yahoo.com/news/fuelcell-energy-reports-results-second-113010798.html']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-12 04:12:38', 'Earnings Scheduled For June 12, 2020', 'https://www.benzinga.com/news/earnings/20/06/16240337/earnings-scheduled-for-june-12-2020']
+['2020-06-12 04:12:00', 'Earnings Scheduled For June 12, 2020 Benzinga', 'https://finance.yahoo.com/news/earnings-scheduled-june-12-2020-081238942.html']
+['2020-06-11 16:37:01', 'FuelCell Energy On Jun. 5 Gave Notice To B. Riley FBR Of Election To Terminate At Market Issuance Sales Agreement', 'https://www.benzinga.com/general/20/06/16237863/fuelcell-energy-on-jun-5-gave-notice-to-b-riley-fbr-of-election-to-terminate-at-market-issuance-sale']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 10:42:00', "FuelCell (FCEL) to Report Q2 Earnings: What's in the Cards? Zacks -24.33%", 'https://finance.yahoo.com/news/fuelcell-fcel-report-q2-earnings-144202663.html']
+['2020-06-11 10:25:28', 'Shares of several industrials companies are trading lower with the overall market as coronavirus cases increase in some US states that have reopened, leading to concerns of a second wave of the virus.', 'https://www.benzinga.com/wiim/20/06/16233326/shares-of-several-industrials-companies-are-trading-lower-with-the-overall-market-as-coronavirus-cas']
+['2020-06-10 09:15:00', 'FuelCell Energy Announces Second Quarter Results Conference Call on June 12, 2020 at 10 A.M. Eastern Time GlobeNewswire +29.12%', 'https://finance.yahoo.com/news/fuelcell-energy-announces-second-quarter-131510091.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

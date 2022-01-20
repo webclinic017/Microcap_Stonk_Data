@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              NSPR
+Timestamp           2020-06-10 08:55:08.505436
+Comp Name           InspireMD, Inc.
+Industry            Medical Devices
+Sector              Healthcare
+Exchange            AMEX
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    29
+Held High Perc      0.34
+VWavg Run           0.87
+Avg Continuation   -0.56
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            9,949,861  Time Adj Curr Vol        63,030,244.59
+Curr RVOL           21.42      Time Adj RVOL            135.67
+Curr Vol Rank       6          Time Adj Vol Rank        1
+Float Rotation      1.98       Time Adj Float Rotation  12.54
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 6,704,590
+Shares Outstanding         24,822,328
+Float                      5,024,952
+Short Float                0.04
+Short Interest             212,599     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,439,509  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             3,140,000
+Cash              3,140,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-10 08:00:00', 'InspireMD Announces Publication of 12-Month Results of CGuard EPS PARADIGM Trial in EuroIntervention GlobeNewswire +37.81%', 'https://finance.yahoo.com/news/inspiremd-announces-publication-12-month-120010139.html']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

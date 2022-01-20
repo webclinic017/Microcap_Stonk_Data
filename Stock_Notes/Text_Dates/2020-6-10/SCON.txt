@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------------
+Ticker              SCON
+Timestamp           2020-06-10 08:55:08.505436
+Comp Name           Superconductor Technologies Inc.
+Industry            Semiconductors
+Sector              Technology
+Exchange            NASDAQ Capital Market
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    28
+Held High Perc      0.43
+VWavg Run           1.69
+Avg Continuation    0.21
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            9,231,869  Time Adj Curr Vol        58,481,918.6
+Curr RVOL           5.9        Time Adj RVOL            37.4
+Curr Vol Rank       14         Time Adj Vol Rank        2
+Float Rotation      0.4        Time Adj Float Rotation  2.51
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 12,106,799
+Shares Outstanding         30,668,976
+Float                      23,278,132
+Short Float                0.06
+Short Interest             1,503,453   Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,725,259  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             1,840,000
+Cash              1,840,000
+ST Debt           316,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-10 07:37:54', "20 Technology Stocks Moving In Wednesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16219957/20-technology-stocks-moving-in-wednesdays-pre-market-session']
+['2020-06-08 11:44:14', 'Shares of some technology companies are trading higher on continued optimism amid the reopening of the economy, which would increase consumer spending and economic activity.', 'https://www.benzinga.com/wiim/20/06/16203172/shares-of-some-technology-companies-are-trading-higher-on-continued-optimism-amid-the-reopening-of-t']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']

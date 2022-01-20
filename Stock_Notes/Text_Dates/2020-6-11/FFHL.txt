@@ -1,0 +1,46 @@
+### GENERAL INFO -- Total Score:104.48654387515971
+----------------------------------------------------  --------------------------------
+Ticker                                                FFHL
+Timestamp                                             2020-06-11 12:08:58.456123
+Comp Name                                             Fuwei Films (Holdings) Co., Ltd.
+Industry                                              Chemicals: Specialty
+Sector                                                Process Industries
+Exchange                                              NASDAQ
+
+### PRICE STATS -- Score:4.8716
+---------------------------------  -----
+Total Run Count                    27
+Held High Perc                      0.07
+VWavg Run                           0.87
+Avg Continuation                   -0.12
+
+### VOLUME STATS -- Score:52.454943875159714
+----------------------------------------------  ---------  -----------------------  ------------
+Curr Vol                                        2,467,241  Time Adj Curr Vol        3,926,003.17
+Curr RVOL                                       19.75      Time Adj RVOL            31.42
+Curr Vol Rank                                   3          Time Adj Vol Rank        2
+Float Rotation                                  2.19       Time Adj Float Rotation  3.48
+
+### SHARE STATS -- Score:47.16
+--------------------------------  ----------  ----------------------  -------------------
+Market Cap                        8,458,546
+Shares Outstanding                3,278,319
+Float                             1,128,345
+Short Float                       0.01
+Short Interest                    7,859       Report Date             2020-JunA
+Prev Month Short Interest         10,374,409  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  -----------
+CASTI             12,400,000
+Cash              12,400,000
+ST Debt           130,680,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']

@@ -1,0 +1,60 @@
+### GENERAL INFO -- Total Score:72.3028
+-----------------------------------------  --------------------------
+Ticker                                     IMRN
+Timestamp                                  2020-06-12 09:27:51.034342
+Comp Name
+Industry                                   Oil & Gas E&P
+Sector                                     Energy
+Exchange                                   NASDAQ
+
+### PRICE STATS -- Score:3.8494
+---------------------------------  -----
+Total Run Count                    14
+Held High Perc                      0.21
+VWavg Run                          13.78
+Avg Continuation                   -0.66
+
+### VOLUME STATS -- Score:44.3827
+-----------------------------------  ---------  -----------------------  -------------
+Curr Vol                             3,257,411  Time Adj Curr Vol        11,162,955.36
+Curr RVOL                            11.27      Time Adj RVOL            38.62
+Curr Vol Rank                        5          Time Adj Vol Rank        2
+Float Rotation                       0.08       Time Adj Float Rotation  0.28
+
+### SHARE STATS -- Score:24.0707
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          32,450,377
+Shares Outstanding                  204,987,310
+Float                               39,621,146
+Short Float                         0.23
+Short Interest                      3,214        Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           10,985,949   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             4,840,000
+Cash              4,840,000
+ST Debt           -
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 10:22:31', 'Shares of several healthcare companies are trading lower in sympathy with the overall market following an increase in coronavirus cases in some US states that have reopened, leading to concerns of a second wave of the virus.', 'https://www.benzinga.com/wiim/20/06/16233278/shares-of-several-healthcare-companies-are-trading-lower-in-sympathy-with-the-overall-market-followi']
+['2020-06-11 07:36:07', "20 Healthcare Stocks Moving In Thursday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16230702/20-healthcare-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 07:18:29', "28 Stocks Moving in Thursday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16230592/28-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 05:00:23', '80 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16229795/80-biggest-movers-from-yesterday']
+['2020-06-10 14:30:23', 'Mid-Afternoon Market Update: Dow Turns Higher; Fed Keeps Rates Unchanged', 'https://www.benzinga.com/news/earnings/20/06/16225237/mid-afternoon-market-update-dow-turns-higher-fed-keeps-rates-unchanged']
+['2020-06-10 13:31:54', "61 Stocks Moving In Wednesday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16224660/61-stocks-moving-in-wednesdays-mid-day-session']
+['2020-06-10 12:25:07', 'Mid-Day Market Update: NASDAQ Tops 10,000; Curis Shares Spike Higher', 'https://www.benzinga.com/news/earnings/20/06/16224077/mid-day-market-update-nasdaq-tops-10-000-curis-shares-spike-higher']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+get curr day volume ['Cant get TOS curr day volume']
+iex stock company info ['Request Failure']
+iex stock stats ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+marketwatch overview ['Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              RWT
+Timestamp           2020-06-08 11:25:56.289701
+Comp Name           Redwood Trust, Inc.
+Industry            REITs
+Sector              Real Estate
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    6
+Held High Perc     0.17
+VWavg Run          0.41
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,227,821  Time Adj Curr Vol        11,154,329.77
+Curr RVOL           3.43       Time Adj RVOL            6.15
+Curr Vol Rank       22         Time Adj Vol Rank        8
+Float Rotation      0.05       Time Adj Float Rotation  0.1
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 812,989,452
+Shares Outstanding         114,828,850
+Float                      113,790,843
+Short Float                0.1
+Short Interest             10,909,082   Report Date             2020-MayB
+Prev Month Short Interest  12,680,000   Prev Month Report Date
+
+### FINANCIALS
+----------------  -------------
+CASTI             403,990,000
+Cash              403,990,000
+ST Debt           2,340,000,000
+LT Debt           281,570,000
+
+### NEWS HEADLINES
+['2020-06-08 08:44:58', 'Credit Suisse Maintains Outperform on Redwood Trust, Raises Price Target to $8', 'https://www.benzinga.com/news/20/06/16200625/credit-suisse-maintains-outperform-on-redwood-trust-raises-price-target-to-8']
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

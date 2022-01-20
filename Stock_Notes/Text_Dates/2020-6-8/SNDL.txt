@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------------
+Ticker              SNDL
+Timestamp           2020-06-08 11:25:48.459870
+Comp Name           Sundial Growers, Inc.
+Industry            Agricultural Commodities/Milling
+Sector              Process Industries
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    10
+Held High Perc      0.4
+VWavg Run           0.87
+Avg Continuation   -0.25
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            4,238,247  Time Adj Curr Vol        7,590,906.14
+Curr RVOL           2.8        Time Adj RVOL            5.02
+Curr Vol Rank       9          Time Adj Vol Rank        5
+Float Rotation      0.06       Time Adj Float Rotation  0.11
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 88,024,222
+Shares Outstanding         107,353,058
+Float                      70,572,646
+Short Float                0.03
+Short Interest             2,037,702    Report Date             2020-MayB
+Prev Month Short Interest  2,000,000    Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             18,610,000
+Cash              18,610,000
+ST Debt           209,270,000
+LT Debt           8,240,000
+
+### NEWS HEADLINES
+['2020-06-08 06:00:00', 'Sundial Announces Successful Amendments with Senior Lenders, US$18 Million Convertible Notes Issuance and Close of Bridge Farm Sale PR Newswire +25.62%', 'https://finance.yahoo.com/news/sundial-announces-successful-amendments-senior-100000357.html']
+['2020-06-08 06:00:00', 'Sundial Announces Successful Amendments with Senior Lenders, US$18 Million Convertible Notes Issuance and Close of Bridge Farm Sale CNW Group', 'https://finance.yahoo.com/news/sundial-announces-successful-amendments-senior-100000297.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

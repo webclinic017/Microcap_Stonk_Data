@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              ROYT
+Timestamp           2020-06-08 09:01:55.458738
+Comp Name           Pacific Coast Oil Trust
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.25
+VWavg Run           0.95
+Avg Continuation   -0.32
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            3,983,765  Time Adj Curr Vol        22,087,900.69
+Curr RVOL           6.71       Time Adj RVOL            37.21
+Curr Vol Rank       8          Time Adj Vol Rank        1
+Float Rotation      0.1        Time Adj Float Rotation  0.57
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 16,590,497
+Shares Outstanding         38,583,157
+Float                      38,582,991
+Short Float                0.02
+Short Interest             614,913     Report Date             2020-MayB
+Prev Month Short Interest  485,400     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------
+CASTI             199,000
+Cash              199,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+
+
+### ERRORS
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']
+yahoo key stats ['Float', 'Calculated Short Float', 'Assigned Short Float']

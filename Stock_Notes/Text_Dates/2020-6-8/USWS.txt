@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              USWS
+Timestamp           2020-06-08 10:14:55.331837
+Comp Name           US Well Services, Inc.
+Industry            Financial Conglomerates
+Sector              Finance
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    20
+Held High Perc      0.25
+VWavg Run           1.82
+Avg Continuation   -0.35
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,161,050  Time Adj Curr Vol        7,566,786.34
+Curr RVOL           9.42       Time Adj RVOL            22.56
+Curr Vol Rank       5          Time Adj Vol Rank        3
+Float Rotation      0.11       Time Adj Float Rotation  0.26
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -----------------------------------------
+Market Cap                 46,383,108
+Shares Outstanding         72,491,496
+Float                      29,196,789
+Short Float                0.02
+Short Interest             734,675     Report Date             2020-MayB
+Prev Month Short Interest  685,625     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             9,590,000
+Cash              9,590,000
+ST Debt           273,830,000
+LT Debt           4,970,000
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

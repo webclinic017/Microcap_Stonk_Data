@@ -1,0 +1,49 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              IMRN
+Timestamp           2020-06-09 08:54:09.422311
+Comp Name           Immuron Ltd.
+Industry            Pharmaceuticals: Major
+Sector              Health Technology
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.25
+VWavg Run           0.58
+Avg Continuation   -0.66
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,388,867  Time Adj Curr Vol        40,472,108.07
+Curr RVOL           97.59      Time Adj RVOL            618.19
+Curr Vol Rank       2          Time Adj Vol Rank        1
+Float Rotation      0.16       Time Adj Float Rotation  1.02
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 9,287,328
+Shares Outstanding         4,450,945
+Float                      39,621,146
+Short Float                0.24aasdf
+Short Interest             102         Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,370,659  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             4,840,000
+Cash              4,840,000
+ST Debt
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 07:11:42', "34 Stocks Moving in Tuesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16209870/34-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 06:00:00', 'US DoD Naval Medical Research Center Requests Meeting with FDA for Guidance on two Phase 2 trials to Prevent Acute Infectious Diarrhea GlobeNewswire +383.31%', 'https://finance.yahoo.com/news/us-dod-naval-medical-research-100010476.html']
+
+
+### ERRORS
+marketwatch overview ['Assigned Short Float', 'Calculated Short Float']
+polygon ticker details ['Request Failure']
+shortsqueeze ['Float', 'Assigned Short Float', 'Calculated Short Float']
+finviz ['Short Interest']

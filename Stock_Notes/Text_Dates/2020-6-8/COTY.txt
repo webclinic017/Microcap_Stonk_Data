@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              COTY
+Timestamp           2020-06-08 11:26:58.156780
+Comp Name           Coty, Inc.
+Industry            Household/Personal Care
+Sector              Consumer Non-Durables
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    8
+Held High Perc     0.75
+VWavg Run          0.32
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  -------------
+Curr Vol            24,986,216  Time Adj Curr Vol        44,751,525.93
+Curr RVOL           2.55        Time Adj RVOL            4.57
+Curr Vol Rank       31          Time Adj Vol Rank        7
+Float Rotation      0.09        Time Adj Float Rotation  0.16
+
+### SHARE STATS
+-------------------------  -------------  ----------------------  -----------------------------------------
+Market Cap                 3,876,523,247
+Shares Outstanding         763,092,019
+Float                      282,738,998
+Short Float                0.1
+Short Interest             28,290,351     Report Date             2020-MayB
+Prev Month Short Interest  21,145,000     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -------------
+CASTI             1,310,000,000
+Cash              1,310,000,000
+ST Debt
+LT Debt           4,920,000,000
+
+### NEWS HEADLINES
+['2020-06-08 11:34:19', 'Shares of several consumer staple companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16203075/shares-of-several-consumer-staple-companies-are-trading-higher-on-continued-upward-momentum-surround']
+['2020-06-07 08:51:00', "Kylie Jenner still Forbes' highest-paid celeb, despite not being a billionaire anymore Yahoo Finance", 'https://finance.yahoo.com/news/kylie-jenner-tops-forbes-highestpaid-celeb-list-despite-being-stripped-of-billionaire-title-125117608.html']
+
+
+### ERRORS

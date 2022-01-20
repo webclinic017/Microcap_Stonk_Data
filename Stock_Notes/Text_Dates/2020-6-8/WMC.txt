@@ -1,0 +1,45 @@
+### GENERAL INFO
+------------------  ------------------------------------
+Ticker              WMC
+Timestamp           2020-06-08 10:17:37.112535
+Comp Name           Western Asset Mortgage Capital Corp.
+Industry            Real Estate Investment Trusts
+Sector              Finance
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    8
+Held High Perc     0.38
+VWavg Run          0.6
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            4,272,158  Time Adj Curr Vol        9,953,674.77
+Curr RVOL           6.3        Time Adj RVOL            14.68
+Curr Vol Rank       6          Time Adj Vol Rank        1
+Float Rotation      0.08       Time Adj Float Rotation  0.19
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  ---------
+Market Cap                 156,531,938
+Shares Outstanding         53,423,870
+Float                      53,021,480
+Short Float                0.14
+Short Interest             7,387,124    Report Date             2020-MayB
+Prev Month Short Interest  5,370,000    Prev Month Report Date
+
+### FINANCIALS
+----------------  -------------
+CASTI             43,570,000
+Cash              43,570,000
+ST Debt           1,550,000,000
+LT Debt           130,530,000
+
+### NEWS HEADLINES
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']

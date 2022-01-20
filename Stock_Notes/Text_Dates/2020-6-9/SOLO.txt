@@ -1,0 +1,49 @@
+### GENERAL INFO
+------------------  -------------------------------
+Ticker              SOLO
+Timestamp           2020-06-09 08:54:09.422311
+Comp Name           Electrameccanica Vehicles Corp.
+Industry            Motor Vehicles
+Sector              Consumer Durables
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.33
+VWavg Run           0.91
+Avg Continuation   -0.45
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,326,984  Time Adj Curr Vol        33,745,306.03
+Curr RVOL           5.3        Time Adj RVOL            33.56
+Curr Vol Rank       14         Time Adj Vol Rank        3
+Float Rotation      0.27       Time Adj Float Rotation  1.69
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 63,179,988
+Shares Outstanding         40,698,004
+Float                      19,962,775
+Short Float                0.04
+Short Interest             787,933     Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,861,459  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ---------
+CASTI             5,290,000
+Cash              5,290,000
+ST Debt           7,940,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-09 07:36:06', "20 Consumer Cyclical Stocks Moving In Tuesday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16210028/20-consumer-cyclical-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-09 07:11:42', "34 Stocks Moving in Tuesday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16209870/34-stocks-moving-in-tuesdays-pre-market-session']
+['2020-06-08 11:59:44', 'Shares of several automotive companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity. New York City moved into phase one of its reopening plan on Monday.', 'https://www.benzinga.com/wiim/20/06/16203312/shares-of-several-automotive-companies-are-trading-higher-on-continued-upward-momentum-surrounding-t']
+['2020-06-08 08:32:00', 'ElectraMeccanica Begins Proposed Site Visits In Second Phase Of BDO-Led Search For SOLO EV US Assembly Facility And Engineering Technical Center', 'https://www.benzinga.com/news/20/06/16200508/electrameccanica-begins-proposed-site-visits-in-second-phase-of-bdo-led-search-for-solo-ev-us-assemb']
+['2020-06-08 08:31:00', 'ElectraMeccanica Begins Proposed Site Visits in Second Phase of BDO-Led Search for SOLO EV U.S. Assembly Facility and Engineering Technical Center GlobeNewswire +21.32%', 'https://finance.yahoo.com/news/electrameccanica-begins-proposed-visits-second-123110376.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']

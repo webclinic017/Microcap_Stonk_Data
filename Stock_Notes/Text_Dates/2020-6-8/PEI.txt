@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  -----------------------------------------
+Ticker              PEI
+Timestamp           2020-06-08 11:25:25.645953
+Comp Name           Pennsylvania Real Estate Investment Trust
+Industry            REITs
+Sector              Real Estate
+Exchange            NYSE
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    9
+Held High Perc     0.44
+VWavg Run          0.87
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  ------------
+Curr Vol            3,817,556  Time Adj Curr Vol        6,837,428.14
+Curr RVOL           1.98       Time Adj RVOL            3.56
+Curr Vol Rank       30         Time Adj Vol Rank        5
+Float Rotation      0.06       Time Adj Float Rotation  0.11
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 156,883,261
+Shares Outstanding         78,876,390
+Float                      64,810,494
+Short Float                0.52
+Short Interest             33,980,000   Report Date             2020-MayB
+Prev Month Short Interest  34,010,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  -----------
+CASTI             11,600,000
+Cash              11,600,000
+ST Debt           39,950,000
+LT Debt           218,270,000
+
+### NEWS HEADLINES
+['2020-06-08 10:00:54', 'Shares of several real estate companies are trading higher on continued upward momentum surrounding the economy reopening, which would increase consumer spending and economic activity.', 'https://www.benzinga.com/wiim/20/06/16201904/shares-of-several-real-estate-companies-are-trading-higher-on-continued-upward-momentum-surrounding']
+['2020-06-08 08:10:55', "10 Real Estate Stocks Moving In Monday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16199778/10-real-estate-stocks-moving-in-mondays-pre-market-session']
+
+
+### ERRORS
+finviz ['Short Interest']

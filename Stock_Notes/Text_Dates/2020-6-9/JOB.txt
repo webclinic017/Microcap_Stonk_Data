@@ -1,0 +1,43 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              JOB
+Timestamp           2020-06-09 09:50:33.207500
+Comp Name           GEE Group, Inc.
+Industry            Personnel Services
+Sector              Commercial Services
+Exchange            NYSE American
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    35
+Held High Perc      0.37
+VWavg Run           1.38
+Avg Continuation   -0.24
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            6,812,973  Time Adj Curr Vol        19,428,909.01
+Curr RVOL           92.6       Time Adj RVOL            264.07
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.57       Time Adj Float Rotation  1.64
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  -------------------
+Market Cap                 6,266,858
+Shares Outstanding         18,881,126
+Float                      11,861,583
+Short Float                0.24
+Short Interest             16,330      Report Date             2020-05-15 00:00:00
+Prev Month Short Interest  10,372,059  Prev Month Report Date  2020-04-15 00:00:00
+
+### FINANCIALS
+----------------  ----------
+CASTI             2,380,000
+Cash              2,380,000
+ST Debt           10,680,000
+LT Debt           72,290,000
+
+### NEWS HEADLINES
+
+
+### ERRORS

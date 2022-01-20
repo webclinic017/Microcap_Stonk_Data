@@ -1,0 +1,66 @@
+### GENERAL INFO -- Total Score:81.5798
+-----------------------------------------  --------------------------
+Ticker                                     CHK
+Timestamp                                  2020-06-12 08:49:54.088685
+Comp Name                                  Chesapeake Energy Corp.
+Industry                                   Oil & Gas Production
+Sector                                     Energy Minerals
+Exchange                                   New York Stock Exchange
+
+### PRICE STATS -- Score:10.4755
+----------------------------------  -----
+Total Run Count                     19
+Held High Perc                       0.47
+VWavg Run                            3.46
+Avg Continuation                     0
+
+### VOLUME STATS -- Score:33.793
+----------------------------------  ---------  -----------------------  -------------
+Curr Vol                            1,564,104  Time Adj Curr Vol        11,741,528.19
+Curr RVOL                           2.2        Time Adj RVOL            16.53
+Curr Vol Rank                       31         Time Adj Vol Rank        2
+Float Rotation                      0.18       Time Adj Float Rotation  1.33
+
+### SHARE STATS -- Score:37.3113
+----------------------------------  -----------  ----------------------  -------------------
+Market Cap                          172,573,805
+Shares Outstanding                  9,849,257
+Float                               8,811,629
+Short Float                         0.41
+Short Interest                      16,511,964   Report Date             2020-05-29 00:00:00
+Prev Month Short Interest           12,735,899   Prev Month Report Date  2020-04-30 00:00:00
+
+### FINANCIALS
+----------------  --------------
+CASTI             966,000,000
+Cash              82,000,000
+ST Debt           34,930,000,000
+LT Debt           -
+
+### NEWS HEADLINES
+['2020-06-12 09:35:17', 'Chesapeake Energy Shares Halted On Circuit Breaker To Downside, Stock Pulled Back From Session High, Still Up 28% For Session', 'https://www.benzinga.com/trading-ideas/movers/20/06/16242376/chesapeake-energy-shares-halted-on-circuit-breaker-to-downside-stock-pulled-back-from-sessio']
+['2020-06-12 07:33:34', "11 Energy Stocks Moving In Friday's Pre-Market Session", 'https://www.benzinga.com/pre-market-outlook/20/06/16241225/11-energy-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 07:17:08', "40 Stocks Moving in Friday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16241154/40-stocks-moving-in-fridays-pre-market-session']
+['2020-06-12 06:00:00', 'Chesapeakes Demise Marks End of Shale Model That Changed the World Bloomberg +27.95%', 'https://finance.yahoo.com/news/chesapeake-demise-marks-end-shale-100004077.html']
+['2020-06-12 05:07:09', '78 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16240527/78-biggest-movers-from-yesterday']
+['2020-06-11 16:21:00', 'Oil and Energy Stocks Plunge as Momentum Reverses Barrons.com', 'https://www.barrons.com/articles/oil-and-energy-stocks-plunge-as-momentum-reverses-51591906867?siteid=yhoof2']
+['2020-06-11 14:59:00', 'Chesapeakes Billion-Dollar Hedge and the Bankruptcy Question Bloomberg', 'https://finance.yahoo.com/news/chesapeake-billion-dollar-hedge-bankruptcy-185934684.html']
+['2020-06-11 14:40:00', 'Why ExxonMobil and Chevron Fell Sharply at the Open on Thursday Motley Fool', 'https://www.fool.com/investing/2020/06/11/why-exxonmobil-and-chevron-fell-sharply-at-the-ope.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 12:19:17', "60 Stocks Moving In Thursday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16234769/60-stocks-moving-in-thursdays-mid-day-session']
+['2020-06-11 10:39:09', 'Chesapeake Energy Shares Halted On Circuit Breaker, Up 4% For Session', 'https://www.benzinga.com/trading-ideas/movers/20/06/16233535/chesapeake-energy-shares-halted-on-circuit-breaker-up-4-for-session']
+['2020-06-11 10:15:40', 'Chesapeake Energy Shares Resume Trade, Pullback From Session High, Still Up 25.5%', 'https://www.benzinga.com/news/20/06/16233154/chesapeake-energy-shares-resume-trade-pullback-from-session-high-still-up-25-5']
+['2020-06-11 10:12:34', 'Chesapeake Energy Shares Were Halted At 10:08 a.m. EDT, Up 27%', 'https://www.benzinga.com/trading-ideas/movers/20/06/16233101/chesapeake-energy-shares-were-halted-at-10-08-a-m-edt-up-27']
+['2020-06-11 08:52:00', 'Are Options Traders Betting on a Big Move in Chesapeake Energy (CHK) Stock? Zacks', 'https://finance.yahoo.com/news/options-traders-betting-big-move-125212918.html']
+['2020-06-11 08:04:00', 'The Insanity of Chesapeake Energy Stock Motley Fool', 'https://www.fool.com/investing/2020/06/11/the-insanity-of-chesapeake-energy-stock.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-11 07:18:29', "28 Stocks Moving in Thursday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16230592/28-stocks-moving-in-thursdays-pre-market-session']
+['2020-06-11 05:00:23', '80 Biggest Movers From Yesterday', 'https://www.benzinga.com/news/20/06/16229795/80-biggest-movers-from-yesterday']
+['2020-06-10 16:23:00', 'Stock Market Today: The Nasdaq Breaks Through 10,000 Kiplinger -29.22%', 'https://finance.yahoo.com/news/stock-market-today-nasdaq-breaks-202340603.html']
+['2020-06-10 12:09:00', 'Why Chesapeake Energy, Centennial Resource Development, and Denbury Resources Fell Sharply on Wednesday Motley Fool', 'https://www.fool.com/investing/2020/06/10/why-chesapeake-energy-centennial-resource-developm.aspx?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article']
+['2020-06-10 11:30:00', 'Why Is Chesapeake (CHK) Up 116.3% Since Last Earnings Report? Zacks', 'https://finance.yahoo.com/news/why-chesapeake-chk-116-3-153003971.html']
+['2020-06-10 10:56:00', 'Chesapeake (CHK) Witnesses Dramatic Share Price Fluctuations Zacks', 'https://finance.yahoo.com/news/chesapeake-chk-witnesses-dramatic-share-145602687.html']
+['2020-06-10 10:37:00', 'The Hot New Trend of Buying Bankrupt Stocks GuruFocus.com', 'https://finance.yahoo.com/news/hot-trend-buying-bankrupt-stocks-143710495.html']
+
+
+### ERRORS
+polygon ticker details ['Request Failure']
+finviz ['Short Interest']

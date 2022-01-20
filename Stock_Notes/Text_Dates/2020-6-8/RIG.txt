@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              RIG
+Timestamp           2020-06-08 11:24:17.106365
+Comp Name           Transocean Ltd.
+Industry            Contract Drilling
+Sector              Industrial Services
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  ----
+Total Run Count    8
+Held High Perc     0.62
+VWavg Run          0.66
+Avg Continuation
+
+### VOLUME STATS
+------------------  ----------  -----------------------  --------------
+Curr Vol            59,636,463  Time Adj Curr Vol        106,811,800.56
+Curr RVOL           2.93        Time Adj RVOL            5.26
+Curr Vol Rank       8           Time Adj Vol Rank        1
+Float Rotation      0.1         Time Adj Float Rotation  0.19
+
+### SHARE STATS
+-------------------------  -------------  ----------------------  -----------------------------------------
+Market Cap                 1,536,437,695
+Shares Outstanding         614,577,293
+Float                      575,469,743
+Short Float                0.15
+Short Interest             88,210,000     Report Date             2020-MayB
+Prev Month Short Interest  94,980,000     Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             2,009,999,999
+Cash              2,009,999,999
+ST Debt           23,940,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 12:03:44', "71 Stocks Moving In Monday's Mid-Day Session", 'https://www.benzinga.com/news/20/06/16203382/71-stocks-moving-in-mondays-mid-day-session']
+['2020-06-08 08:40:00', "Do Options Traders Know Something About Transocean (RIG) Stock We Don't? Zacks +29.20%", 'https://finance.yahoo.com/news/options-traders-know-something-transocean-124012485.html']
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+
+
+### ERRORS
+finviz ['Short Interest']

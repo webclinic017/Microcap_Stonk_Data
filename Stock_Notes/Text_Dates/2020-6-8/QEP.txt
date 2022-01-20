@@ -1,0 +1,47 @@
+### GENERAL INFO
+------------------  --------------------------
+Ticker              QEP
+Timestamp           2020-06-08 09:00:40.390139
+Comp Name           QEP Resources, Inc.
+Industry            Oil & Gas Production
+Sector              Energy Minerals
+Exchange            New York Stock Exchange
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    18
+Held High Perc      0.5
+VWavg Run           1.32
+Avg Continuation    0.3
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,262,475  Time Adj Curr Vol        29,177,681.21
+Curr RVOL           0.71       Time Adj RVOL            3.94
+Curr Vol Rank       222        Time Adj Vol Rank        6
+Float Rotation      0.02       Time Adj Float Rotation  0.12
+
+### SHARE STATS
+-------------------------  -----------  ----------------------  -----------------------------------------
+Market Cap                 431,085,281
+Shares Outstanding         242,181,463
+Float                      237,314,480
+Short Float                0.08
+Short Interest             18,390,000   Report Date             2020-MayB
+Prev Month Short Interest  18,225,000   Prev Month Report Date  Shares Short (prior month Apr 14, 2020) 4
+
+### FINANCIALS
+----------------  --------------
+CASTI             70,300,000
+Cash              70,300,000
+ST Debt           10,530,000,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:04:17', 'Shares of several energy companies are trading higher after OPEC+ agreed to extend production cuts into July.', 'https://www.benzinga.com/wiim/20/06/16200136/shares-of-several-energy-companies-are-trading-higher-after-opec-agreed-to-extend-production-cuts-in']
+['2020-06-08 07:15:28', "33 Stocks Moving in Monday's Pre-Market Session", 'https://www.benzinga.com/news/20/06/16199665/33-stocks-moving-in-mondays-pre-market-session']
+['2020-06-08 04:54:56', '102 Biggest Movers From Friday', 'https://www.benzinga.com/news/20/06/16198939/102-biggest-movers-from-friday']
+
+
+### ERRORS
+finviz ['Short Interest']

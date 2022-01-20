@@ -1,0 +1,46 @@
+### GENERAL INFO
+------------------  ---------------------------------
+Ticker              SINO
+Timestamp           2020-06-08 10:12:14.257544
+Comp Name           Sino-Global Shipping America Ltd.
+Industry            Marine Shipping
+Sector              Transportation
+Exchange            NASDAQ
+
+### PRICE STATS
+-----------------  -----
+Total Run Count    12
+Held High Perc      0.25
+VWavg Run           0.4
+Avg Continuation
+
+### VOLUME STATS
+------------------  ---------  -----------------------  -------------
+Curr Vol            5,630,787  Time Adj Curr Vol        13,898,459.89
+Curr RVOL           91.85      Time Adj RVOL            226.72
+Curr Vol Rank       1          Time Adj Vol Rank        1
+Float Rotation      0.42       Time Adj Float Rotation  1.03
+
+### SHARE STATS
+-------------------------  ----------  ----------------------  ---------
+Market Cap                 7,959,549
+Shares Outstanding         18,238,980
+Float                      13,524,159
+Short Float                0.01
+Short Interest             109,995     Report Date             2020-MayB
+Prev Month Short Interest  116,300     Prev Month Report Date
+
+### FINANCIALS
+----------------  ---------
+CASTI             119,667
+Cash              119,667
+ST Debt           2,230,000
+LT Debt
+
+### NEWS HEADLINES
+['2020-06-08 08:32:42', 'Sino-Global Signs Two Year General Agency Service Agreement; Expected To Add Approximately $12M In Revenue Annually', 'https://www.benzinga.com/news/20/06/16200518/sino-global-signs-two-year-general-agency-service-agreement-expected-to-add-approximately-12m-in-rev']
+['2020-06-08 08:30:00', 'Sino-Global Signs Two Year General Agency Service Agreement; Expected to Add Approximately $12 Million in Revenue Annually PR Newswire +40.19%', 'https://finance.yahoo.com/news/sino-global-signs-two-general-123000379.html']
+
+
+### ERRORS
+yahoo key stats ['Shares Outstanding', 'Float', 'Short Interest', 'Calculated Short Float', 'Assigned Short Float', 'Report Date', 'Prev Month Short Interest', 'Prev Month Report Date']
