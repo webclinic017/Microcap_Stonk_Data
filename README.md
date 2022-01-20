@@ -1,5 +1,5 @@
 # Microcap_Stonk_Data
-##Usage
+## Usage
 This is meant to be used on an intraday basis for day trading microcap stocks experiencing abnormal volatility (>20% intraday). This is extremely helpful when 
 decisions need to be made as quickly as possible and theres no time to go sifting through multiple different websites for contradicting/absent data. 
 The program gets, processes, scores, and records various data from various sources for the purpose of facilitating intraday trading for microcap stocks
